@@ -1,0 +1,60 @@
+PRISMA FLOW AUDIT
+===========================================================================
+Primary candidate universe: 483
+
+SCREENING
+---------------------------------------------------------------------------
+Primary candidates: 483
+
+META_ELIGIBILITY
+---------------------------------------------------------------------------
+META_HIGH: 330
+META_POSSIBLE: 111
+REVIEW_ONLY: 42
+
+FULLTEXT
+---------------------------------------------------------------------------
+In fulltext extraction log: 151
+Not in fulltext extraction log: 332
+
+EXPERIMENTAL
+---------------------------------------------------------------------------
+NO_FULLTEXT_RECORD: 332
+EXTRACT_POSSIBLE: 87
+EXTRACT_HIGH: 61
+MANUAL_CHECK: 3
+
+NUMERIC
+---------------------------------------------------------------------------
+NUMERIC_HIGH: 60
+
+SCOPE
+---------------------------------------------------------------------------
+NOT_SCOPE_AUDITED: 422
+INCLUDE: 58
+REVIEW: 2
+EXCLUDE_AUTO: 1
+
+QUANTITATIVE
+---------------------------------------------------------------------------
+Studies in mortality meta dataset: 9
+
+FINAL_PATH
+---------------------------------------------------------------------------
+NO_FULLTEXT_IN_EXTRACTION_LOG: 332
+FULLTEXT_EXTRACT_POSSIBLE: 87
+SCOPE_INCLUDE_NOT_MORTALITY_META: 48
+INCLUDED_MORTALITY_META: 9
+FULLTEXT_MANUAL_CHECK: 3
+SCOPE_REVIEW: 2
+EXTRACT_HIGH_NOT_NUMERIC_HIGH: 1
+SCOPE_EXCLUDE_AUTO: 1
+
+CONSISTENCY CHECKS
+---------------------------------------------------------------------------
+No structural inconsistencies detected.
+
+IMPORTANT
+---------------------------------------------------------------------------
+NO_FULLTEXT_IN_EXTRACTION_LOG means only that the record does not occur in the full-text extraction log. It must not automatically be reported as 'full text unavailable' without verification of the preceding workflow.
+Internal analytical units such as tables, treatment arms, comparisons, doses and mortality observations are not PRISMA study counts.

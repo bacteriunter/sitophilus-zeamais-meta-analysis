@@ -1,0 +1,34 @@
+species_material,plant_part,preparation,intervention_class,n_observations,n_studies,mortality_min,mortality_median,mortality_mean,mortality_max,min_time_h,max_time_h
+Azadirachta indica,NR,NR,botanical,3,1,97.37,100.0,99.12333333333333,100.0,336.0,336.0
+Coleus amboinicus,leaf,crude extract/contact,botanical,5,1,86.67,100.0,97.334,100.0,120.0,120.0
+Coleus amboinicus,leaf,extract/fumigation,botanical,5,1,100.0,100.0,100.0,100.0,96.0,96.0
+Coleus amboinicus,leaf,powder/fumigation,botanical,5,1,63.33,100.0,89.332,100.0,96.0,96.0
+Coleus amboinicus,stem,crude extract/contact,botanical,5,1,76.67,100.0,94.0,100.0,120.0,120.0
+Hymenocardia acida + Azadirachta indica,NR,mixture,botanical/natural material mixture,3,1,86.4,100.0,95.46666666666665,100.0,336.0,336.0
+Lippia lanceolata + Azadirachta indica,NR,mixture,botanical mixture,3,1,83.37,100.0,94.45666666666666,100.0,336.0,336.0
+Syzygium aromaticum,NR,powder,botanical,6,1,90.0,95.0,94.33333333333333,100.0,96.0,96.0
+Coleus amboinicus,root,crude extract/contact,botanical,5,1,66.67,90.0,87.334,100.0,120.0,120.0
+Ocimum gratissimum,NR,powder,botanical,5,1,68.67,87.0,86.8,100.0,72.0,72.0
+Coleus amboinicus,leaf,powder,botanical,5,1,56.67,76.67,79.334,100.0,120.0,120.0
+Coleus amboinicus,stem,powder,botanical,5,1,46.67,70.0,72.668,100.0,120.0,120.0
+Hymenocardia acida,NR,NR,natural material,3,1,74.08,97.22,89.94333333333333,98.53,336.0,336.0
+Lippia lanceolata,NR,NR,botanical,3,1,42.61,97.22,79.04333333333334,97.3,336.0,336.0
+Hymenocardia acida,NR,ash,natural material,4,1,69.08,86.62,84.245,94.66,336.0,336.0
+Plectranthus glandulosus + Hymenocardia acida,NR,mixture,botanical/natural material mixture,12,1,56.07,80.88499999999999,77.57166666666667,94.59,336.0,336.0
+Coleus amboinicus,root,powder,botanical,5,1,40.0,60.0,62.0,86.67,120.0,120.0
+NA,NR,ash,natural material,3,1,70.0,80.0,78.75,86.25,168.0,168.0
+Plectranthus glandulosus,NR,powder,botanical,4,1,10.0,52.5,49.5,83.0,336.0,336.0
+Tithonia diversifolia,NR,n-hexane extract,botanical,5,1,16.67,46.67,44.001999999999995,76.67,336.0,336.0
+Tithonia diversifolia,NR,methanolic extract,botanical,5,1,10.0,43.33,39.998000000000005,73.33,336.0,336.0
+Coleus amboinicus,stem,powder/fumigation,botanical,5,1,40.0,60.0,56.0,66.67,96.0,96.0
+Coleus amboinicus,stem,extract/fumigation,botanical,5,1,50.0,56.67,58.0,66.67,96.0,96.0
+Coleus amboinicus,root,powder/fumigation,botanical,5,1,30.0,53.33,49.334,60.0,96.0,96.0
+Coleus amboinicus,root,extract/fumigation,botanical,5,1,43.33,50.0,50.666,60.0,96.0,96.0
+Plectranthus glandulosus,NR,NR,botanical,4,1,19.54,37.075,37.7325,57.24,336.0,336.0
+Tithonia diversifolia,NR,ethanolic extract,botanical,5,1,10.0,20.0,25.334,46.67,336.0,336.0
+Tithonia diversifolia,NR,aqueous extract,botanical,5,1,10.0,23.33,24.663999999999998,43.33,336.0,336.0
+Azadirachta indica,NR,powder,botanical,4,1,13.0,24.5,25.0,38.0,336.0,336.0
+Wedelia trilobata,NR,essential oil fumigation,botanical,5,1,0.0,2.5,4.0,12.5,24.0,24.0
+Wedelia trilobata,NR,powder,botanical,4,1,0.0,2.5,3.125,7.5,288.0,288.0
+Annona senegalensis,NR,powder,botanical,4,1,3.0,4.0,4.5,7.0,336.0,336.0
+Steganotaenia araliacea,NR,powder,botanical,4,1,2.0,4.0,3.75,5.0,336.0,336.0

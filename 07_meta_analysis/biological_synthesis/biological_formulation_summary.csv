@@ -1,0 +1,34 @@
+species_material,plant_part,preparation,dose_unit,n_observations,n_studies,dose_min,dose_max,time_min_h,time_max_h,mortality_min,mortality_median,mortality_max
+Annona senegalensis,NR,powder,g/kg,4,1,5.0,40.0,336.0,336.0,3.0,4.0,7.0
+Azadirachta indica,NR,powder,g/kg,4,1,5.0,40.0,336.0,336.0,13.0,24.5,38.0
+Azadirachta indica,seed,neem seed oil,ml/kg,3,1,2.0,6.0,336.0,336.0,97.37,100.0,100.0
+Coleus amboinicus,leaf,crude extract/contact,ml,5,1,0.1,1.5,120.0,120.0,86.67,100.0,100.0
+Coleus amboinicus,leaf,extract/fumigation,ml,5,1,0.1,1.5,96.0,96.0,100.0,100.0,100.0
+Coleus amboinicus,leaf,powder,g,5,1,0.1,1.5,120.0,120.0,56.67,76.67,100.0
+Coleus amboinicus,leaf,powder/fumigation,g,5,1,0.1,1.5,96.0,96.0,63.33,100.0,100.0
+Coleus amboinicus,root,crude extract/contact,ml,5,1,0.1,1.5,120.0,120.0,66.67,90.0,100.0
+Coleus amboinicus,root,extract/fumigation,ml,5,1,0.1,1.5,96.0,96.0,43.33,50.0,60.0
+Coleus amboinicus,root,powder,g,5,1,0.1,1.5,120.0,120.0,40.0,60.0,86.67
+Coleus amboinicus,root,powder/fumigation,g,5,1,0.1,1.5,96.0,96.0,30.0,53.33,60.0
+Coleus amboinicus,stem,crude extract/contact,ml,5,1,0.1,1.5,120.0,120.0,76.67,100.0,100.0
+Coleus amboinicus,stem,extract/fumigation,ml,5,1,0.1,1.5,96.0,96.0,50.0,56.67,66.67
+Coleus amboinicus,stem,powder,g,5,1,0.1,1.5,120.0,120.0,46.67,70.0,100.0
+Coleus amboinicus,stem,powder/fumigation,g,5,1,0.1,1.5,96.0,96.0,40.0,60.0,66.67
+Cow horn ash,not applicable,ash,g/100g,3,1,2.0,6.0,168.0,168.0,70.0,80.0,86.25
+Hymenocardia acida,NR,ash,g/kg,4,1,5.0,40.0,336.0,336.0,69.08,86.62,94.66
+Hymenocardia acida,wood,ash,g/kg,3,1,0.4,40.0,336.0,336.0,74.08,97.22,98.53
+Hymenocardia acida + Azadirachta indica,NR,mixture,g/kg,3,1,0.4,40.0,336.0,336.0,86.4,100.0,100.0
+Lippia lanceolata,wood,ash,g/kg,3,1,0.4,40.0,336.0,336.0,42.61,97.22,97.3
+Lippia lanceolata + Azadirachta indica,NR,mixture,g/kg,3,1,0.4,40.0,336.0,336.0,83.37,100.0,100.0
+Ocimum gratissimum,NR,powder,g/20g grain,5,1,1.0,5.0,72.0,72.0,68.67,87.0,100.0
+Plectranthus glandulosus,NR,powder,g/kg,4,1,5.0,40.0,336.0,336.0,10.0,52.5,83.0
+Plectranthus glandulosus,leaf,powder,g/kg,4,1,5.0,40.0,336.0,336.0,19.54,37.075,57.24
+Plectranthus glandulosus + Hymenocardia acida,NR,mixture,g/kg,12,1,5.0,40.0,336.0,336.0,56.07,80.88499999999999,94.59
+Steganotaenia araliacea,NR,powder,g/kg,4,1,5.0,40.0,336.0,336.0,2.0,4.0,5.0
+Syzygium aromaticum,NR,powder,% w/w,6,1,1.0,2.0,96.0,96.0,90.0,95.0,100.0
+Tithonia diversifolia,NR,aqueous extract,ml,5,1,0.05,0.8,336.0,336.0,10.0,23.33,43.33
+Tithonia diversifolia,NR,ethanolic extract,ml,5,1,0.05,0.8,336.0,336.0,10.0,20.0,46.67
+Tithonia diversifolia,NR,methanolic extract,ml,5,1,0.05,0.8,336.0,336.0,10.0,43.33,73.33
+Tithonia diversifolia,NR,n-hexane extract,ml,5,1,0.05,0.8,336.0,336.0,16.67,46.67,76.67
+Wedelia trilobata,NR,essential oil fumigation,uL/L air,5,1,50.0,250.0,24.0,24.0,0.0,2.5,12.5
+Wedelia trilobata,NR,powder,g/kg,4,1,20.0,80.0,288.0,288.0,0.0,2.5,7.5

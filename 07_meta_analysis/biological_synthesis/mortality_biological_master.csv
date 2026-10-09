@@ -1,0 +1,155 @@
+study_record_id,experiment_id,treatment,species_material,material,plant_part,preparation,intervention_class,dose,dose_unit,time_h,treatment_mean,control_mean,mortality_basis
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,Hymenocardia acida wood ash,Hymenocardia acida,wood ash,NR,ash,natural material,5.0,g/kg,336.0,69.08,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,Hymenocardia acida wood ash,Hymenocardia acida,wood ash,NR,ash,natural material,10.0,g/kg,336.0,82.6,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,Hymenocardia acida wood ash,Hymenocardia acida,wood ash,NR,ash,natural material,20.0,g/kg,336.0,90.64,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,Hymenocardia acida wood ash,Hymenocardia acida,wood ash,NR,ash,natural material,40.0,g/kg,336.0,94.66,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,Plectranthus glandulosus,Plectranthus glandulosus,leaf powder,leaf,powder,botanical,5.0,g/kg,336.0,19.54,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,Plectranthus glandulosus,Plectranthus glandulosus,leaf powder,leaf,powder,botanical,10.0,g/kg,336.0,33.82,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,Plectranthus glandulosus,Plectranthus glandulosus,leaf powder,leaf,powder,botanical,20.0,g/kg,336.0,40.33,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,Plectranthus glandulosus,Plectranthus glandulosus,leaf powder,leaf,powder,botanical,40.0,g/kg,336.0,57.24,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,25PG75HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,5.0,g/kg,336.0,68.13,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,50PG50HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,5.0,g/kg,336.0,63.16,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,75PG25HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,5.0,g/kg,336.0,56.07,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,25PG75HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,10.0,g/kg,336.0,82.09,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,50PG50HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,10.0,g/kg,336.0,80.92,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,75PG25HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,10.0,g/kg,336.0,66.89,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,25PG75HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,20.0,g/kg,336.0,93.13,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,50PG50HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,20.0,g/kg,336.0,82.17,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,75PG25HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,20.0,g/kg,336.0,72.44,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,25PG75HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,40.0,g/kg,336.0,94.59,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,50PG50HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,40.0,g/kg,336.0,90.42,0.0,RAW
+SZ_00071,SZ_00071_T4_PERCENT_MORTALITY_336h,75PG25HA,Plectranthus glandulosus + Hymenocardia acida,plant material + wood ash,NR,mixture,botanical/natural material mixture,40.0,g/kg,336.0,80.85,0.0,RAW
+SZ_00124,SZ_00124_T1_PERCENT_MORTALITY_168h,Cow Horn Ash,Cow horn ash,cow horn ash,not applicable,ash,natural material,2.0,g/100g,168.0,70.0,0.0,RAW
+SZ_00124,SZ_00124_T1_PERCENT_MORTALITY_168h,Cow Horn Ash,Cow horn ash,cow horn ash,not applicable,ash,natural material,4.0,g/100g,168.0,80.0,0.0,RAW
+SZ_00124,SZ_00124_T1_PERCENT_MORTALITY_168h,Cow Horn Ash,Cow horn ash,cow horn ash,not applicable,ash,natural material,6.0,g/100g,168.0,86.25,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Aqueous,Tithonia diversifolia,plant extract,NR,aqueous extract,botanical,0.05,ml,336.0,10.0,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Aqueous,Tithonia diversifolia,plant extract,NR,aqueous extract,botanical,0.1,ml,336.0,13.33,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Aqueous,Tithonia diversifolia,plant extract,NR,aqueous extract,botanical,0.2,ml,336.0,23.33,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Aqueous,Tithonia diversifolia,plant extract,NR,aqueous extract,botanical,0.4,ml,336.0,33.33,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Aqueous,Tithonia diversifolia,plant extract,NR,aqueous extract,botanical,0.8,ml,336.0,43.33,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Ethanol,Tithonia diversifolia,plant extract,NR,ethanolic extract,botanical,0.05,ml,336.0,10.0,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Ethanol,Tithonia diversifolia,plant extract,NR,ethanolic extract,botanical,0.1,ml,336.0,13.33,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Ethanol,Tithonia diversifolia,plant extract,NR,ethanolic extract,botanical,0.2,ml,336.0,20.0,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Ethanol,Tithonia diversifolia,plant extract,NR,ethanolic extract,botanical,0.4,ml,336.0,36.67,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Ethanol,Tithonia diversifolia,plant extract,NR,ethanolic extract,botanical,0.8,ml,336.0,46.67,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Methanol,Tithonia diversifolia,plant extract,NR,methanolic extract,botanical,0.05,ml,336.0,10.0,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Methanol,Tithonia diversifolia,plant extract,NR,methanolic extract,botanical,0.1,ml,336.0,23.33,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Methanol,Tithonia diversifolia,plant extract,NR,methanolic extract,botanical,0.2,ml,336.0,43.33,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Methanol,Tithonia diversifolia,plant extract,NR,methanolic extract,botanical,0.4,ml,336.0,50.0,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - Methanol,Tithonia diversifolia,plant extract,NR,methanolic extract,botanical,0.8,ml,336.0,73.33,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - N-Hexene,Tithonia diversifolia,plant extract,NR,n-hexane extract,botanical,0.05,ml,336.0,16.67,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - N-Hexene,Tithonia diversifolia,plant extract,NR,n-hexane extract,botanical,0.1,ml,336.0,26.67,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - N-Hexene,Tithonia diversifolia,plant extract,NR,n-hexane extract,botanical,0.2,ml,336.0,46.67,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - N-Hexene,Tithonia diversifolia,plant extract,NR,n-hexane extract,botanical,0.4,ml,336.0,53.33,0.0,RAW
+SZ_00288,SZ_00288_T3_PERCENT_MORTALITY_336h,Tithonia diversifolia - N-Hexene,Tithonia diversifolia,plant extract,NR,n-hexane extract,botanical,0.8,ml,336.0,76.67,0.0,RAW
+SZ_00401,SZ_00401_T1_RESISTANT_PERCENT_MORTALITY_96h,Syzygium aromaticum powder - Resistant maize,Syzygium aromaticum,plant powder,NR,powder,botanical,1.0,% w/w,96.0,91.0,0.0,RAW
+SZ_00401,SZ_00401_T1_MODERATELY_RESISTANT_PERCENT_MORTALITY_96h,Syzygium aromaticum powder - Moderately-resistant maize,Syzygium aromaticum,plant powder,NR,powder,botanical,1.0,% w/w,96.0,90.0,0.0,RAW
+SZ_00401,SZ_00401_T1_RESISTANT_PERCENT_MORTALITY_96h,Syzygium aromaticum powder - Resistant maize,Syzygium aromaticum,plant powder,NR,powder,botanical,1.5,% w/w,96.0,95.0,0.0,RAW
+SZ_00401,SZ_00401_T1_MODERATELY_RESISTANT_PERCENT_MORTALITY_96h,Syzygium aromaticum powder - Moderately-resistant maize,Syzygium aromaticum,plant powder,NR,powder,botanical,1.5,% w/w,96.0,95.0,0.0,RAW
+SZ_00401,SZ_00401_T1_RESISTANT_PERCENT_MORTALITY_96h,Syzygium aromaticum powder - Resistant maize,Syzygium aromaticum,plant powder,NR,powder,botanical,2.0,% w/w,96.0,100.0,0.0,RAW
+SZ_00401,SZ_00401_T1_MODERATELY_RESISTANT_PERCENT_MORTALITY_96h,Syzygium aromaticum powder - Moderately-resistant maize,Syzygium aromaticum,plant powder,NR,powder,botanical,2.0,% w/w,96.0,95.0,0.0,RAW
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,A. indica,Azadirachta indica,seed oil,seed,neem seed oil,botanical,2.0,ml/kg,336.0,97.37,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,A. indica,Azadirachta indica,seed oil,seed,neem seed oil,botanical,4.0,ml/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,A. indica,Azadirachta indica,seed oil,seed,neem seed oil,botanical,6.0,ml/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,H. acida,Hymenocardia acida,wood ash,wood,ash,natural material,0.4,g/kg,336.0,74.08,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,H. acida,Hymenocardia acida,wood ash,wood,ash,natural material,20.0,g/kg,336.0,97.22,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,H. acida,Hymenocardia acida,wood ash,wood,ash,natural material,40.0,g/kg,336.0,98.53,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,H. acida + A. indica,Hymenocardia acida + Azadirachta indica,plant-derived mixture,NR,mixture,botanical/natural material mixture,0.4,g/kg,336.0,86.4,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,H. acida + A. indica,Hymenocardia acida + Azadirachta indica,plant-derived mixture,NR,mixture,botanical/natural material mixture,20.0,g/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,H. acida + A. indica,Hymenocardia acida + Azadirachta indica,plant-derived mixture,NR,mixture,botanical/natural material mixture,40.0,g/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,L. lanceolata,Lippia lanceolata,wood ash,wood,ash,botanical,0.4,g/kg,336.0,42.61,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,L. lanceolata,Lippia lanceolata,wood ash,wood,ash,botanical,20.0,g/kg,336.0,97.22,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,L. lanceolata,Lippia lanceolata,wood ash,wood,ash,botanical,40.0,g/kg,336.0,97.3,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,L. lanceolata + A. indica,Lippia lanceolata + Azadirachta indica,plant mixture,NR,mixture,botanical mixture,0.4,g/kg,336.0,83.37,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,L. lanceolata + A. indica,Lippia lanceolata + Azadirachta indica,plant mixture,NR,mixture,botanical mixture,20.0,g/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,SZ_00424_T2_PERCENT_MORTALITY_336h,L. lanceolata + A. indica,Lippia lanceolata + Azadirachta indica,plant mixture,NR,mixture,botanical mixture,40.0,g/kg,336.0,100.0,0.0,CORRECTED
+SZ_00549,SZ_00549_T4_PERCENT_MORTALITY_24h,Wedelia trilobata essential oil,Wedelia trilobata,essential oil,NR,essential oil fumigation,botanical,50.0,uL/L air,24.0,0.0,0.0,RAW
+SZ_00549,SZ_00549_T4_PERCENT_MORTALITY_24h,Wedelia trilobata essential oil,Wedelia trilobata,essential oil,NR,essential oil fumigation,botanical,100.0,uL/L air,24.0,0.0,0.0,RAW
+SZ_00549,SZ_00549_T4_PERCENT_MORTALITY_24h,Wedelia trilobata essential oil,Wedelia trilobata,essential oil,NR,essential oil fumigation,botanical,150.0,uL/L air,24.0,2.5,0.0,RAW
+SZ_00549,SZ_00549_T4_PERCENT_MORTALITY_24h,Wedelia trilobata essential oil,Wedelia trilobata,essential oil,NR,essential oil fumigation,botanical,200.0,uL/L air,24.0,5.0,0.0,RAW
+SZ_00549,SZ_00549_T4_PERCENT_MORTALITY_24h,Wedelia trilobata essential oil,Wedelia trilobata,essential oil,NR,essential oil fumigation,botanical,250.0,uL/L air,24.0,12.5,0.0,RAW
+SZ_00549,SZ_00549_T2_PERCENT_MORTALITY_288h,Wedelia trilobata powder,Wedelia trilobata,plant powder,NR,powder,botanical,20.0,g/kg,288.0,0.0,0.0,RAW
+SZ_00549,SZ_00549_T2_PERCENT_MORTALITY_288h,Wedelia trilobata powder,Wedelia trilobata,plant powder,NR,powder,botanical,40.0,g/kg,288.0,2.5,0.0,RAW
+SZ_00549,SZ_00549_T2_PERCENT_MORTALITY_288h,Wedelia trilobata powder,Wedelia trilobata,plant powder,NR,powder,botanical,60.0,g/kg,288.0,2.5,0.0,RAW
+SZ_00549,SZ_00549_T2_PERCENT_MORTALITY_288h,Wedelia trilobata powder,Wedelia trilobata,plant powder,NR,powder,botanical,80.0,g/kg,288.0,7.5,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,crude extract/contact,botanical,0.1,ml,120.0,86.67,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,crude extract/contact,botanical,0.1,ml,120.0,76.67,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,crude extract/contact,botanical,0.1,ml,120.0,66.67,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,crude extract/contact,botanical,0.3,ml,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,crude extract/contact,botanical,0.3,ml,120.0,93.33,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,crude extract/contact,botanical,0.3,ml,120.0,80.0,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,crude extract/contact,botanical,0.6,ml,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,crude extract/contact,botanical,0.6,ml,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,crude extract/contact,botanical,0.6,ml,120.0,90.0,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,crude extract/contact,botanical,0.9,ml,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,crude extract/contact,botanical,0.9,ml,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,crude extract/contact,botanical,0.9,ml,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,crude extract/contact,botanical,1.5,ml,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,crude extract/contact,botanical,1.5,ml,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T3_PERCENT_MORTALITY_120h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,crude extract/contact,botanical,1.5,ml,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,extract/fumigation,botanical,0.1,ml,96.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,extract/fumigation,botanical,0.1,ml,96.0,50.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,extract/fumigation,botanical,0.1,ml,96.0,43.33,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,extract/fumigation,botanical,0.3,ml,96.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,extract/fumigation,botanical,0.3,ml,96.0,53.33,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,extract/fumigation,botanical,0.3,ml,96.0,46.67,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,extract/fumigation,botanical,0.6,ml,96.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,extract/fumigation,botanical,0.6,ml,96.0,56.67,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,extract/fumigation,botanical,0.6,ml,96.0,50.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,extract/fumigation,botanical,0.9,ml,96.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,extract/fumigation,botanical,0.9,ml,96.0,63.33,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,extract/fumigation,botanical,0.9,ml,96.0,53.33,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,extract/fumigation,botanical,1.5,ml,96.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,extract/fumigation,botanical,1.5,ml,96.0,66.67,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,extract/fumigation,botanical,1.5,ml,96.0,60.0,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,powder,botanical,0.1,g,120.0,56.67,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,powder,botanical,0.1,g,120.0,46.67,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,powder,botanical,0.1,g,120.0,40.0,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,powder,botanical,0.3,g,120.0,63.33,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,powder,botanical,0.3,g,120.0,56.67,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,powder,botanical,0.3,g,120.0,50.0,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,powder,botanical,0.6,g,120.0,76.67,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,powder,botanical,0.6,g,120.0,70.0,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,powder,botanical,0.6,g,120.0,60.0,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,powder,botanical,0.9,g,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,powder,botanical,0.9,g,120.0,90.0,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,powder,botanical,0.9,g,120.0,73.33,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,powder,botanical,1.5,g,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,powder,botanical,1.5,g,120.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T1_PERCENT_MORTALITY_120h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,powder,botanical,1.5,g,120.0,86.67,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,powder/fumigation,botanical,0.1,g,96.0,63.33,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,powder/fumigation,botanical,0.1,g,96.0,40.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,powder/fumigation,botanical,0.1,g,96.0,30.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,powder/fumigation,botanical,0.3,g,96.0,83.33,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,powder/fumigation,botanical,0.3,g,96.0,50.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,powder/fumigation,botanical,0.3,g,96.0,46.67,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,powder/fumigation,botanical,0.6,g,96.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,powder/fumigation,botanical,0.6,g,96.0,60.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,powder/fumigation,botanical,0.6,g,96.0,53.33,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,powder/fumigation,botanical,0.9,g,96.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,powder/fumigation,botanical,0.9,g,96.0,63.33,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,powder/fumigation,botanical,0.9,g,96.0,56.67,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Leaf,Coleus amboinicus,plant material,leaf,powder/fumigation,botanical,1.5,g,96.0,100.0,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Stem,Coleus amboinicus,plant material,stem,powder/fumigation,botanical,1.5,g,96.0,66.67,0.0,RAW
+SZ_00600,SZ_00600_T5_PERCENT_MORTALITY_96h,Coleus amboinicus Root,Coleus amboinicus,plant material,root,powder/fumigation,botanical,1.5,g,96.0,60.0,0.0,RAW
+SZ_00668,SZ_00668_T3_PERCENT_MORTALITY_72h,Ocimum gratissimum powder,Ocimum gratissimum,plant powder,NR,powder,botanical,1.0,g/20g grain,72.0,68.67,0.0,RAW
+SZ_00668,SZ_00668_T3_PERCENT_MORTALITY_72h,Ocimum gratissimum powder,Ocimum gratissimum,plant powder,NR,powder,botanical,2.0,g/20g grain,72.0,79.33,0.0,RAW
+SZ_00668,SZ_00668_T3_PERCENT_MORTALITY_72h,Ocimum gratissimum powder,Ocimum gratissimum,plant powder,NR,powder,botanical,3.0,g/20g grain,72.0,87.0,0.0,RAW
+SZ_00668,SZ_00668_T3_PERCENT_MORTALITY_72h,Ocimum gratissimum powder,Ocimum gratissimum,plant powder,NR,powder,botanical,4.0,g/20g grain,72.0,99.0,0.0,RAW
+SZ_00668,SZ_00668_T3_PERCENT_MORTALITY_72h,Ocimum gratissimum powder,Ocimum gratissimum,plant powder,NR,powder,botanical,5.0,g/20g grain,72.0,100.0,0.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Annona senegalensis,Annona senegalensis,plant powder,NR,powder,botanical,5.0,g/kg,336.0,3.0,0.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Annona senegalensis,Annona senegalensis,plant powder,NR,powder,botanical,10.0,g/kg,336.0,3.0,0.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Annona senegalensis,Annona senegalensis,plant powder,NR,powder,botanical,20.0,g/kg,336.0,5.0,0.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Annona senegalensis,Annona senegalensis,plant powder,NR,powder,botanical,40.0,g/kg,336.0,7.0,0.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Azadirachta indica,Azadirachta indica,plant-derived material,NR,powder,botanical,5.0,g/kg,336.0,13.0,2.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Azadirachta indica,Azadirachta indica,plant-derived material,NR,powder,botanical,10.0,g/kg,336.0,22.0,2.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Azadirachta indica,Azadirachta indica,plant-derived material,NR,powder,botanical,20.0,g/kg,336.0,27.0,2.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Azadirachta indica,Azadirachta indica,plant-derived material,NR,powder,botanical,40.0,g/kg,336.0,38.0,2.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Plectranthus glandulosus,Plectranthus glandulosus,plant material,NR,powder,botanical,5.0,g/kg,336.0,10.0,2.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Plectranthus glandulosus,Plectranthus glandulosus,plant material,NR,powder,botanical,10.0,g/kg,336.0,40.0,2.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Plectranthus glandulosus,Plectranthus glandulosus,plant material,NR,powder,botanical,20.0,g/kg,336.0,65.0,2.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Plectranthus glandulosus,Plectranthus glandulosus,plant material,NR,powder,botanical,40.0,g/kg,336.0,83.0,2.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Steganotaenia araliacea,Steganotaenia araliacea,plant powder,NR,powder,botanical,5.0,g/kg,336.0,2.0,0.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Steganotaenia araliacea,Steganotaenia araliacea,plant powder,NR,powder,botanical,10.0,g/kg,336.0,3.0,0.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Steganotaenia araliacea,Steganotaenia araliacea,plant powder,NR,powder,botanical,20.0,g/kg,336.0,5.0,0.0,RAW
+SZ_00802,SZ_00802_T1_PERCENT_MORTALITY_336h,Steganotaenia araliacea,Steganotaenia araliacea,plant powder,NR,powder,botanical,40.0,g/kg,336.0,5.0,0.0,RAW

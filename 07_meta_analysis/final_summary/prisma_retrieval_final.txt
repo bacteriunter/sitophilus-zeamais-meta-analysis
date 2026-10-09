@@ -1,0 +1,21 @@
+FINAL PRISMA RETRIEVAL AUDIT
+===========================================================================
+Reports sought for retrieval: 441
+Reports retrieved (file/process evidence): 151
+Reports not retrieved: 290
+Technical/unresolved states: 0
+
+REPORT_RETRIEVED_PROCESSED: 151 (34.24%)
+REPORT_NOT_RETRIEVED_NO_OA: 101 (22.9%)
+REPORT_NOT_RETRIEVED_NO_DOI: 88 (19.95%)
+REPORT_NOT_RETRIEVED_LANDING_ONLY: 52 (11.79%)
+REPORT_NOT_RETRIEVED_DIRECT_PDF_FAILED: 49 (11.11%)
+
+CONSISTENCY CHECKS
+---------------------------------------------------------------------------
+No structural inconsistencies detected.
+
+NOTE
+---------------------------------------------------------------------------
+The 42 REVIEW_ONLY records were not part of the 441 reports assessed for automated full-text availability.
+Retrieval status is based on the archived availability assessment, download log, physical PDF/XML files, and full-text extraction log.

@@ -1,0 +1,48 @@
+study_record_id,species_material,plant_part,preparation,dose,dose_unit,time_h,treatment_mean,control_mean,mortality_basis
+SZ_00668,Ocimum gratissimum,NR,powder,5.0,g/20g grain,72.0,100.0,0.0,RAW
+SZ_00668,Ocimum gratissimum,NR,powder,4.0,g/20g grain,72.0,99.0,0.0,RAW
+SZ_00401,Syzygium aromaticum,NR,powder,2.0,% w/w,96.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,extract/fumigation,0.1,ml,96.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,extract/fumigation,0.3,ml,96.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,extract/fumigation,0.6,ml,96.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,extract/fumigation,0.9,ml,96.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,extract/fumigation,1.5,ml,96.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,powder/fumigation,0.6,g,96.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,powder/fumigation,0.9,g,96.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,powder/fumigation,1.5,g,96.0,100.0,0.0,RAW
+SZ_00401,Syzygium aromaticum,NR,powder,1.5,% w/w,96.0,95.0,0.0,RAW
+SZ_00401,Syzygium aromaticum,NR,powder,1.5,% w/w,96.0,95.0,0.0,RAW
+SZ_00401,Syzygium aromaticum,NR,powder,2.0,% w/w,96.0,95.0,0.0,RAW
+SZ_00401,Syzygium aromaticum,NR,powder,1.0,% w/w,96.0,91.0,0.0,RAW
+SZ_00401,Syzygium aromaticum,NR,powder,1.0,% w/w,96.0,90.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,crude extract/contact,0.3,ml,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,crude extract/contact,0.6,ml,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,stem,crude extract/contact,0.6,ml,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,crude extract/contact,0.9,ml,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,stem,crude extract/contact,0.9,ml,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,root,crude extract/contact,0.9,ml,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,crude extract/contact,1.5,ml,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,stem,crude extract/contact,1.5,ml,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,root,crude extract/contact,1.5,ml,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,powder,0.9,g,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,leaf,powder,1.5,g,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,stem,powder,1.5,g,120.0,100.0,0.0,RAW
+SZ_00600,Coleus amboinicus,stem,crude extract/contact,0.3,ml,120.0,93.33,0.0,RAW
+SZ_00600,Coleus amboinicus,root,crude extract/contact,0.6,ml,120.0,90.0,0.0,RAW
+SZ_00600,Coleus amboinicus,stem,powder,0.9,g,120.0,90.0,0.0,RAW
+SZ_00424,Azadirachta indica,seed,neem seed oil,4.0,ml/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,Azadirachta indica,seed,neem seed oil,6.0,ml/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,Hymenocardia acida + Azadirachta indica,NR,mixture,20.0,g/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,Hymenocardia acida + Azadirachta indica,NR,mixture,40.0,g/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,Lippia lanceolata + Azadirachta indica,NR,mixture,20.0,g/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,Lippia lanceolata + Azadirachta indica,NR,mixture,40.0,g/kg,336.0,100.0,0.0,CORRECTED
+SZ_00424,Hymenocardia acida,wood,ash,40.0,g/kg,336.0,98.53,0.0,CORRECTED
+SZ_00424,Azadirachta indica,seed,neem seed oil,2.0,ml/kg,336.0,97.37,0.0,CORRECTED
+SZ_00424,Lippia lanceolata,wood,ash,40.0,g/kg,336.0,97.3,0.0,CORRECTED
+SZ_00424,Hymenocardia acida,wood,ash,20.0,g/kg,336.0,97.22,0.0,CORRECTED
+SZ_00424,Lippia lanceolata,wood,ash,20.0,g/kg,336.0,97.22,0.0,CORRECTED
+SZ_00071,Hymenocardia acida,NR,ash,40.0,g/kg,336.0,94.66,0.0,RAW
+SZ_00071,Plectranthus glandulosus + Hymenocardia acida,NR,mixture,40.0,g/kg,336.0,94.59,0.0,RAW
+SZ_00071,Plectranthus glandulosus + Hymenocardia acida,NR,mixture,20.0,g/kg,336.0,93.13,0.0,RAW
+SZ_00071,Hymenocardia acida,NR,ash,20.0,g/kg,336.0,90.64,0.0,RAW
+SZ_00071,Plectranthus glandulosus + Hymenocardia acida,NR,mixture,40.0,g/kg,336.0,90.42,0.0,RAW

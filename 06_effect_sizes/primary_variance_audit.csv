@@ -1,0 +1,10 @@
+study_record_id,comparisons,experiments,treatment_dispersion_types,control_dispersion_types,missing_treatment_dispersion,missing_control_dispersion,n_information
+SZ_00071,20,1,SE,SE,0,0,{'total_n': []}
+SZ_00124,3,1,SD,SD,0,0,{'total_n': []}
+SZ_00288,20,1,SE,SE,0,0,{'total_n': []}
+SZ_00401,6,2,SE,SE,0,0,{'total_n': []}
+SZ_00424,15,1,SE,SE,0,0,{'total_n': []}
+SZ_00549,9,2,SE,SE,0,0,{'total_n': []}
+SZ_00600,60,3,SE,SE,0,0,{'total_n': []}
+SZ_00668,5,1,SD,SD,0,0,{'total_n': [45.0]}
+SZ_00802,16,1,SE,SE,0,0,{'total_n': []}

@@ -1,0 +1,34 @@
+biological_label,n,studies,mortality_min,mortality_median,mortality_max,proportion_ge_90,proportion_ge_75
+Annona senegalensis | powder,4,1,3.0,4.0,7.0,0.0,0.0
+Azadirachta indica | powder,4,1,13.0,24.5,38.0,0.0,0.0
+Azadirachta indica | seed | neem seed oil,3,1,97.37,100.0,100.0,1.0,1.0
+Coleus amboinicus | leaf | crude extract/contact,5,1,86.67,100.0,100.0,0.8,1.0
+Coleus amboinicus | leaf | extract/fumigation,5,1,100.0,100.0,100.0,1.0,1.0
+Coleus amboinicus | leaf | powder,5,1,56.67,76.67,100.0,0.4,0.6
+Coleus amboinicus | leaf | powder/fumigation,5,1,63.33,100.0,100.0,0.6,0.8
+Coleus amboinicus | root | crude extract/contact,5,1,66.67,90.0,100.0,0.6,0.8
+Coleus amboinicus | root | extract/fumigation,5,1,43.33,50.0,60.0,0.0,0.0
+Coleus amboinicus | root | powder,5,1,40.0,60.0,86.67,0.0,0.2
+Coleus amboinicus | root | powder/fumigation,5,1,30.0,53.33,60.0,0.0,0.0
+Coleus amboinicus | stem | crude extract/contact,5,1,76.67,100.0,100.0,0.8,1.0
+Coleus amboinicus | stem | extract/fumigation,5,1,50.0,56.67,66.67,0.0,0.0
+Coleus amboinicus | stem | powder,5,1,46.67,70.0,100.0,0.4,0.4
+Coleus amboinicus | stem | powder/fumigation,5,1,40.0,60.0,66.67,0.0,0.0
+Cow horn ash | not applicable | ash,3,1,70.0,80.0,86.25,0.0,0.6666666666666666
+Hymenocardia acida + Azadirachta indica | mixture,3,1,86.4,100.0,100.0,0.6666666666666666,1.0
+Hymenocardia acida | ash,4,1,69.08,86.62,94.66,0.5,0.75
+Hymenocardia acida | wood | ash,3,1,74.08,97.22,98.53,0.6666666666666666,0.6666666666666666
+Lippia lanceolata + Azadirachta indica | mixture,3,1,83.37,100.0,100.0,0.6666666666666666,1.0
+Lippia lanceolata | wood | ash,3,1,42.61,97.22,97.3,0.6666666666666666,0.6666666666666666
+Ocimum gratissimum | powder,5,1,68.67,87.0,100.0,0.4,0.8
+Plectranthus glandulosus + Hymenocardia acida | mixture,12,1,56.07,80.88499999999999,94.59,0.25,0.5833333333333334
+Plectranthus glandulosus | leaf | powder,4,1,19.54,37.075,57.24,0.0,0.0
+Plectranthus glandulosus | powder,4,1,10.0,52.5,83.0,0.0,0.25
+Steganotaenia araliacea | powder,4,1,2.0,4.0,5.0,0.0,0.0
+Syzygium aromaticum | powder,6,1,90.0,95.0,100.0,1.0,1.0
+Tithonia diversifolia | aqueous extract,5,1,10.0,23.33,43.33,0.0,0.0
+Tithonia diversifolia | ethanolic extract,5,1,10.0,20.0,46.67,0.0,0.0
+Tithonia diversifolia | methanolic extract,5,1,10.0,43.33,73.33,0.0,0.0
+Tithonia diversifolia | n-hexane extract,5,1,16.67,46.67,76.67,0.0,0.2
+Wedelia trilobata | essential oil fumigation,5,1,0.0,2.5,12.5,0.0,0.0
+Wedelia trilobata | powder,4,1,0.0,2.5,7.5,0.0,0.0

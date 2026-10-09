@@ -1,0 +1,1902 @@
+study_record_id,title,table_number,table_heading,n_numeric_values,n_plusminus,n_percent,table_text,text_file,table_quality,selection_status,selection_reason
+SZ_00071,Effectiveness of binary combinations of Plectranthus glandulosus leaf powder and Hymenocardia acida wood ash against Sitophilus zeamais (Coleoptera: Curculionidae),7,Population increase in Sitophilus zeamais and grain damage recorded in stored maize treated with the binary,167,62,1,"Table 7 Population increase in Sitophilus zeamais and grain damage recorded in stored maize treated with the binary
+combinations of wood ash of Hymenocardia acida with leaf powder of Plectranthus glandulosus under fluctuating labora-
+tory conditions (temp. = 22.76 ± 2.02 °C; r.h. = 69.87 ± 9.93%)
+Content (g/kg) 25PG75HA 50PG50HA 75PG25HA 25PG75HA 50PG50HA 75PG25HA
+ Number of lived insects Number of dead insects
+0 240.00 ± 12.25a 240.00 ± 12.25a 240.00 ± 12.25a 50.50 ± 8.53a 50.50 ± 8.53a 50.50 ± 8.53a
+ b b b a a
+5 54.75 ± 25.15 118.50 ± 12.58 170.00 ± 7.07 69.02 ± 7.52 58.00 ± 8.98 63.50 ± 8.41a
+ b bc b a a
+10 36.50 ± 4.56 102.25 ± 2.25 128.25 ± 13.44 69.00 ± 1.35 62.02 ± 2.71 64.75 ± 2.66a
+ b bc c a a
+20 38.75 ± 7.18 89.25 ± 5.75 72.75 ± 2.53 59.12 ± 1.37 75.50 ± 1.50 82.00 ± 12.67a
+ b c c a a
+40 26.50 ± 7.17 68.00 ± 10.00 44.75 ± 11.62 58.50 ± 0.96 71.50 ± 2.50 53.75 ± 5.54a
+ ns ns
+F(4; 15) 45.08*** 51.25*** 58.05*** 2.32 3.02 2.22ns
+ Grain damage Weight loss (%)
+ a a a
+0 49.61 ± 4.54 49.61 ± 4.54 49.61 ± 4.54 12.81 ± 1.49a 12.81 ± 149a 12.81 ± 1.49a
+ b b b b b
+5 21.92 ± 3.59 28.02 ± 1.55 36.81 ± 1.97 3.22 ± 0.82 5.07 ± 1.10 5.87 ± 1.16b
+ b b b b b
+10 18.20 ± 2.54 25.13 ± 1.43 30.41 ± 0.72 3.02 ± 1.36 4.15 ± 0.91 3.85 ± 1.14b
+ b b bc b b
+20 17.25 ± 2.60 20.12 ± 3.01 27.95 ± 0.68 2.94 ± 1.29 3.92 ± 1.00 3.43 ± 0.23b
+ b b c b b
+40 13.56 ± 1.17 17.20 ± 3.27 17.60 ± 2.00 1.54 ± 1.08 3.09 ± 0.67 2.79 ± 0.62b
+F(4; 15) 22.25*** 18.21*** 23.68*** 13.83*** 13.86*** 15.93***
+Mean ± S.E. followed by the same capital letter in a line and the same lower case letter in a column do not differ significantly at P < 0.05 (Tukey’s test)
+ns
+ P > 0.05; *P < 0.05; ***P < 0.0001",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00071.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00071,Effectiveness of binary combinations of Plectranthus glandulosus leaf powder and Hymenocardia acida wood ash against Sitophilus zeamais (Coleoptera: Curculionidae),8,Germination of stored grains treated with binary combinations of Hymenocardia acida wood ash with Plectran-,154,32,14,"Table 8 Germination of stored grains treated with binary combinations of Hymenocardia acida wood ash with Plectran-
+thus glandulosus leaf powder and infested, and non-infested by Sitophilus zeamais under laboratory conditions (temp.:
+22.76 ± 2.02 °C; r.h. = 69.87 ± 9.93%)
+Content (g/kg) Products
+ 25PG75HA 50PG50HA 75PG25HA 25PG75HA 50PG50HA 75PG25HA
+ Non-infested Infested
+0 94.33 ± 1.36a 94.33 ± 1.36a 94.33 ± 1.36a 21.67 ± 2.15d 21.67 ± 2.15d 21.67 ± 2.15c
+ a a a c c
+5 91.08 ± 0.21 90.83 ± 1.50 94.83 ± 1.90 84.67 ± 0.83 81.67 ± 3.19 78.33 ± 0.96b
+ a a a bc bc
+10 92.00 ± 0.79 94.50 ± 1.83 92.83 ± 0.88 88.33 ± 1.67 84.17 ± 2.50 83.33 ± 1.36ab
+ a a a ab a
+20 92.17 ± 0.74 94.17 ± 1.50 93.42 ± 1.64 92.33 ± 0.83 93.33 ± 1.36 86.67 ± 2.36ab
+ a a a a a
+40 91.17 ± 0.32 92.08 ± 0.79 92.20 ± 1.73 97.50 ± 1.60 95.00 ± 1.67 90.00 ± 2.36a
+ ns ns ns
+F(4; 15) 2.72 1.30 0.41 430.01*** 180.43*** 218.78***
+Mean ± S.E. followed by the same capital letter in a line and the same lower case letter in a column do not differ significantly at P < 0.05 (Tukey’s test)
+powder (94.33%), whereas with insect the germination reducing the chance of resistance development on the
+rate was very low (21.67%). other hand [33]. However, with mixtures, negative effects
+ can also occur such as reduced efficacy, phyto-toxicity
+Discussion and incompatibility problems between materials [34].
+The binary mixtures of P. glandulosus leaf powder and The combinations of 75% of P. glandulosus leaf powder
+H. acida wood ash provoked significant mortality of S. and 25% of H. acida on S. zeamais mortality produced
+zeamais. The different binary combinations of these two synergistic effect, whereas combination made up by 50%
+substances produced different effects such as synergism, of P. glandulosus leaf and 50% H. acida wood ash induced
+antagonism and additivity. The combination of insecti- antagonistic effect within 14 days, which produced a sig-
+cidal materials has the advantages to increase efficacy by nificant synergism. In general, the mixtures composed
+complementing the bio-efficacy of the individual prod- by the individual insecticidal materials improved in effi-
+ucts and simultaneously lowering their doses on the cacy. The additive effect was also observed; the effect
+one hand, and broadening the spectrum of activity and of two materials is equal to the sum of each component
+Wini Goudoungou et al. Agric & Food Secur (2018) 7:26 Page 10 of 12
+given alone (1 + 3 = 4), which was observed in the pre- the storage period increased, the efficacy decreased by
+sent study by the combination 25PG75HA (25% P. glan- loss of their volatile compounds which confer its toxic-
+dulosus leaf powder and 75% H. acida wood ash) within ity against insects. Similar findings were reported by
+14 days of exposure. Mwangangi and Mutsiya [39], who showed that the effi-
+ The synergism has been demonstrated in this experi- cacy of Ocimum basilicum Linnaeus (Lamiaceae) powder
+ment by the decreasing ­LC50 values compared to those deteriorated the fastest leading to 80, 77, 44, 20 and 15%
+of single material. The proportions of two products used mortality over 0, 7, 14, 21 and 28 days of storage. Then, to
+in combinations may produce different performances improve effectiveness of ash plant powders combinations
+according to the involved proportions. The combinations and allow components to ensure a good preservation of
+of 75PG25HA and 50PG50HA produced, respectively, grains, it is important to avoid the increase in moisture.
+synergistic and antagonistic effect. The same tendency In many African countries, stored grains provide not
+concerning the variations in efficacy for different pro- only grains for food, but also seeds for planting. Thus, the
+portions of products was observed by Ntonifor et al. conservation of seed viability after the application of pro-
+[35]. They found that the combinations of Syzygium aro- tectant is necessary. During the experiment, in the pres-
+maticum (L.) (Myrtaceae) and Cyperus aequalis (Vahl) ence of weevils, germination rate increased with increase
+(Cyperaceae) at the proportions of 0:2, 0.5:1.5, 1:1, 2:0 in product contents. The untreated maize in the pres-
+(g:g) induced 36.3, 93.8, 98.8, 100% mortality of C. mac- ence of insects recorded the week germination rate. In
+ulatus, respectively, within 3 days of exposure. Shaalan this case, the seed loses their germination ability due to
+et al. [36] found that mixtures of Khaya senegalensis A. the high S. zeamais infestation that lays its eggs on grain.
+Juss (Meliaceae) and Daucus carota Linnaeus (Apiaceae) The larvae develop and feed inside the grain by consum-
+seed extracts were more effective and economical than ing the germ of the seed, thus diminishing the viability of
+phytochemicals alone in controlling Aedes aegypti Lin- the seeds. Usha Rani and Devanand [40] found that seed
+naeus (Diptera: Culicidae) and Culex annulirostris Skuse germination was significantly reduced when untreated
+(Diptera: Culicidae) mosquitoes. maize seeds were exposed to S. oryzae and T. castaneum.
+ The three binary combinations of P. glandulosus leaf But when the maize seeds were stored with combinations
+powder and H. acida wood ash considerably inhibited the of P. glandulosus leaf powder and wood ash without wee-
+production of S. zeamais progeny. In addition to increas- vils, no difference was observed amongst treatments and
+ing mortality, the combinations of these products have an content levels and they conserved significant germination
+effect on the development of S. zeamais. The presence of rate. Higher levels of the products improved their ability
+P. glandulosus leaf powder in combinations may poten- to protect grain, leading to a greater germination capac-
+tiate the effect of ash. There are physical and chemical ity. The different powders did not present any adverse
+actions, which are the desiccation by ash and poisoning effect on maize seed germination. It has been shown that
+by the chemical compounds contained in P. glandulosus the storage of maize seeds for prolonged periods after
+leaf. Mixtures can disturb or delay the development of treatment with various botanical concentrations does not
+larvae in adults. Karso and Al Mallah [37] found that the have any adverse effect on the seed viability.
+mixture of soya oil and Acetamiprid pesticide gave the In the present study, no adverse effect was observed
+highest average mortality of Trogoderma granarium lar- on germination ability. But, some findings reported the
+vae, which varied according to the proportions. inhibiting effect of some plant extracts on seed germi-
+ The combinations of insecticidal materials improve nation [41, 42]. The application of lower concentrations
+the protection of stored grain by reducing the qualita- of Murraya koenigii Linnaeus (Rutaceae) and Capsicum
+tive and quantitative losses. The reduction in damage and annuum Linnaeus (Solanaceae) extracts caused a nor-
+the suppression of S. zeamais population growth were mal germination, but the same plants at higher concen-
+positively correlated. Combinations of H. acida wood trations caused 30–35% inhibition of seed germination.
+ash and P. glandulosus leaf powder at different propor- Bustos-Figueroa et al. [42] observed that the leaf powder
+tions considerably reduced damage, by lowering the of P. boldus used alone or mixed with lime did not affect
+number of perforated grains and weight loss, and at the the percentage of maize seed germination. This corrobo-
+same time by inhibiting the population increase. Hill [38] rates our findings about the germination rate recorded
+reported that wood ash was useful as a physical barrier with the treatments. Higher germination rate recorded
+on the grain. However, it can also possess various chemi- by the combinations of 25% of P. glandulosus leaf powder
+cal properties according to its botanical source. Plectran- and 75% of wood ash could be due to the higher content
+thus glandulosus leaf, thanks to its chemical",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00071.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00433,Insecticidal activity of Laurelia sempervirens (Ruiz & Pav.) Tul. essential oil against Sitophilus zeamais Motschulsky,2,Germination and weight loss of maize treated with Laurelia Laurelia sempervirens against Sitophilus zemais adults.,133,0,3,"Table 2. Germination and weight loss of maize treated with Laurelia Laurelia sempervirens against Sitophilus zemais adults.
+sempervirens essential oil to Sitophilus zeamais control.
+ Mortality (%)
+Concentration Grain germination* Grain weight loss*
+ Concentration 1d 5d 10 d 15 d
+mL essential oil kg-1 grain % %
+ 0.00 100.0a 13.2a mL essential oil kg-1 grain
+ 1.25 91.7a 12.3a 1.25 8.8a 8.7a 8.2a 8.2a
+ 2.5 95.0a 1.7b 2.5 100.0b 100.0b 100.0b 78.3b
+ 5.0 100.0a 1.4b 5.0 100.0b 100.0b 100.0b 85.0b
+ 10 90.0a 0.1b 10 100.0b 100.0b 100.0b 100.0b
+ 20 93.3a 0.1b 20 100.0b 100.0b 100.0b 100.0b
+ 40 95.0a 0.1b 40 100.0b 100.0b 100.0b 100.0b
+CV, % 8.75 45.7 CV, % 40.9 41.0 41.3 35.87
+*
+ Values within a column with the same letter are not significantly different *
+ Values within a column with the same letter are not significantly different
+according to Tukey (p ≤ 0.05). according to Tukey (p ≤ 0.05).
+CV: Coefficient of variation. CV: Coefficient of variation.
+424 CHILEAN JOURNAL OF AGRICULTURAL RESEARCH 74(4) OCTOBER-DECEMBER 2014
+insecticidal activity during 15 d (Table 4). Although CONCLUSIONS
+concentrations of 0.25 and 0.5 mL essential oil kg-1 grain
+with a mortality of 78.3% and 85%, respectively, did not The essential oil of Laurelia sempervirens has biological
+show significant differences (p > 0.05) with 1, 2, and 4 mL activity as a contact insecticide and repellent activity
+essential oil kg-1 grain of essential oil of L. sempervirens. against Sitophilus zeamais, without affecting maize grain
+Our results agree with those of Coitinho et al. (2010) germination.
+that working with the essential oils of P. hispidinervum,
+P. marginatum, M. leucadendra, S. terebinthifolia and LITERATURE CITED
+Eugenia uniflora L. (Myrtaceae) concluded that the
+contact insecticidal persistence does not reach 30 d. Abbott, W.S. 1925. A method of computing the effectiveness of an
+ insecticide. Journal of Economic Entomology 18:265-267.
+ In offspring effect (F1) treatments with essential oil of Asawalam, E.F., and A. Hassanali. 2006. Constituents of the essential
+L. sempervirens caused a reduction in the emergence of oil of Vernonia amygdalina as maize weevil protectans. Tropical
+the next generation (F1) of S. zemais. The F1 emergence and Subtropical Agroecosystems 6:95-102.
+in all treatments was significantly lower than the one Aslan, I., H. Özbek, Ş. Kordali, Ö. Çalmaşur, and A. Çakir. 2004.
+ Toxicity of essential oil vapours obtained from Pistacia spp.
+observed in the control (Table 5). The highest reduction to the granary weevil, Sitophilus zeamais (L.) (Coleoptera:
+of F1 adult emergence (< 11%) was observed in treatments Curculionidae). Journal of Plant Diseases and Protection 111:400-
+from 5 to 40 mL of essential oil kg-1 grain. The F1 adult 407.
+insect emergence was observed beyond week 5. As the Bakkali, F., S. Averbeck, D. Averbeck, and M. Idoamar. 2008.
+ Biological effects of essential oil-A review. Food and Chemical
+concentration increased, the F1 emergence decreased as Toxicology 46:446-475.
+described by Pizarro et al. (2013), who concluded that Betancur, J., G. Silva, J.C. Rodríguez, S. Fischer, and N. Zapata.
+assessed treatments had toxic effect against immature 2010. Insecticidal activity of Peumus boldus Molina essential
+ oil against Sitophilus zeamais Motschulsky. Chilean Journal of
+stages of S. zeamais.
+ Agricultural Research 70:399-407.
+ All evaluated treatments showed a repellent index Bittner, M., M. Aguilera, V. Hernández, C. Arbert, J. Becerra, and
+lower than 1, and according to Mazzonetto and Vendramim M.E. Casanueva. 2009. Fungistatic Activity of essential oils
+(2003) these values are classified as repellents (Table extracted from Peumus boldus Mol., Laureliopsis philippiana
+ (Looser) Schodde and Laurelia sempervirens (Ruiz & Pav.) Tul.
+6). Using the essential oil of P. boldus, Betancur et al. (Chilean Monimiaceae). Chilean Journal of Agricultural Research
+(2010) at the same oil concentrations we used, obtained 69:30-37.
+indexes between 0.79 and 0.16 indicating lower repellent Bittner, M., M.E. Casanueva, C. Arbert, M. Aguilera, V. Hernández.,
+activity than the one observed with the essential oil of and J. Becerra. 2008. Effects of essential oils from five plants
+ species against the granary weevil Sitophilus zeamais and
+L. sempervirens. According to Paranagama et al. (2004) Acanthoscelides obtectus (Coleoptera). Journal of the Chilean
+this trend of increasing repellence with increasing dose of Chemical Society 53:1455-1459.
+essential oil is common. Chaubey, M.K. 2011. Fumigant toxicity of essential oils against rice
+ weevil Sitophilus oryzae L. (Coleoptera: Curculionidae). Journal",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00433.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00634,"Phytochemical screening and insecticidal activities of some medicinal plants against the maize weevil, Sitophilus zeamais (Motschulsky) (Coleoptera: Curculionidae).",2,Phytochemical screening of some botanical extracts.,79,28,6," Table 2.  Phytochemical screening of some botanical extracts.
+ cumulative mean percent mortality (96.89%) was recorded with the leaf extract of M. lanceolata. The minimum
+ cumulative mean percent mortality (90.44%) was recorded with the leaf extract of C. macrostachyus. After 20 ml
+ treatment, the maximum cumulative mean percent mortality (98.68%) was recorded with the leaf extract of C.
+ papaya. The minimum cumulative mean percent mortality (94.44%) was recorded for the C. macrostachyus leaf
+ extract.
+ The results of the F1 emergence are presented in Table 4. There was no significant difference (p > 0.005) in
+ all treatments, except that the inhibition rate was 0% in the untreated control. Complete inhibition (100%) of
+Scientific Reports | (2024) 14:8678 | https://doi.org/10.1038/s41598-024-59207-z 5
+ Vol.:(0123456789)
+ www.nature.com/scientificreports/
+ Cumulative mean percent mortality by different extracts
+ concentrations
+ Treatment 10 ml (mean ± SD) 15 ml (mean ± SD) 20 ml (mean ± SD)
+ M. lanceolata seed 95.32 ± 3.75ab 96.89 ± 2.67a 98.02 ± 1.67a
+ M. lanceolata leaf 90.23 ± 5.41 abc
+ 93.99 ± 3.39 ab
+ 96.22 ± 3.31ab
+ C. macrostachyus seed 95.55 ± 3.72 a
+ 96.44 ± 2.96 a
+ 98.45 ± 2.13a
+ C. macrostachyus leaf 88.43 ± 5.75 c
+ 90.44 ± 4.33 b
+ 94.44 ± 4.48b
+ C. aurea leaf 91.98 ± 4.69abc 94.22 ± 4.08ab 96.01 ± 4.74ab
+ C. aurea seed 92.45 ± 5.97abc 94.65 ± 3.75a 97.11 ± 2.79ab
+ C. papaya leaf 92.44 ± 4.44abc 95.11 ± 3.31a 98.68 ± 1.67a
+ V. amygdalina leaf 89.99 ± 3.98bc 93.32 ± 3.34ab 97.35 ± 2.26ab
+ C. anisata leaf 92.89 ± 4.15abc 95.55 ± 3.01a 98.01 ± 2.46a
+ Untreated control 2.33 ± 1.15d",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00634.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00634,"Phytochemical screening and insecticidal activities of some medicinal plants against the maize weevil, Sitophilus zeamais (Motschulsky) (Coleoptera: Curculionidae).",7,presents the results of maize seed germination under different application rates of the different botani-,76,28,4," Table 7 presents the results of maize seed germination under different application rates of the different botani-
+ cal extracts. There were significant differences (p < 0.05) among the treatments. Seed germination recorded in the
+ untreated control was only 22.5%. Leaf extract of C. anisata showed 92.5% seed germination at 10 ml applica-
+ tion dosage. The highest maize seed germination (94.75%) was recorded in the leaf extract of C. anisata while
+ the lowest (78.75%) was obtained from leaf extract of C. macrostachyus at a treatment application rate of 15 ml.
+ Scientific Reports | (2024) 14:8678 | https://doi.org/10.1038/s41598-024-59207-z 6
+Vol:.(1234567890)
+www.nature.com/scientificreports/
+ Cumulative mean percent mortality by different extracts
+ concentrations
+ Treatment 10 ml (mean ± SD) 15 ml (mean ± SD) 20 ml (mean ± SD)
+ M. lanceolata seed 5.23 ± 0.69a 3.81 ± 0.83ab 3.20 ± 0.98ab
+ M. lanceolata leaf 4.83 ± 0.99 ab
+ 3.62 ± 0.94 ab
+ 2.99 ± 1.29ab
+ C. macrostachyus seed 4.55 ± 0.78 ab
+ 4.33 ± 1.02 a
+ 3.67 ± 1.21a
+ C. macrostachyus leaf 5.46 ± 1.06 a
+ 4.65 ± 0.98 a
+ 3.81 ± 0.95a
+ C. aurea leaf 3.16 ± 1.12 cd 2.82 ± 1.03bcd 1.88 ± 0.81 cd
+ C. aurea seed 4.57 ± 0.90ab 3.36 ± 0.81abc 2.35 ± 0.57bc
+ C. papaya leaf 3.27 ± 0.91 cd 2.11 ± 0.69de 1.21 ± 0.73d
+ V. amygdalina leaf 3.93 ± 0.82bc 2.61 ± 0.93 cd 1.71 ± 0.78 cd
+ C. anisata leaf 2.63 ± 1.04d 1.44 ± 1.04e 0.91 ± 0.68d
+ Untreated control 67.37 ± 8.73a",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00634.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00634,"Phytochemical screening and insecticidal activities of some medicinal plants against the maize weevil, Sitophilus zeamais (Motschulsky) (Coleoptera: Curculionidae).",5,Application of different botanical extracts to maize grains and their effect on grain weight loss. Note:,60,28,0," Table 5.  Application of different botanical extracts to maize grains and their effect on grain weight loss. Note:
+ Means followed by different letters down the column are significantly different.
+ Cumulative mean percent mortality by different extracts
+ concentrations
+ Treatment 10 ml (mean ± SD) 15 ml (mean ± SD) 20 ml (mean ± SD)
+ M. lanceolata seed 7.81 ± 1.71c 6.91 ± 1.62 cd 5.87 ± 1.89bcd
+ M. lanceolata leaf 8.37 ± 1.47 bc
+ 7.67 ± 1.74 bc
+ 6.61 ± 1.68ab
+ C. macrostachyus seed 9.91 ± 1.68 ab
+ 8.95 ± 1.96 ab
+ 7.61 ± 1.44ab
+ C. macrostachyus leaf 11.63 ± 1.70 a
+ 10.41 ± 1.15 a
+ 9.47 ± 1.28a
+ C. aurea leaf 7.48 ± 1.57 cd
+ 5.91 ± 0.92 de
+ 4.83 ± 0.93de
+ C. aurea seed 8.87 ± 1.59 bc
+ 7.51 ± 1.25 bcd
+ 5.75 ± 0.99bcd
+ C. papaya leaf 7.43 ± 1.59 cd 5.97 ± 1.47de 4.97 ± 1.16 cd
+ V. amygdalina leaf 8.46 ± 1.57bc 7.45 ± 1.58bcd 6.47 ± 1.54abc
+ C. anisata leaf 5.67 ± 1.62d 4.32 ± 1.23e 3.25 ± 1.29e
+ Untreated control 90.97 ± 2.53a",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00634.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00634,"Phytochemical screening and insecticidal activities of some medicinal plants against the maize weevil, Sitophilus zeamais (Motschulsky) (Coleoptera: Curculionidae).",6,Application of different botanical extracts to maize grains and their effect on grain damage. Note:,60,28,0," Table 6.  Application of different botanical extracts to maize grains and their effect on grain damage. Note:
+ Means followed by different letters down the column are significantly different.
+ Cumulative mean percent mortality by different extracts
+ concentrations
+ Treatment 10 ml (mean ± SD) 15 ml (mean ± SD) 20 ml (mean ± SD)
+ M. lanceolata seed 83 ± 5.71bc 88.75 ± 3.58bc 92.5 ± 2.56abc
+ M. lanceolata leaf 81.25 ± 6.86bc 86 ± 6.19c 90 ± 5.38bcd
+ C. macrostachyus seed 81 ± 7.18 bcd
+ 86 ± 5.28c
+ 90.75 ± 4.94bc
+ C. macrostachyus leaf 74.5 ± 9.72 d
+ 78.75 ± 9.98 d
+ 85.5 ± 7.59d
+ C. aurea leaf 86.75 ± 6.34 ab
+ 92.25 ± 4.72 ab
+ 94.5 ± 4.26ab
+ C. aurea seed 79 ± 3.84 cd
+ 85.75 ± 5.68 c
+ 88.25 ± 5.19 cd
+ C. papaya leaf 87.5 ± 5.96 ab
+ 90.75 ± 4.37 abc
+ 94.25 ± 4.06ab
+ V. amygdalina leaf 86.75 ± 6.93 ab
+ 91.5 ± 5.64 abc
+ 94 ± 4.47ab
+ C. anisata leaf 92.5 ± 5.73 a
+ 94.75 ± 4.72 a
+ 97 ± 2.99a
+ Untreated control 22.5 ± 10.5e",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00634.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00634,"Phytochemical screening and insecticidal activities of some medicinal plants against the maize weevil, Sitophilus zeamais (Motschulsky) (Coleoptera: Curculionidae).",7,Effect of botanical extracts treatment on maize seed germination. Note: Means followed by different,99,0,9," Table 7.  Effect of botanical extracts treatment on maize seed germination. Note: Means followed by different
+ letters down the column are significantly different.
+ At a 20 ml rate of treatment application, 97% seed germination was recorded with leaf extract application of C.
+ anisata. At the same application rate, leaf extracts of C. macrostachyus showed 85.5% maize seed germination.
+Scientific Reports | (2024) 14:8678 | https://doi.org/10.1038/s41598-024-59207-z 7
+ Vol.:(0123456789)
+ www.nature.com/scientificreports/
+ Discussion
+ Extracted secondary metabolites from different plant species with polarity of different solvents caused mortality
+ of maize weevils, which is in agreement with the work of other researchers. Mbata et al.42 reported that alkaloids
+ can affect nerve transmission in insects by disturbing the cell membrane and cytoskeletal structure, causing the
+ collapse and leakage of cells. Ma et al.43 also reported that alkaloids have a variety of biological activities, such as
+ poisoning, antifeeding, and inhibition of insect growth and development. ­Kazemi44 reported that the secondary
+ metabolite saponin acts as a detergent that disrupts the cell membrane, causes cell death, and ultimately kills
+ insect pests. In addition, a report by the European Medicine A ­ gency45 indicated that the insecticidal activity of
+ saponins is mediated via an interaction with cholesterol, which disrupts the synthesis of steroids from ecdysis.
+ According to Salminen and K ­ aronen46, phenols have antifeedant, toxic, and regulatory activities that affect insect
+ physiological processes or repel phytophagous insects.
+ Tlak Gajger and ­Dar47 reported that tannins cause toxicity in insects. Pizzolitto et al.48 reported the biological
+ activity of terpenoids with different structural groups against stored grain pests, with ketones being the most
+ biologically active group. Studies have shown that flavonoids such as rotenone are effective insect repellents.
+ Huang et al.49 in their review article reported the antifeedant activity of rotenone against S. granarius and T.
+ confusum adults, and found that it showed the strongest deterrent effect and was the best antifeedant tested.
+ Akhtar et al.50 tested the insecticidal activities of quinones, and their results indicated that quinones are acutely
+ toxic against two-spotted spider mites and three aphid species. Al-Rajhy et al.51 reported that cardiac glycosides
+ have promising pesticidal effects. Mukandiwa et al.52 reported that coumarin extracted from C. anisata leaves
+ inhibited feed intake in the first and second instars of blowfly larvae and resulted in significantly lower mass
+ pupae. Zhang et al.53 also reported that coumarins have feed deterrent activities against T. castaneum adults.
+ A recent study conducted by Verma et al.54 to isolate compounds with pesticidal properties from G. sessilifora
+ Sims revealed that the identified compounds were good protectants against pests. Zain et al.55 also identified phy-
+ tochemical compounds, such as flavonoids, saponins, tannins, steroids, phenolics, and alkaloids, and explained
+ the potential insecticidal activity of these compounds. Boualam et al.56 studied the phytochemical composition
+ of two botanicals using different solvents (petroleum ether (PE), dichloromethane (DCM), dichloromethane/
+ methanol (80/20), and methanol) and identified polyphenols, alkaloids, flavonoids, tannins, sterols, terpenoids,
+ and saponosides.
+ In the current study, all plant extracts showed significant effects against maize weevils at all the tested concen-
+ trations (10, 15, and 20 ml) after 28 days of exposure. This result is in agreement with the work of Islam et al.57,
+ who reported that the mean mortality in maize weevils increased with an increase in concentration. They also
+ indicated that different plant extracts showed significant effects on maize weevils at 5, 10, and 15% concentrations.
+ No adult progeny emerged from maize seeds treated with C. anisata leaf extract at any of the applied dos-
+ ages. The percentage inhibition rate of the untreated control was 0%. This result is consistent with the result
+ reported by I­ leke58, in which no adult emergence was observed in wheat grains treated with C. frutescens and A.
+ occidentale extracts at all tested concentrations, and adult emergence was significantly higher (p < 0.05) in the
+ control than in the treated wheat grains.
+ In the present study, the mean percentage of grain damage and grain weight loss was reduced with an
+ increased treatment dosage. All botanical extracts had different effects on the protection of grain damage. Gariba
+ et al.59 indicated that the mean percentage weight loss and seed damage were lower at higher concentrations than
+ at lower concentrations. Moreover, Parwada et al.60 reported that botanicals reduce the occurrence of a weevil
+ attack if the concentration is increased.
+ All botanical extracts supported maize seed germination, which was significantly higher than germination as
+ shown by the untreated control, which is in line with the report of Abou El-Nour and E ­ wais61, who showed that
+ moringa leaf extract enhances pepper seed germination percentage. Gariba et al.59 revealed that seeds treated
+ with botanical extracts had significantly higher germination rates than the values obtained in untreated seeds.
+ Their results indicated that the seeds were viable and had a good germination percentage.
+ Conclusion
+ The presence of bioactive compounds in different botanical extracts has shown that the selected plants are prom-
+ ising grain protectants. At all levels (10, 15, and 20 ml) of treatment application, M. lanceolata seed extract, C.
+ macrostachyus seed extract and C. anisata showed percentage mortality ranged from 95.32 to 98.02% after 28 days
+ of exposure. Therefore, the extract of these plants have a promising effect on maize weevil mortality for the pro-
+ tection of stored maize. C. anisata showed a 100% inhibition rate of F1 progeny emergence at all application rates.
+ The highest grain weight loss (5.25–5.46%) was recorded in the seed extract of M. lanceolata and leaf extract
+ of C. macrostachyus at a 10 ml application rate. The lowest weight losses, 1.44% and 0.91%, were calculated from
+ the applied C. anisata leaf extract at 15 and 20 ml, respectively. With increased dosage, this plant extracts reduced
+ grain weight loss. C. anisata showed the lowest maize grain damage for all treatment applications. Relative to
+ other botanical extracts, C. macrostachyus leaf extract showed the lowest seed germination percentage. Quanti-
+ fying bioactives, testing the insecticidal activity of low-dose (< 10 ml) extracts, and separating and purifying to
+ obtain effective chemical components from these botanicals are required in future research.
+ Data availability
+ The data used to support the findings of this study are included within the article.
+ Received: 21 December 2023; Accepted: 8 April 2024
+ Scientific Reports | (2024) 14:8678 | https://doi.org/10.1038/s41598-024-59207-z 8
+Vol:.(1234567890)
+www.nature.com/scientificreports/
+ References
+ 1. Africa Agriculture Status Report. The Business of Smallholder Agriculture in Sub-saharan Africa. 5th (Edn), AGRA, Nairobi,
+ Kenya, 2017.
+ 2. Marta, H. E. & Ruswandi, D. Chemical composition and genetics of Indonesian maize hybrids. Am. J. Food Technol. 12(2), 72–85
+ (2017).
+ 3. World Bank. Missing Food: the Case of Post-harvest Grain Losses in Sub-Saharan Africa Economic Sector Work Report No.
+ 60371-AFRWorld Bank, Washington, DC,2011.
+ 4. Godfray, H. C. et al. Food security: The challenge of feeding 9 billion people. Science. 327, 812–818 (2010).
+ 5. Parfitt, J., Barthel, M. & Macnaughton, S. Food waste within food supply chains: Quantification and potential for change to 2050.
+ Philos. Trans. R. Soc. B Biol. Sci. 365, 3065–3081 (2010).
+ 6. Hodges, R. J., Buzby, J. C. & Bennett, B. Postharvest losses and waste in developed and less developed countr",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00634.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00049,Solanum incanum Leaf Powder Exhibits High Insecticidal Efficacy Against Sitophilus zeamais in Stored Maize Seeds: Implications for Sustainable Pest Management,5,"Mean interval-specific percentage weight loss (± SEM) of maize seeds treated with 10 botanical powders, a",96,0,12," TABLE 5: Mean interval-specific percentage weight loss (± SEM) of maize seeds treated with 10 botanical powders, a
+ synthetic insecticide (Actellic Super Dust ), and an untreated control across four successive 14-day storage intervals (0–
+ 14, 14–28, 28–42, and 42–56 days). Values represent interval-specific losses calculated independently for each assessment
+ period, following the methodology of Suleiman et al. [36]. Superscript letters denote statistical groupings within each
+ storage interval based on Tukey’s HSD test (α = 0.05); treatments sharing the same letter within a column are not
+ significantly different.
+ HSD, Honestly Significant Difference; SEM, Standard Error of the Mean
+ FIGURE 5: Mean interval-specific percentage weight loss (± SEM) of maize seeds treated with botanical powders across
+ four successive 14-day storage intervals (0–14, 14–28, 28–42, and 42–56 days after treatment). Two-way repeated-
+ measures ANOVA revealed highly significant effects for treatment (F11,36 = 28.36, p < 0.001), storage duration
+ (F2.06,74.18 = 50.89, p < 0.001), and treatment × storage duration interaction (F22.66,74.18 = 4.94, p < 0.001).
+ Greenhouse-Geisser corrections were applied (ε = 0.687 for storage interval; ε = 0.659 for the interaction). Superscript
+ letters denote statistical groupings within each storage interval (Tukey’s HSD, α = 0.05); treatments sharing the same
+ letter are not significantly different. Untreated controls exhibited the highest weight loss across all intervals, peaking at
+ 5.64% during the 14–28-day interval and declining to 3.55% during the 42–56-day interval. Solanum incanum leaf powder
+ and Actellic Super Dust provided consistently superior seed protection, with S. incanum achieving statistical
+ equivalence with the synthetic standard during the final two assessment intervals.
+ ANOVA, Analysis of Variance; HSD, Honestly Significant Difference; SEM, Standard Error of the Mean
+Seed protection capacity and translation of mortality to practical outcomes
+Weight loss measurements provide a direct indicator of seed protection capacity, translating mortality data into practical
+outcomes of immediate relevance for seed security. The significant treatment effect (p < 0.001) and treatment × storage
+interval interaction (p < 0.001) demonstrate that botanical treatments differ not only in their capacity to kill weevils but
+also in their ability to prevent feeding damage over extended periods, a distinction of critical importance given that seed
+quality degradation accumulates progressively even at sublethal pest densities.
+How to cite this article:
+Mahenge N, Mourice S K, Mabiki F P, et al. (April 02, 2026) Solanum incanum Leaf Powder Exhibits High Insecticidal
+Efficacy Against Sitophilus zeamais in Stored Maize Seeds: Implications for Sustainable Pest Management. Curues J. Agri.
+Food Sci 2 : es44497-026-00048-1. DOI https://doi.org/10.7759/s44497-026-00048-1 Page 20 of 27
+Solanum incanum Leaf Powder Exhibits High Insecticidal Efficacy Against Sitophilus zeamais in Stored Maize Seeds:
+Implications for Sustainable Pest Management
+Solanum incanum leaf powder achieved seed protection statistically equivalent to the synthetic standard during the final
+two assessment intervals (28-42 and 42-56 days), with interval-specific weight losses of 0.33% and 0.25%, respectively.
+This equivalence is particularly noteworthy given that mortality rates remained below synthetic levels; it suggests that
+sublethal effects including antifeedant activity and behavioural disruption may contribute to seed protection beyond
+what mortality rates alone would predict. Solanaceae glycoalkaloids are known to exert antifeedant effects through
+bitter taste compounds and digestive enzyme inhibition [21], which may reduce consumption even among surviving
+individuals, thereby providing a dual mechanism of seed protection encompassing both direct mortality and feeding
+suppression.
+Comparative performance of low- and intermediate-efficacy botanical treatments
+While the primary focus of this investigation centres on the exceptional performance of S. incanum leaf powder, a
+comprehensive interpretation of the results requires systematic discussion of the differential performance observed
+across all botanical treatments evaluated, as several species demonstrated limited efficacy that merits explanation in the
+context of their known phytochemical properties and modes of action.
+Four botanical treatments, L. camara, O. basilicum, C. citratus, and H. suaveolens, consistently achieved low mortality
+(<20%) even at the highest concentration tested (20 g per 200 g seeds), failing to demonstrate meaningful dose-
+response relationships across the entire concentration range. These findings contrast with reports of moderate to high
+insecticidal activity for these species when applied as essential oil extracts or fumigants. Ogendo et al. [24] documented
+82.7-93.7% mortality with L. camara and T. vogelii after 21 days of exposure; however, their study employed aqueous
+extracts rather than dry powders, which likely facilitated greater bioavailability of volatile terpenoid constituents. The low
+efficacy of these species in the present study can be attributed to the fundamental limitations of the powder formulation
+for volatile compound-dependent plants: the primary bioactive constituents of L. camara (lantadenes), O. basilicum
+(linalool, eugenol), C. citratus (citral, geraniol), and H. suaveolens (1,8-cineole, β-caryophyllene) are characterised by high
+vapour pressures that promote rapid dissipation under ambient conditions [16,26]. In the dried powder formulation
+employed in this study, the shade-drying process, although conducted at ambient temperature to minimise thermal
+degradation, would have inevitably reduced the concentration of these volatile compounds relative to fresh plant
+material or liquid extract preparations. Furthermore, the contact toxicity mechanism required for powder-based delivery
+may be inherently less effective for species whose primary mode of action operates through fumigant or vapour-phase
+activity [16,22]. These findings suggest that the insecticidal potential of L. camara, O. basilicum, C. citratus, and H.
+suaveolens against S. zeamais may be better realised through alternative delivery systems, including essential oil
+extraction and encapsulation, rather than the simple powder formulations evaluated here.
+Azadirachta indica exhibited a relatively shallow dose-response relationship, with mortality increasing from 10.75% at 5 g
+per 200 g seeds to only 34.72% at 20 g per 200 g seeds, representing moderate but substantially lower efficacy than S.
+incanum leaf powder across all concentrations. This performance is consistent with the established pharmacological
+profile of azadirachtin, the principal bioactive compound in neem, which exerts its insecticidal effects primarily through
+growth regulation disruption, ecdysis inhibition, antifeedant activity, and reproductive impairment rather than acute
+contact toxicity [15,28]. Erenso and Berhe [28] reported that neem seed powder achieved 82% mortality while leaf
+powder achieved 77.75% mortality at 3% w/w concentration; however, their experimental protocol involved a 28-day
+assessment period with naturally infested grain, conditions that may have captured the cumulative effects of antifeedant-
+induced starvation and growth regulation disruption more effectively than the interval-specific mortality measurements
+employed in the present study. The sublethal modes of action characteristic of azadirachtin, while potentially
+contributing to long-term population suppression through reduced fecundity and disrupted larval development,
+manifest less prominently in short-term adult mortality assessments, suggesting that the true protective value of A.
+indica powder may be underestimated by mortality-based efficacy metrics alone.
+The stark contrast between S. incanum leaf powder (62.52-84.09% mortality) and fruit powder (9",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00049.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00288,"Efficacy of extracts of Tithonia diversifolia (Hemsl) A. Gray as protectant against maize weevil (Sitophilus zeamais [Motsch.]) and cowpea weevil, Callosobruchus maculatus F. on stored grains",9,Effect of Tithonia diversifolia on adult weight loss and seed damage,173,42,2,"Table 9: Effect of Tithonia diversifolia on adult weight loss and seed damage
+ Percentage seed damage/weight loss
+ Seed damage Weight loss
+Treatment Dosage(ml)
+Control 52.06±1.46a 16.67±0.14a
+Aqueous 0.05 38.07±1.76b 6.38±0.01b
+0.1 31.54±2.09b 5.95±0.49b
+0.2 26.51±1.68bc 4.43±0.01c
+0.3 21.32±1.02c 4.19±0.72c
+0.5 17.43±1.89c 3.51±0.17cd
+Ethanol 0.05 39.48±1.01b 6.15±0.57b
+0.1 29.44±1.25b 5.52±0.92c
+0.2 26.76±1.43bc 4.35±0.61c
+0.3 19.53±1.12c 3.86±0.14cd
+0.5 15.05±2.17c 3.78±0.75cd
+Methanol 0.05 37.51±1.68b 6.14±0.83b
+0.1 30.81±2.10b 5.45±0.24c
+0.2 23.06±2.25bc 4.15±0.27c
+0.3 14.86±0.68c 3.09±0.10cd
+0.5 10.06±1.01d 2.04±0.82e
+N-Hexane 0.05 38.70±0.83b 6.49±0.38b
+0.1 29.32±1.02bc 5.21±0.88c
+0.2 24.29±1.66bc 4.52±0.75c
+0.3 15.24±1.42c 3.18±0.40cd
+0.5 12.81±0.53c 2.93±0.09d
+Notes: Each value is the mean ± standard error of four replicates, each replicate with 20 adults. Mean
+followed by the same letters within the same column are not significantly (p ≤ 0.05) different from
+each other using Tukey HSD Test
+130 NIGERIAN JOURNAL OF ENTOMOLOGY, VOL. 37: 2021
+ DISCUSSION wings from the elytra and paralysis of the
+In this study, the phytochemical screening of dead or dying insects.
+plant extract of T. diversifolia revealed that There was a significant reduction
+among the substances investigated, presence (P<0.05) in emergence of S. zeamais and
+of phenolic compounds was detected (total C. maculatus in the treated seeds as dosages
+phenols, tannins and flavonoids), including increased. However, the N-Hexane extract
+alkaloids, terpenoids, glycoside and appeared to be more potent than all other
+saponins. Thus, the presence of these extracts in all cases for S. zeamais and
+phytochemicals in plant extract of T. Methanol extract appeared to be more potent
+diversifolia suggests that the plant might be than all other extracts in all cases for
+of insecticidal and medicinal importance. T. C. maculatus. The extracts, however, may
+diversifolia extracts were toxic to both S. have been critically toxic to immature stages
+zeamais and C. maculatus. Some secondary of this insect given the imbalance between
+plant metabolites may act both as the number of F1 progeny produced and the
+insecticides and antifeedants thereby number of eggs laid (Koona et al, 2007). It
+influencing insect’s movement, oviposition, has also been reported that alkaloids inhibit
+feeding, developmental and physiological larval growth and development which by
+processes as well as behavioral patterns as phytochemical screening done in this study
+earlier reported by Udo (2011). There was shows to be present in both N-hexane extract
+significant (P < 0.05) in adult mortality of and Methanolic extract of T. diversifolia.
+the beetle in treated seeds with increasing N-hexane extracts and Methanolic extracts of
+plant extracts. Mortality increased with a T. diversifolia were also able to reduce
+longer exposure time as the highest mortality significantly damage and weight loss in
+value was recorded in day seven for both maize and cowpea respectively. Amruta et al
+topical application and mortality in N-hexane (2015) recorded effective storage insect
+extract and methanolic extract. Therefore, control and higher seed quality when treated
+highest mortality at day 7 for S. zeamais with botanicals and Emamectin benzoate.
+treated with N-Hexane extract with highest This is also in agreement with the findings of
+concentration 86.67% and C. maculatus Emeasor et al (2007) who reported similar
+treated with Methanol extract with highest work that mixture of seed powder of Piper
+concentration 90.00%. This result is similar guineense and Thevetia peruviana at
+to the finding of Wachira et al. (2014) who different percentages caused the highest
+observed methanolic leaf extract of Tithonia mortality of C. maculatus at 7 days after
+to be toxic against adult females of infestation. There was effect of the extracts
+Anopheles gambiae, and the highest effect on oviposition and F1 emergence as dosages
+was achieved at day 7 of mosquito feeding. and time of exposure were increased.
+N-hexane extract of T. diversifolia may act However, the efficacy of the plant extracts
+by inhibiting insect acetyl cholinesterase and significantly suppressed emergence that can
+thus, ultimately blocking the nerve functions. be solely attributed to oviposition properties,
+This agrees with studies by Obeng-Ofori and which prevent laid eggs from hatching
+Amitaye (2005) that observed signs of (Mukanga et al., 2010). The repellent activity
+immobilization with flexed legs and clinging of extracts increased as treatment level
+to the grain, outstretched meta-thoracic increased thereby increasing the protectant
+ potential of T. diversifolia against storage
+ insect pest.
+ Ajao et al: Efficacy of extracts of Tithonia diversifolia as protectant against maize and cowpea weevils 131
+ CONCLUSION Journal of stored products Research, 35(1):
+ 77-87.
+This study showed the efficacy of botanical
+ Dabire, C. L. B., Kini, F. B., Ba, M. N.,
+extracts as grain protectants against stored
+ Dabire, R. A. and Fouabi, K. (2005). Effet
+products insects. N-Hexane and Methanolic du stade de développement des gousses de
+extracts of T. diversifolia plants were potent niébé sur la biologie de la punaise suceuse
+in controlling S. zeamais and C. maculatus in Clavigralla tomentosicollis (Hemiptera:
+storage. The protection activity of the stored Coreidae). International Journal of Tropical
+products in bioassays tested was dose Insect Science, 25 (1): 25-31.
+dependent, with higher doses offering better de Souza Alves, M., Campos, I. M., de Brito,
+protection. T. diversifolia is readily available D. D. M. C., Cardoso, C. M., Pontes, E. G.,
+in the locality of farmers and it pose no threat and de Souza, M. A. A. (2019). Efficacy of
+to humans as it is safe, ecofriendly and can lemongrass essential oil and citral in
+be used for short and long-term storage of controlling Callosobruchus maculatus
+the maize grains and cowpea seeds. (Coleoptera: Chrysomelidae), a post-harvest
+ cowpea insect pest. Crop Protection, 119,
+ 191-196.
+ REFERENCES
+ Dhliwayo, T. and Pixley, K. V. (2003).
+Abbott, W. S. (1925). A method of computing Divergent selection for resistance to maize
+ the effectiveness of an insecticide.- Journal weevil in six maize populations.- Crop
+ of Economic Entomology, 18: 265-267. Science, 43 (6): 2043-2049.
+Adejumo, B. A. and Raji, A. O. (2007). Emeasor, K. C., Emosairue, S. O. and Ogbuji,
+ Technical appraisal of grain storage systems R. O. (2007). Preliminary laboratory
+ in the Nigerian Sudan Savanna. Agricultural evaluation of the efficacy of mixed seed
+ Engineering International: CIGR Journal. powders of Piper guineense (Schum and
+Ajiboye, A.T., Musa, M.D., Otun, K.O., Thonn) and Thevetia peruviana (Persoon)
+ Jimoh, A.A., Bale, A.T. (2015). The Studies Schum against Callosobruchus maculatus
+ of Antioxidant and Antimicrobial Potentials
+ (F.) (Coleoptera: Bruchidae). Niger. J.
+ of the Leaf Extract of Bauhinia Monandra
+ Entomol., 24: 114-118.
+ Plant.- Nat Prod Chem Res, 3:180.
+ Gallo, D., Nakano, O., Silveira-Neto, S.,
+ doi:10.4172/2329-6836.1000180
+ Carvalho, R. P. L., Baptista, G.C. D., …
+Amruta, N., Sarika, G., Umesha-Maruthi, J.
+ Alves, S. B. and Vendramin, J. D. (2002).
+ B., Basavaraju, G. V. (2015). Effect of
+ Entomologia Agrícola (Agricultural
+ botanicals and insecticides seed treatment
+ Entomology). Piracicaba, Fealq, 920 p.
+ and containers on seed longevity of black
+ Gotyal, B. S., Srivastava, C., Walia, S., Jain, S.
+ gram under natural ageing conditions.
+ K. and Reddy, D. S. (2010). Efficacy of
+ Journal of Applied Natural Science, 7(1):
+ wild sage (Lantana camara) extracts against
+ 328-334.
+ almond moth (Cadra cautella) in stored
+Bekele, A. J., Obeng‐‐Ofori, D. and Hassanali,
+ wheat (Triticum aestivum) seeds. Indian
+ A. (1997). Evaluation of Ocimum kenyense
+ Journal of Agricultural Sciences, 80(5): 433-
+ (Ayobangira) as source of repellents,
+ 436.
+ toxicants and protectants in storage against",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00288.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00840,,2,"Effects of treatments on oviposition, F1 adult emergence of Sitophilus zeamais and maize grain damage and",216,39,1,"Table 2 Effects of treatments on oviposition, F1 adult emergence of Sitophilus zeamais and maize grain damage and
+weight loss
+ Treatment Dose (ml) Parameters (Mean±SD)
+ Oviposition F1 emergence Grain damage Weight loss (g)
+Control 0.0 51.85±17.73b 4.25±0.95b 42.00±5.43b 2.00±0.71b
+Khaya ivorensis 1.0 16.45±14.10a 0.00±0.00a 7.05±4.70a 1.15±0.07a
+ 2.0 9.40±7.67a 0.00±.00a 0.00±0.00a 0.82±0.33a
+ 3.0 18.8±7.67a 0.00±0.00a 4.70±5.42a 0.72±0.00a
+Azadirachta 1.0 25.85±16.05a 0.25±0.50a 4.70±5.42a 1.20±0.24a
+indica
+ 2.0 23.50±12.13a 0.25±0.50a 2.35±4.70a 1.07±0.22a
+ 3.0 23.65±19.61a 0.00±0.00a 2.35±4.70a 0.77±0.15a
+Daksh 1.0 40.10±8.73a 1.00±0.00a 16.45±14.10a 0.97±0.35a
+ 2.0 39.95±16.05a 0.75±0.50a 11.75±17.79a 0.55±0.23a
+ 3.0 35.25±11.82a 0.00±0.00a 11.75±17.79a 0.50±0.21a
+ Values are means of four replicates, means carrying similar alphabets along the columns are not significantly different (P>0.05).
+4. Discussion
+The oils tested were found to be effective in the control of adult S. zeamais on stored maize. A. indica and K. ivorensis
+gave 100% mortality in all the treatment doses used (1.0 ml, 2.0 ml and 3.0 ml) after 4 days of exposure, equal to the
+synthetic insecticides. This confirms the efficacy of the oil treatments used; thus could be a suitable replacement for
+the insecticides which are toxic to its users and the environment, relatively not affordable to local farmers, as well as
+its effect on non-target organisms. The plant oils were quick in action as they recorded significant (P>0.05) mortality
+after 24 hrs of exposure. The treatment doses showed no significant difference (P>0.05) in the number of adult
+mortality, but performed significantly (P>0.05) better when compared with the control (untreated) experiment. The
+results achieved in this study agrees with the work reported by Wahedi among previous studies, who reported that A.
+indica significantly caused high mortality of S. zeamais reared on stored maize; and that the toxicity of the treatment
+was associated with the occurrence of chemical components such as tritepenoids, which comprise azadirachtin [17].
+ 4
+ Wahedi et al. / GSC Biological and Pharmaceutical Sciences 2017, 01(02), 001–006
+The significant number of adult mortality recorded and a significant (P>0.05) suppression of adult emergence of S.
+zeamais by the plant oil treatments suggests that the seeds are have toxic compounds that have insecticidal properties
+[18]. The oil on application on the grain serve as food poison to the weevils, the odour penetrated into the endosperm
+and germ layer thereby preventing oviposition and larval development as reported by Arannilewa et al. [18].
+The observed low emergence of F1 generation of S. zeamais on maize grains treated with two plants oils could be as a
+result of a significant (P>0.05) high mortality earlier recorded on adult S. zeamais, thus affected their mating process
+and sexual communication as well as deterring females from lying eggs; and hence, a complete suppression of the
+developmental stages of the insects. The trial has showed that treating maize grain with A. indica and K. ivorensis oil at
+all treatment doses, prevented adult S. zeamais emergence, suppressed weight loss and grain damage caused by S.
+zeamais activities. This also coincides with the findings of Wahedi [17] and Yusuf et al. [19], who reported a reduction
+in weight loss of maize grains treated with neem seed oil.
+5. Conclusion
+In conclusion, the plant oil treatments extracted from A. indica and K. ivorensis no doubt hold some promising effects
+in respect of the control of stored grains against insect pest infestation. More so, the fact that they are readily available
+and environmentally friendly put them in a stead of tapping as an alternative to the chemical pesticides, which are
+toxic to humans.
+Compliance with ethical standards
+Acknowledgments
+The authors wish to acknowledge the contributions of Mr. Ibrahim Bayaso of Adamawa State Ministry of Agriculture,
+Yola, for performing the statistical analysis, and interpreting the results.
+Disclosure of conflict of interest
+This work was collaboratively carried out between all authors as follows: Author Wahedi JA, designed and supervised
+the study, wrote the protocol, and wrote the first draft of the manuscript; Author Zakariya R, identified and performed
+the extraction plant treatment oils; Authors Wilson C, and Vincent VM, performed the experiment; Authors Elkanah
+OS, Danba EP, and Ishuwa MN, managed the literature searches. All authors read and approved the final manuscript.
+References
+[1] FAO (2007). http://www.fao.org/inpho/maize (Internet Information, Accessed)
+[2] Gwinner J, Harnisch R and Műck O. (1990). Manual on the prevention of post-harvest grain losses, post-harvest
+ project, Pickhuben 4, D-2000 Hambung.
+[3] IITA (2003). Research Guide 30, IITA Training program PNB 5320, Ibadan, Nigeria, 43.
+[4] Agoda S, Atanda S, Usanga OE, Ikotun I and Isong IU. (2011). Post–harvest food losses reduction in maize
+ production in Nigeria. African Journal of Agricultural Research, 6(21), 4833-4839.
+[5] Dasbak MA, Echezona BC and Asiegbu JE. (2008). Post-harvest richness and residual activities of pirimiphos
+ methyl on Callosobruchus maculatus F. infested Pigeon pea (Cajanus cajan L. Mill sp) in storage. African Journal
+ of Biotechnology, 8 (2), 311-315.
+[6] Longstaff BC. (1981). Biology of the grain pest species of the genus Sitophilus (Coleoptera: Curculionidea): A
+ critical review protection Ecology, 2, 83-130.
+[7] Niber BT. (1994). The ability of powders and slurries from ten plants species to protect stored grain from
+ attack by Prostephanus truncates Horn. (Coleoptera: Bostrichhidea) and Sitophilus oryzae L. (Coleoptera:
+ Curculionidea). Journal of Stored Product Research, 30, 297-301.
+[8] Perez-Mendoza J. (1999). Survey of insecticide resistance in Mexican population of maize weevil, Sitophilus
+ zeamais Motschuski (Coleoptera: Curculionidae). Journal of Stored Product Research, 36 (1): 107-115.
+ 5
+ Wahedi et al. / GSC Biological and Pharmaceutical Sciences 2017, 01(02), 001–006
+[9] Asawalam EF, Emosairue SO and Hassanali A. (2006). Constituents of the Essential oil of Vernonia amygdaline
+ as maize weevil protection. Tropical and subtropical Agroecosystems Facultad de medicina Veterinaria
+ Zootecina, Universitad Autonoma de yucatan, Mexico, 6(2), 95-102.
+[10] Schmutterer H. (2002). The neem tree: source of unique national products for integrated pest management.
+ Medicine, Industry and Other Purposes. ISBN, 3, 527-30054.
+[11] Koul O. (2008). Phytochemicals and insect control: An antifeedant approach, Critical Reviews in Plant Sciences,
+ 27, 1-24.
+[12] Koul O, Wallia S, and Dhaliwal GS. (2008). Essential oils as green pesticides: Potential and constraints.
+ Biopesticide International, 4(1), 63-84.
+[13] Shaaya E, Kostjukovski M, Eilberg J and Sukprakan C. (1997). Plant oils as fumigants and contact insecticides for
+ the control of stored products insects. Journal of Stored Product Research, 33 (1), 7-15.
+[14] Adebayo A and Tukur AL. (1999). Adamawa State in Maps, Paraclete Publisher, Yola, 27-31.
+[15] Wahedi JA, David LD, Edward A, Mshelmbula BP and Bullus Z. (2013). Efficacy of seed powder and extracts of
+ Azadirachta indica Linn (Meliaceae) at graded levels on adult Callosobruchus maculatus (Coleoptera: Bruchidae)
+ in Mubi, North-eastern Nigeria. International Journal of Science and Nature, 4 (1), 138-141.
+[16] Wahedi JA, Ande AT and Fatoba PO. (2013). Biocidal activities of some tropical moss powders against Sitophilus
+ zeamais Motch (Coleoptera: Curculionidae). Global Journal of Bio-Science and Biotechnology, 2 (3), 386-389.
+[17] Wahedi JA. (2012). Laboratory evaluation of neem (Azadirachta indica Linn (Meliaceae)) seed powder and seed
+ oil for the control of Sitophilus zeamais (Coleoptera: Curculionidea) on stored maize. Adamawa State University
+ Journal of Scientific Research, 2(2), 110-115.
+[18] Arannilewa ST., Ekrakene T and Akinneye JO. (2006).",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00840.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00935,"Extracts of Jatropha curcas L. exhibit significant insecticidal and grain protectant effects against maize weevil, Sitophilus zeamais (Coleoptera: Curculionidae)",1,Phytochemical composition of J. curcas leaf dead and live insects were also recorded.,110,10,1," Table 1. Phytochemical composition of J. curcas leaf dead and live insects were also recorded.
+ extract.
+ Assessment of toxic effects of J. curcas extracts
+ Phytochemical Concentration (mg/kg)
+ Alkaloid 23.5 ± 2.31 Graded concentrations of the leaf extracts (0 – 100 mg per kg bw),
+ Tannins 75.9 ± 4.70 juice and seed oil (0 – 100 µl per kg bw) of J. curcas were
+ Phlobatannins 17.2 ± 6.10 administered to different groups of Wistar albino rats of average
+ weight of 130 g to assess the effect of a single administration of the
+ Saponins 124.8 ± 10.52 different plant preparations. In addition to recording observable
+ Terpenoids 41.1 ± 2.41 behavioural changes, plasma levels of alanine and aspartic
+ Flavonoids 64.3 ± 1.13 transaminases as well as alkaline phosphatase were measured 48
+ Cardiac h post administration. Commercially available kits from Randox
+ 131.5 ± 9.23 Laboratories, UK were used for the assays according to the
+ glycosides
+ manufacturer’s protocol.
+ Anthraquinones BD
+ Steroids 62.2 ±3.32
+ Statistical analysis
+ Values are Mean ± SEM with n = 3. BD = Below
+ detectable limit.
+ Results are expressed as mean ± S.E.M. Treatment groups were
+ compared with each other or control using Students t-test. Data on
+ toxicity were also subjected to analysis of variance (ANOVA)
+Insect culture and maintenance followed by Newman-Keuls post-hoc test. Groups of data were
+ considered to be significantly different if P < 0.05. Analysis were
+Species of Sitophilus zeamais used for this study were obtained performed using GraphPad Prism version 3.0.
+from field-infested grains in Jimeta, Yola, Nigeria and were
+identified by experts in Biological Sciences Department of the
+Federal University of Technology, Yola. Insects were cultured in the RESULTS AND DISCUSSION
+laboratory on clean uninfected kilner jars at fluctuating ambient
+temperature (23 to 27°C) and relative humidity (100 mmHg). The Phytochemical screening of J. curcas
+kilner jars were covered with muslin cloth held tightly in place for
+adequate aeration and to prevent entry or exit of insects. New
+generations of insects derived from this stock were cultured by
+ Phytochemical screening of J. curcas showed that the
+infesting clean and uninfested grains with 10 pairs of adult insects plant had an abundance of saponin and cardiac glycoside
+to generate the required insect population for the study. (Table 1). The concentrations of tannin, flavonoids, and
+ steroids were observed to be lower than that of saponin
+ but higher than the concentrations observed for alkaloids,
+Determination of oviposition deterrent activities of J. curcas
+ phlobatannins, and terpenoids. The concentrations of
+Oviposition deterrent activities of the different plant preparations tannin, flavonoids, and steroids were in the range of 62.2
+were assessed by coating maize grains with graded doses of the ± 3.3 to 75.9 ± 4.7 mg/kg to of plant material. The
+leaf extract, seed oil or juice (0 – 100 ppm) as described by Adedire concentration of alkaloids, phlobatannins, and terpenoids
+and Lajide (1999). For each treatment, five treated grains and five was less that 50 mg/kg plant material while the
+untreated grains were arranged alternatively in ring-like manner in a concentration of anthraquinone was below detectable
+petri-dish coated with paraffin wax (Adedire and Lajide, 1999). Two
+copulating pairs of insect samples were introduced into each
+ limits.
+covered petri dish. Eggs laid on each treated and untreated Data on the phytochemical composition of J. curcas
+(control) grain seeds were enumerated with the aid of a magnifying provides an insight into the mechanism of actions of J.
+lens prior to the demise of the female insects (14 days after curcas. Phytochemicals, such as tannins, have been
+treatment). F1 progeny population was determined at Day 42 of the reported possess strong activities against several plant
+experiment. pathogens and pests (Mila et al., 1996). Karamanoli et al.
+ (2011) reported that tannin exerts its action by a
+Determination of grain protectant activities of J. curcas combination of mechanisms that include iron chelation
+ and enzyme inhibition. Though the exact mechanism
+About 50 g of uninfested maize grains were treated with either leaf behind the observed actions of J. curcas is not yet
+extract or seed oil or juice (0 – 100 ppm) of J. curcas in a conical known, the preponderance of tannin in its extract may
+flask. Uniform mixing was accomplished by manual agitation with
+ suggest a role for phytochemical. The concentrations of
+the aid of a glass rod. The seeds were air-dried for 1 h before
+introducing five couples of adult Sitophilus zeamais into the conical saponins and cardiac glycosides in the extract of J.
+flask. The seeds in the control flask were treated with distilled water curcas were significantly higher compared to other
+instead of J. curcas oil, juice or leaf extract. Each flask was covered phytochemicals. Chaieb (2010) extensively reviewed
+with muslin cloth held firmly in place with a rubber band to prevent insecticidal effects of saponins, linking their insecticidal
+escape of the insects or entry of some other insects while ensuring activity their interaction with cholesterol, which results in
+adequate aeration for a period of 12 weeks in an open laboratory
+kept at ambient temperature (30 ± 2°C) and relative humidity of 75
+ impaired ecdysteroid synthesis. Al-Rajhy et al. (2003) on
+atmospheres. After twelve weeks, the number of damaged and the other hand reported evidence for the insecticidal
+unaffected seeds were counted and recorded. The numbers of effects of purified cardiac glycosides from Digitalis
+ Jide-Ojo et al. 47
+ (B) Control (No treatment)
+ (A) Control (No treatment) Juice of J. curcas
+ Juice of J. curcas Leaf extract of J. curcas
+ Seed oil of J. curcas
+ Leaf extract of J. curcas 200
+ Number of Insects Hatched
+ 60000
+ Seed oil of J. curcas
+ Number of Eggs
+ 150
+ 40000 *** + +
+ *** ***
+ 100 *** 
+ +
+ 
+ ***
+ +++
+ 20000 *** *** *** ++
+ 50 *** ***
+ *** 
+ + ++
+ *** 
+ *** *** +++
+ 
+ + 
+ *** *** +++
+ ***
+ 0 *** *** *** +++
+ *** *** *** *** 0
+ None 5 10 50 100 None 5 10 50 100
+ Concentration of Extracts (ppm) Concentration of Extracts (ppm)
+ (C) (D) Control (No treatment)
+ Control (No treatment) Juice of J. curcas
+ Juice of J. curcas Leaf extract of J. curcas
+ 100 Leaf extract of J. curcas  100 Seed oil of J. curcas
+ +++
+ Seed oil of J. curcas ***
+ % of Grain Damaged
+ Insect Mortality (%)
+ 80
+ 60  *** *** 
+ +
+ +++ *** *** 50 ***
+ *** *** ***
+ 40  + 
+ + +++ *** ***
+ *** *** *** ++
+ *** ***
+  ***
+ *** ***
+ 20 +++
+ *** *** 
+ *** *** +++
+ ***
+ 0 0
+ None 5 10 50 100 None 5 10 50 100
+ Concentration of Extracts (ppm) Concentration of Extracts (ppm)
+ Figure 1. Effects of various extracts of J. curcas on (A) oviposition, (B) progeny production, (C) insect mortality and (D) grain
+ damage by Sitophilus zeamis. Values are Mean ± SEM with n=4. *P<0.05, **P<0.01, ***P<0.001 compared to control. +P<0.05,
+ ++
+ P<0.01, +++P<0.001 compared to juice of J. curcas. ΔP<0.05, ΔΔP<0.01, ΔΔΔP<0.001 compared to leaf extract of J. curcas.
+purpurea (digitoxin) and Calotropis procera against camel observed in the oviposition inhibitory effects of the seed
+tick, Hyalomma dromedarii . oil at concentration ≥10 ppm while its effects were
+ reduced by about 50% at 5 ppm (P < 0.001). The potency
+ of other extracts were significantly lower at
+Grain protectant and insecticidal activities of J. concentrations ≤10 ppm (P < 0.001, Figure 1A).
+curcas extracts Expectedly, results obtained for number of eggs
+ hatched showed that all the different plant preparations
+To assess grain protectant effects of J. curcas, different significantly prevented egg hatching in a concentration-
+extracts of the plant were tested for their abilities to inhibit dependent manner (Figure 1B). Grains pre-treated with
+oviposition and hatching of S. zeamis eggs. Figure 1A the seed oil produced the lowest number of hatched eggs
+shows",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00935.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00668,Pesticidal effects of scent leaf (Ocimum gratissimum L.) on maize weevil: potency of scent leaf on Sitophilus zeamais,6,Repellency of Sitophilus zeamais adults after 1 h and 3 h exposure to Ocimum gratissimum extract.,131,18,12,"Table 6. Repellency of Sitophilus zeamais adults after 1 h and 3 h exposure to Ocimum gratissimum extract.
+Concentration (mg/mL) Nc Nt Repellency (%)
+ 1h
+150 9.33±0.58b 6.33±0.58a 19.22±1.36c
+250 12.33±1.15a 6.67±0.58a 29.80±0.34b
+750 9.33±1.15b 2.00±0.00b 69.93±2.54a
+ 3h
+150 10.00±1.00a 6.33±1.53a 23.12±6.60b
+250 10.67±1.16a 5.33±0.58ab 33.33±0.00a
+750 5.67±1.16a 2.33±0.58b 68.14±0.56a
+Values as mean±SD. Values with different letters in superscipt along a column were significantly different (p <0.05). Nc, number in control; Nt, number in treatment.
+ [Journal of Biological Research 2023; 96:11246]
+Article
+ feeding damage and weight loss of S. zeamais. This was evident in
+Discussion the lower percentage of weight loss recorded in the treated groups.
+ This could be due to the mortality and antifeedant effects of the
+ The pitfalls of synthetic pesticides have led to increased interest extract.19
+in the application of botanical pesticides for crop production. In all the tests, the effectiveness of the ethanolic plant extract
+Pesticidal plants are considered to be non-pollutant, less toxic, and was dose-dependent with the severity of their effects increasing with
+easily biodegradable in the environment. These pesticidal plants an increase in concentration. Different botanical effectiveness at
+contain non-persistent active ingredients, many of which are ultravi- higher dosages to various storage pests has been reported by several
+olet labile and easily oxidized by microorganisms, posing little to no authors.27,28,29 In the present study, both plant extract and powdered
+toxicity to stored products.17 In recent years, experts studying pests form of O. gratissimum are effective in controlling S. zeamais at
+of stored products have become increasingly interested in these high dosages when compared with the existing studies. There is,
+botanicals.18 however, little research on the synergistic pesticidal properties of
+ In the present study, the extract of O. gratissimum was screened O. gratissimum extract when mixed with other botanical or synthetic
+for its insecticidal action against S. zeamais. The study indicates that insecticides.
+the extract can be used in the control of maize weevil. Exposure of The exact mechanism by which O. gratissimum extract worked
+the adult S. zeamais to different concentrations of the ethanolic to kill S. zeamais was unclear, although its high levels of insecticidal
+extract generated significant cumulative mortality in all cases and phytochemicals may have caused toxicity, repellency, and gastroin-
+increased as the extract concentration increased; 35.5%, 64.4%, testinal poisoning effects. The insects then consume the poisoned
+95.5%, and 100% mortalities of S. zeamais were recorded at 30, 150, seeds and are physically abraded by their cuticles, losing bodily fluid
+250 and 750 mg/mL of extract, respectively. The ability of the or developing spiracles that are blocked as a result.30 O. gratissimum
+extract to induce 100% mortality at the concentration of 750 mg/mL
+ ly
+ extract is effective against S. zeamais because it disrupts the meta-
+revealed its potential as an insecticidal agent. The mortality of S. bolic, biochemical, and physiological features of insect pests.19
+ on
+zeamais also was dependent on the concentration of the extract and When exposed to different doses of O. gratissimum, adult insects
+the duration of the exposure. This study is in agreement with the lost significant weight because their energy content was reduced.19
+findings of Campolo et al.19 who reported that O. gratissimum
+ e
+essential oil was able to induce 100% adult S. zeamais mortality at
+high dosages but the lower rates of the extracts were not significant
+compared to control. It was discovered that the dosage and time
+were related to the S. zeamais mortality recorded in this study.19
+ us
+ Conclusions
+ Botanical pesticides provide additional lines of defense against
+ al
+Moreover, the smallest LD50 values were observed for Aster agera- insect infestations due to the synergistic potency of these metabo-
+toides (Asteraceae) (LD50=27.16 μg/cm2), and Litsea salicifolia lites and the gradual evolution of insect pest resistance to a variety
+ ci
+(Lauraceae) (LD50=0.079 μL/insect) against the closely related of bio-active substances that can be safe to use, distinctive in their
+species of S. zeamais, indicating that these essential oils could be
+ er
+ mode of action, and simple to produce. Contrarily, there is only
+insecticidal sources for curculionid stored product pests at very one active component in conventional synthetic pesticides. In the
+lower doses.19 While in this investigation, high doses of O. gratissi-
+ m
+ present study, both powdered and ethanolic extracts of O. gratissi-
+mum extract (250 and 750 mg/mL) caused a high rate of death to S. mum displayed a high level of insecticidal activity against the
+zeamais (95.56% and 100% respectively). Atanda et al.20 were in
+ om
+ maize weevil, S. zeamais. This suggests the high possibility of
+accordance with the present work indicating that by using O. gratis- using it as a toxicant, repellent and feeding deterrent in integrated
+simum peel powder, the mean mortality of S. zeamais adults pest management strategies of S. zeamais. Therefore, these results
+increased with increasing concentration and day of exposure. The
+ -c
+ would add to the database of botanical products available for use
+percentage mortality increased from 26.7%, 45.0%, and 78.3% for a as non-synthetic biopesticides.
+ on
+dosage of 15 g after 24, 48, and 72 hours, respectively.
+ Findings from the present investigation show that O. gratissi-
+mum is rich in phytochemicals such as alkaloids, saponin, phenol, References
+ N
+glycoside, terpenoid, resin, and oil. Specific biologically important
+compounds have been identified in extracts from the plant by previ- 1. IITA. Functional cereal in sub-Saharan Africa. Intl Institute of
+ous works.21,22,23 The extract from the leaves of O. gratissimum pos- Tropical Agric Annual Report and Res Highlights, 2019. pp
+sesses good antioxidant potential presumably due to its phytochem- 77-8.
+ical constituents.24,25 There is no difference regarding the phyto- 2. Adedire CO, Akinkurolere RO, Obembe OM. Efficacy of
+chemical constituents between the extract used in this study and cashew kernel extracts in the control of the maize weevil,
+other extracts made from the same plant from other studies.8,23 Sitophilus zeamais (Coleoptera: Curculionidae). Archives
+ The results of the repellency test showed that the plant extract Phytopathol Plant Protect 2012;45:831-9.
+repelled the weevils at a high level with the maximum percentage 3. Baributsa D, Baoua IB, Baoye ON, et al. PICS bags safely store
+repellency of 69.93% occurring at the highest concentration of 750 unshelled and shelled groundnuts in Niger. J Stored Prod Res
+mg/mL. Similarly, Campolo et al.19 in their work on the potential of 2017;72:54-8.
+O. gratissimum peel oil as a fumigant and repellent to control maize 4. Cosmas P, John CT, Agathar K, et al. Use of botanical pesticides
+weevil, demonstrated that the powder and essential oil of this plant in controlling Sitophilus zeamais (Maize Weevil) on stored Zea
+have a moderate repellency effect against adult S. zeamais. This mays (Maize) grain. Modern Concpts & Devpt in Agron
+repellent action increases the potential practical value of Citrus 2018;1:1-4.
+sinensis (Sapindales: Rutaceae) in protecting grain from attack by S. 5. Fox CW, Stillwell RC, Wallin WG, Hitchcock LJ. Temperature
+zeamais insect pest.26 and host species affect nuptial gift size in a seed-feeding beetle.
+ The results of this study also proved that the powdered form of Funct Ecol 2006;20:1003-11.
+O. gratissimum was able to protect the maize grains against direct- 6. Rani PU, Devanand P. Efficiency of different plant foliar
+ [Journal of Biological Research 2023; 96:11246]
+ Article
+ extracts on grain protection and seed germination in maize. Res of som",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00668.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00974,Relative Susceptibility of Four Coleopteran Stored-product Insects to Diatomaceous Earth SilicoSec®,2,Effect of different doses of SilicoSec on progeny production of C. maculates.,91,3,0,"Table 2 Effect of different doses of SilicoSec on progeny production of C. maculates.
+DE dose rate (mg/kg) No. of progeny (mean ± SE) Progeny suppression (%)
+0 152.0 ± 12.5a -
+250 13.30.9b 91.3
+500 6.0 ± 2.1bc 96.1
+750 2.7 + 0.9cd 98.2
+1,000 0.7 ± 0.7d 99.5
+Means within a column followed by the same letter are not significantly different (Tukey-Kramer HSD test, P > 0.05).
+ Relative Susceptibility of Four Coleopteran Stored-product Insects to Diatomaceous Earth SilicoSec® 119
+day mortality C. maculatus, appeared to share the respectively, obtained from different locations. This
+same level of tolerance to DE, in particular to may explain the lower tolerance of T. castaneum
+SilicoSec with R. dominica and T. castaneum. compared to R. dominica to SilicoSec noted in the
+Tolerance of C. maculates to DE may be attributed to present study. Kavallieratos et al. [33] noted that
+the presence of hairs on the cuticle. As hairy insects knowledge of the exact species to be controlled may
+tend to be less susceptible than insects with fewer help the correct design of a DE-based control strategy.
+hairs because hairs prevent dust particles from coming Our results suggest that in addition to species,
+in contact with the cuticle [11]. In addition other information on the susceptibility of the strain
+factors such as size, rate of feeding (which does not concerned may help improve a given strategy.
+apply to C. maculatus, as the adults do not feed) SilicoSec treatment reduced progeny production in
+cuticular waxes, adhesion of DE to cuticle, absorbance all the four species tested. With the exception of T.
+of water from the hind gut or tolerance to low internal castaneum complete progeny suppression was not
+water are involved in tolerance to DE. However the achieved. Progeny suppression was attributed to the
+exact mechanism of tolerance in C. maculatus is not fact that DE limits insects mating activity by
+yet established. physically hindering movement [34]. Few adult
+ Our results showed that R. dominica was more progeny emerged because the females might have laid
+tolerant than T. castaneum after 14 days of exposure. eggs before being killed by the DE. Mewis and
+Results from previous studies comparing these species Reichmuth [35] working with S. granarius exposed to
+were somewhat inconsistent. For example, DE treated wheat made similar observations. They
+Kostyukovsky et al. [12] showed that T. castaneum reported that the adults died within a few days, which
+was more tolerant than R. dominica to Detia Degesch was time enough to produce progeny. In this regard
+Diatomaceous Earth (DDDE). Similarly, Baldassari et the speed of parental mortality is important, so that
+al. [30] reported higher mortality of R. dominica insect die fast with very few eggs laid in treated
+compared to T. castaneum on wheat treated with commodity. Complete suppression of T. castaneum
+Protector®. However, Fields and Korunic [15] showed progeny in wheat treated SilicoSec at 750 or 1,000
+same level of tolerance to DEs by these two species. mg/kg may be explained by the fact this species is an
+Yet, Kabir et al. [31] worked with same strains of external feeder, with all life stages found external to
+insects used in the present study and found that more the grain kernels. Thus, the larvae were exposed to DE
+adults of T. castaneum than that of R. dominica died particles. Kostyukovsky et al. [12] reported that larvae
+following exposure to wheat and maize grains treated of T. castaneum are very susceptible to DE. Tribolium
+with raw DE. castaneum is a secondary pest which thrives well on
+ It is not known whether the results obtained in this processed cereals or damaged grains. Also the larvae
+study would hold true under different conditions. of T. castaneum need grain dust and damaged kernels
+Perhaps different results may be obtained if the DE to feed on, but these were substantially removed in the
+were to be tested on grains other than wheat or maize process of clearing. This partly explains the lower
+because DE efficacy is known to vary among grain number of T. castaneum adults in the untreated control
+types [4, 5, 16, 32]. The susceptibility of a given relative to other species tested. It is also shown that
+species to DE might be influenced by the insect strain adult stage of insects are more tolerant to DE than
+[33]. For instance, Rigaux et al. [22] and Vayias et al. larval stages [24, 36]. Although the immature stages
+[23] found considerable variations in susceptibility of C. maculatus, S. zeamais and to some extent of R.
+levels T. castaneum and T. confusum populations dominica were not directly affected by DE particles,
+120 Relative Susceptibility of Four Coleopteran Stored-product Insects to Diatomaceous Earth SilicoSec®
+high mortalities were recorded as they emerged as “Effect of Grain Type on the Insecticidal Efficacy of
+ SilicoSec against Sitophilus oryzae (L.) (Coleoptera:
+adults as evidenced by the increasing percentages of
+ Curculionidae).” Crop Protection 22: 1141-7.
+dead progeny in treated grains. This also supports [5] Athanassiou, C. G., Kavallieratos, N. G., Economou, L.
+early reports that presence of DE in commodity P., Dimizas, C. B., and Vayias, B. J. 2005. “Persistence
+gradually eliminates population of insects [28, 33]. and Efficacy of Three Diatomaceous Earth Formulations
+ against Sitophilus oryzae (Coleoptera: Curculionidae) on
+ In conclusion, the present study demonstrated that
+ Wheat and Barley.” Journal of Economic Entomology 98:
+SilicoSec applied at 1,000 mg/kg could control C. 1404-12.
+maculatus, S. zeamais, R. dominica and T. castaneum [6] Athanassiou, C. G., and Korunic, Z. 2007. “Evaluation of
+in stored cowpea, maize and wheat. Initial mortality Two New Diatomaceous Earth Formulations, Enhanced
+ with Abamectin and Bitter Bark Omycin, against Four
+showed that C. maculatus adults exhibited same level
+ Stored-grain Beetle Species.” Journal of Stored Products
+of tolerance to SilicoSec as R. dominica and T. Research 43: 468-73.
+castaneum, whereas S. zeamais was the most [7] El-Wakeil, N. E., and Saleh, S. A. 2009. “Effects of
+susceptible species. Based on the results of the present Neem and Diatomaceous Earth against Myzus persicae
+ and Associated Predators in Addition to Indirect Effects
+study and available literature, knowledge of species on Artichoke Growth and Yield Parameters.” Archives of
+composition and strain sensitivity to DE are important Phytopathology and Plant Protection 42: 1132-43.
+in devising a DE-based integrated management of [8] Vayias, V. J., and Stephou, V. K. 2009. “Factors
+ Affecting the Insecticidal Efficacy of an Enhanced
+stored product insects.
+ Diatomaceous Earth Formulation against Stored Product
+Acknowledgments Insect Species.” Journal of Stored Products Research 45:
+ 226-31.
+ We most sincerely thank Dr. Zlatko Korunic [9] Sabbour, M. M., Abd-El-Aziz1, S. E., and Sherief, M. A.
+ 2012. “Efficacy of Three Entomopathogenic Fungi Alone
+(Diatom Research and Consulting Inc., Canada) for
+ or in Combination with Diatomaceous Earth
+providing the DE quantities for experimentation and Modifications for the Control of Three Pyralid Moths in
+his useful comments on the draft manuscript before Stored Grains.” Journal of Plant Protection Research 52:
+journal submission. We also thank Mr. Joshua B. 359-63.
+ [10] Ebeling, W. 1971. “Sorptive Dusts for Pest Control.”
+Ndirmbula and Mr. Isaac C. Moses for their technical
+ Annual Review of Entomology 16: 123-58.
+assistance. [11] Subramanyam, Bh., and Roesli, R. 2000. Inert Dusts. In
+ Bh. Subramanyam and D.W. Hagstrum (eds.),
+References Alternatives to pesticides in stored-product IPM. (pp.
+[1] Chintzoglou, G., Athanassiou, C. G., and Arthur, F. H. 321-80). Kluwer Academic Publishers, Dordrecht, The
+ 2008. “Insecticidal Effect of Spinosad Dust, in Netherlands.
+ Combination with Diatomaceous Earth against Two [12] Kostyukovsky, M., Trostanetsky, A., Menasherov, M.,
+ Stored-grain Beetle Species.” Journal of Stored Products Yasino",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00974.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00827,UTILIZATION OF TWO LOCALLY SOURCED PLANT POWDERS AS PRESERVATIVES AGAINST SITOPHILUS ZEAMAIS MOTSCHULSKY (COLEOPTERA: CURCULIONIDAE) SUSCEPTIBILITY,5,Mean adult emergence and adult exit hole of S. zeamais Alawi 2014a; 2014b). The result of the current study discovered that both,112,9,0," Table 5: Mean adult emergence and adult exit hole of S. zeamais Alawi 2014a; 2014b). The result of the current study discovered that both
+ admixed with B. micrantha and C. dependens powders of B. micrantha and C. dependens possess insecticidal properties
+ as they evoked adult S. zaemais mortality higher than the control at all
+ Adult emergence doses used. The significantly highest mean mortality of adult S. zaemais
+ Rates B. micrantha C. dependens recorded in the maize seeds treated with B. micrantha and C. dependens at
+ the various dosages and exposure periods showed that they were effective
+ 0g 11.61±2.53a 13.33±2.33a in controlling the insects. The efficacy of the powders was dependent on
+ 0.5g 3.63±1.03b 3.56±2.01b the dosage used and period of exposure. This was in accordance with the
+ study of (Mulungu et al., 2007; Patole, 2009; Yankanchi and Gadache,
+ 1.0g 2.71±2.02c 2.71±1.94c 2010; Ziaee and Moharramipour, 2013).
+ 1.5g 1.73±0.33d 1.58±0.80c
+ A group researcher stated that time is a factor to be considered in the use
+ 2.0g 1.02± of plant powders as grain protectants (Akunne et al., 2014a; 2014b). Toxic
+ 0.15e 1.00±1.82d action of the plant powders increased with increasing exposure period and
+ the rise in death rate according to increasing contact period and dosage
+ was due to the escalation of the quantity of bioactive constituents in the
+Each value is a mean ± standard error of four replicate. Means within
+ plant materials. The contact time is decisive for the efficacy of B. micrantha
+column followed by the same letter are not expressively different at (P>
+ and C. dependens powders, as insects’ movement increases the interaction
+0.05) using New Duncan’s Multiple Range Test.
+ of the insect cuticle with dust particles (Athanassiou et al., 2005).
+Phytochemical constituents of the plants discovered the presence of
+ The lower percentage survival recorded against S. zaemais caused by B.
+tannin, saponin, flavonoid and alkaloids in both plants and absence of
+ micrantha and C. dependens could be linked to (i) the chemical
+glycosides in B. micrantha (Table 6). The presence of these phytochemicals
+ constituents present in the plants which are inimical to the insects and (ii)
+depicts their insecticidal potentials.
+ the desiccation occasioned by the harshness of the small particles of the
+ Cite The Article: Jacobs M. Adesina, Ruth O. Onasanya, Titilayo E. Mobolade-Adesina, Mayo S. Ayodeji, Sheu A. Dattijo, Musa Garba, Kayode D. Ileke (2024).
+ Utilization of Two Locally Sourced Plant Powders as Preservatives Against Sitophilus Zeamais Motschulsky (Coleoptera: Curculionidae) Susceptibility.
+ Science Heritage Journal, 8(1): 48-52.
+ Science Heritage Journal (GWS) 8(1) (2024) 48-52
+plant powders, as inert dust and sand works on same principle which Adesina, J.M., and Mobolade-Adesina, T.E., 2016. Tolerance activities
+breakdowns the layer of wax on the epicuticle, aggravating the deadly loss of Callasobruchus maculatus (F.) (Coleoptera: chrysomelidae) against
+of water as reported or dehydrates the insect cuticle and aggravates Secamone afzelii (Schult) K. Schum Leaf Extracts. Jordan Journal of
+asphyxia in insect (Korunic 1998; Fields and Korunic 2000; Kavallieratos Agricultural Science, 12 (4), Pp. 1141-1154.
+et al., 2005; Subramanyam and Roesli, 2000; Akunne et al., 2014b).
+ Adesina, J.M., Ileke, K.D., Yallappa, R., and Ofuya, T.I., 2016. Insecticidal
+The decrease in the rate of emerged adults detected from the study could evaluation of Bridelia micrantha and Dalbergia lactea aqueous extracts
+be as a consequence of the admixture of maize seeds with plant powders for the control of Podagrica uniforma (Jacoby) and Nisotra dilecta
+which fill the insect intergranular air spaces and prevent adult free (Jacoby) (Coleoptera: Chysomelidae) infestation on okra. AGRIVITA
+movement for mating and oviposition. This assertion confirms the Journal of Agricultural Science, 38 (3), Pp. 269-274.
+positions of who stated that percentage adult emergence is directly http://doi.org/10.17503/agrivita.v38i3.845.
+proportional to the insect oviposition rate (Adesina and Ofuya, 2015;
+Adesina et al., 2011). The failure of these insects to develop may be due to Adesina, J.M., Jose, A.R., Rajashaker, Y., and Afolabi, L.A., 2015.
+the death of the insect’s larvae, which may arise due to incapability of the Entomotoxicity of Xylopia aethiopica and Aframomum meleguta in
+larvae to completely cast off their exoskeleton. The secondary metabolites suppressing oviposition and adult emergence of Callasobruchus
+found in these plants could be liable for the failure of the adult insects to maculatus (Fabricus) (Coleoptera: Chrysomelidae) infesting stored
+emerge as discoursed by who stated that secondary metabolites in cowpea seeds. Jordan Journal of Biological Science, 8 (4), Pp. 263-268.
+botanicals are found to interrupt growth and reduce larva existence as
+well as interfere with the life cycle of insects (Mordue-Luntz and Nisbet, Akunne, C.E., Ononye, B.U., and Ojemro, R.T., 2014b. Mixed application of
+2000; Yang et al., 2006). A group researcher detected that plant products peel and leaf powders of two common fruits as wheat grain protectant
+lowered the emergence of progeny by increasing adult death rate, against Sitophilus oryzae (L.) (Coleoptera: Curculionidae). Discourse
+inhibiting oviposition, ovicidal and larvicidal activities (Suleiman and Journal of Agriculture and Food Science, 2 (12), Pp. 309-313.
+Yusuf, 2011; Ibrahim et al., 2012; Mofunanya and Nta, 2016; Obembe et al.,
+ Akunne, C.E., Ononye, B.U., Mogbo, T.C., and Ngenegbo, U.C., 2014a.
+2020). While, many researchers disclosed that adult S. zeamais, are
+ Evaluation of Zingiber officinale (Schum and Thonn) and Piper
+exterminated by contact with diatomaceous earths, Triplex powders
+ guineense (Roscoe) powders for the control of Sitophilus oryzae (L.)
+Nigerian raw diatomite correspondingly (Arthur and Throne, 2003;
+ (Coleoptera: Curculionidae). American Journal of Life Science Research,
+Tadesse and Subramanyam, 2018; Medugu et al., 2020). Nonetheless,
+ 2 (3), Pp. 342-348.
+some oviposition could still take place and offspring destruction may not
+be effective. That may explain the lowest emergence of progeny at the Al-Alawi, M., 2014a. Acaricidal activity of medicinal plants against the
+lowest treatment doseage. developmental stages of the two spotted spider mite, Tetranychus
+ urticae (Acari: Tetranychidae). International Journal of Agricultural
+Mean proportion of seed damage and loss in weight were much more in
+ Research, 9 (1), Pp. 38-46. DOI:10.3923/ijar.2014.38.46.
+the control dish compared to the maximum protection offered maize
+grains treated with plant powders. The reduced damage and loss in weight Al-Alawi, M.S., 2014b. Efficacy of essential oils from medicinal plants in
+may be due to the oviposition deterrent and/ or ovicidal properties which control of the hairy rose beetle, Tropinota squalida (Scopoli) and their
+suppressed or inhibited egg laying and hatching resulted into low emerged comparative toxicity to the honey bee, Apis mellifera L.
+adult to devour the stored maize. The reduced damaged seed and loss in American Journal of Agricultural and Biological Sciences, 9 (3), Pp. 284-
+weight in the seeds treated with plant powders might also be as a result of 288. Doi:10.3844/ajabssp.2014.284.288.
+the antifeedant properties of the plants evaluated. From this study, it can
+be observed that percentage damaged seed and loss in weight is directly Arthur, F.H., and Throne, J.E., 2003. Efficacy of diatomaceous earth to
+proportional to number or percentage adult emergence from treated control internal infestations of rice weevil and maize weevil
+seeds. (Coleoptera: Curculionidae). Journal of Economic Entomology, 96 (2),
+ Pp. 510-518.
+Some chemical substances available in the plants include alkaloids,
+tannins, saponins, flavonoids, and are bioactive constituents found in the Athanassiou, C.G., Kavallieratos, N.G., Economou, L.P., Dimi",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00827.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00610,"Survey and efficacy test of selected botanical pesticides to manage maize weevil at Gauradaha, Jhapa, Nepal",3,Damaged grains and weight loss in percentage (42nd day).,115,0,7," Table 3. Damaged grains and weight loss in percentage (42nd day).
+Treatments Damaged grain percentage Weight loss percentage
+Sweet flag 0.00c 0.00c
+Neem 12.23ab 6.00b
+China berry 11.39ab 8.00b
+Mug-wort 16.94a 23.00a
+Eucalyptus 3.91bc 6.00b
+Turmeric 3.70bc 5.67b
+Control 17.15a 24.33a
+F-test * ***
+LSD 10.55 2.68
+CV 32.81 20.26
+SEM (±) 2.19 1.23
+ Where, CV= Coefficient of variation, ***=significant at 0.1% level of significance, **=significant at 1% level of significance, *: significant
+ at 5% level of significance; LSD: Least Significant Difference and SEM: Standard Error of Mean.
+Conclusion Further studies should be conducted to explore other botanicals
+ and management of pest in different crops.
+This study concluded that most of the farmers preferred botani-
+cal pesticides over chemicals for maize weevil management,
+which indicated that they are health conscious. Also, farmers ACKNOWLEDGEMENTS
+widely used neem as a botanical pesticide to control maize wee-
+vil, followed by mug-wort, sweet flag, Malabar nut, etc. For the We would like to appreciate administration and laboratory
+bio efficacy test of botanical pesticides, neem, sweet flag and mug staffs of Gauradaha Agriculture Campus as well as the farmers
+-wort were selected based on their availability and farmer’s use. of Gauradaha municipality for their consistent support through-
+Other three botanical pesticides were selected as reference out the research period. Also, we are thankful towards advisor,
+from literature review and compared all of them with control. seniors, juniors and all the helping hands.
+Although neem is widely used by farmers, it was less effective
+than sweet flag in terms of adult maize weevil mortality. Howev- DECLARATIONS
+er, neem was more effective as compared to eucalyptus and mug
+-wort. In conclusion, sweet flag (Acorus calamus) performed best Authorship Contribution statement: Conception and Method-
+during the efficacy test with 100% weevil mortality and almost ology: H.K.K. and A.C.; Software and Validation: A.C. and L.S.;
+zero grain damage and weight loss when applied at the rate of 2 Investigation: H.K.K and A.C.; Data Curation: H.K.K. and L.S.;
+gm per 200 g maize (10g/ Kg). In contrast, control recorded the Writing original draft: H.K.K. and L.S.; Writing-review and edit-
+lowest maize weevil mortality i.e. only 45% overall with grain ing: H.K.K, L.S. and A.C. Supervision: H.K.K., A.C. and L.S. All au-
+damage of 17.15% and weight loss of 24.33%. The test was car- thors have reviewed and approved the final version of the man-
+ried out at a confined location of Gauradaha municipality, Jhapa. uscript before submission.
+87 Hem Kumar Kamat et al. /Arch. Agric. Environ. Sci., 11(1): 83-87 (2026)
+Conflicts of interest: The authors declared that there are no REFERENCES
+conflicts of interest regarding the publication of this manuscript.
+ Aryal, S., Poudel, A., Kafle, K., & Aryal, L. N. (2023). Insecticidal toxicity of essential
+ oil of Nepalese Acorus calamus (Acorales: Acoraceae) against Sitophilus
+Ethics approval: This study was conducted in view of the institu-
+ zeamais (Coleoptera: Curculionidae). Heliyon, 9(11), e22130.
+tional experimental ethical guidelines and does not harm the https://doi.org/10.1016/j.heliyon.2023.e22130
+human participants. Basyal, K., Sapkota, R., Bajryacharya, A., & Bhattarai, S. (2022). Use of botanicals
+ for management of weevil (Sitophilus zeamais motschulky) in maize storage.
+ Journal of Agriculture and Environment, 166-176.
+Consent for publication: All co-authors gave their consent to Cosmas, P., John, C. T., Agathar, K., Ronald, M., Kufa, M., & Betty, C. (2018). Use of
+publish this paper in AAES. botanical pesticides in controlling Sitophilus zeamais (maize weevil) on stored
+ Zea mays (maize) grain. Modern Concepts and Developments in Agronomy, 1(4),
+ 1-4. https://crimsonpublishers.com/mcda/pdf/MCDA.000517.pdf
+Data availability: The data are available on request from the
+ Erenstein, O., Jaleta, M., Sonder, K., Mottaleb, K., & Prasanna, B. M. (2022). Global
+corresponding author. maize production, consumption and trade: trends and R&D implications. Food
+ Security, 14(5), 1295-1319. https://doi.org/10.1007/s12571-022-01288-7
+ Getahun, D., & Wondimu, M. (2020). Screening of Some Botanical Insecticides
+Supplementary data: No supplementary data is available for the
+ against Maize Weevil, Sitophilus Zeamais Motsch.(Coleoptera: Curculio-
+paper. nidae), on Maize. Ethiopian Journal of Science and Sustainable Development, 7
+ (1), 54-62. https://doi.org/10.20372/ejssdastu:v7.i1.2020.149
+Funding statement: Not applicable. Gezahegn, A. M. (2021). Role of integrated nutrient management for sustainable
+ maize production. International Journal of Agronomy, 2021(1), 9982884.
+ https://doi.org/10.1155/2021/9982884
+Additional information: No additional information is available Kadi, H. A. K., Ibrahim, A. M., Pendleton, B. B., & Aboubacar, K. (2025). Efficacy of
+for this paper. selected botanical powders to control maize weevil, Sitophilus zeamais
+ Motschulsky in stored sorghum grain. Journal of Agricultural Chemistry and
+ Environment, 14(1), 23-36. https://doi.org/10.4236/jacen.2025.141002
+Open Access: This is an open access article distributed under the Neupane, B. P., Sharma, P. N., Aryal, S., & Shrestha, J. (2022). Evaluation of locally
+terms of the Creative Commons Attribution Non-Commercial available botanicals for the management of maize weevil (Sitophilus zeamais
+4.0 International License, which permits unrestricted use, distri- Motsch.) in room storage condition. Psyche: A Journal of Entomology, 2022(1),
+ 3362779. https://doi.org/10.1155/2022/3362779
+bution, and reproduction in any medium, provided the original
+ Poudel, B. (2024). Predicting cultivation area, production, and yield of maize in
+author(s) or sources are credited. Nepal: An ARIMA model approach. Nepalese Journal of Statistics, 8, 61-78.
+ https://doi.org/10.3126/njs.v8i1.73170
+ Poudel, P. K., Bhattarai, A., Khadka, P., Poudel, N. K., Gouli, S., & Singh, N. B. (2023).
+Publisher's Note: Agro Environ Media (AESA) remains neutral
+ Efficacy of essential oils against Maize Weevil (Sitophilus zeamais) under
+with regard to jurisdictional claims in published maps, figures laboratory condition of Lamjung Campus. Malaysian Journal of Halal Research
+and institutional affiliations. Journal (MJHR), 6(1), 05-08. https://doi.org/10.26480/mjhr.01.2023.05.08
+ Zuluaga, L. F., Plata-Rueda, A., & Martínez, L. C. (2026). Allium sativum essential oil
+ against Sitophilus zeamais (Coleoptera: Curculionidae): composition, insecti-
+ cidal activity, and behavioral response. Journal of Stored Products Research,
+ 116, 102943. https://doi.org/10.1016/j.jspr.2025.102943",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00610.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00300,"REPELLENCY AND CONTACT TOXICITY OF CRUDE EXTRACTS FROM THREE THAI PLANTS (ZINGIBERACEAE) AGAINST MAIZE GRAIN WEEVIL, SITOPHILUS ZEAMAIS (MOTSCHLUSKY) (COLEOPTERA: CURCULIONIDAE)",3,"Repellency (%) of Kaempferia pulchra rhizome extracts to Sitophilus zeamais adults, using treated filter",408,120,19,"Table 3. Repellency (%) of Kaempferia pulchra rhizome extracts to Sitophilus zeamais adults, using treated filter
+paper. The values are Mean±SE.
+Crude Dose of Duration of exposure (hours)
+Extracts extracts
+ 1 2 3 4 5 6 7 8
+ (µg/cm2)
+ 157 58±9.9ab 58±12.0a 60±12.4a 61±13.2a 62±14.1a 58±11.0a 57±12.1a 52±9.5a
+ 472 39±8.1b 47±8.6a 49±9.9a 51±8.5a 59±8.8a 56±10.9a 51±8.4a 51±9.8a
+Hexane 786 68±6.1a 72±6.1a 72±6.3a 77±6.7a 76±8.2a 75±9.1a 75±7.7a 70±7.6a
+ 1,101 58±11.4ab 63±10.8a 66±9.6a 66±9.8a 65±10.6a 56±13.4a 61±12.4a 58±12.7a
+ 1,415 52±8.4ab 70±8.0a 70±7.8a 74±7.5a 79±7.9a 74±8.1a 69±7.4a 67±7.0a
+ F(4,45) 1.400 1.167 0.909 1.209 0.753 0.847 0.615 0.866
+ P 0.249 0.338 0.467 0.320 0.561 0.503 0.654 0.492
+ 157 35±9.8b 38±8.7b 57±9.9a 50±10.7a 44±10.9b 49±10.3a 53±10.2a 52±9.8a
+ 472 45±7.3ab 51±8.9ab 50±11.6a 52±11.4a 41±12.2b 47±11.4a 48±12.5a 61±11.5a
+Methylene
+ 786 62±4.4a 71±4.3a 71±8.9a 71±9.4a 77±8.8a 63±10.1a 66±9.3a 67±9.3a
+chloride
+ 1,101 53±6.2ab 57±8.4ab 58±10.7a 55±10.4a 52±9.6ab 60±9.9a 53±9.3a 50±9.8a
+ 1,415 50±5.4ab 56±6.4ab 44±9.8a 52±10.6a 47±9.8ab 48±8.5a 51±9.8a 50±11.6a
+ F(4,45) 2.105 2.485 0.983 0.640 1.960 0.555 0.450 0.537
+ P 0.096 0.057 0.426 0.637 0.117 0.697 0.772 0.710
+ 157 69± 4.6a 59± 6.6a 62± 7.3a 65± 4.8a 56± 4.0a 60± 5.4a 54± 3.7ab 51± 3.1c
+ 472 76± 4.8a 75± 5.0a 75±5.0a 63± 5.4a 61± 3.8a 57± 3.4a 51±3.8b 46± 3.7c
+Methanol 786 62±6.1a 63±6.3a 64±4.3a 63±5.4a 59±5.7a 63±4.7a 58±6.3ab 60± 5.6bc
+ 1,101 73± 6.2a 72± 8.1a 66± 7.2a 61± 4.8a 70± 6.2a 65± 7.8a 65± 6.0ab 68± 6.1ab
+ 1,415 73± 6 .7a 68± 8.7a 64± 7.5a 64± 6.9a 64± 6.0a 67± 8.2a 70± 7.3a 76± 5.0a
+ F(4,45) 0.896 0.847 0.643 0.073 1.046 0.416 1.951 6.376
+ P 0.474 0.503 0.635 0.990 0.394 0.796 0.118 0.000
+For each crude extract, means in the same column followed by the same letters do not differ significantly (P = 0.05) as
+determined by Duncan’s multiple range test.
+effective regarding to their toxicological different with the control but has no difference
+activity against S. zeamais. The mortality of with other concentrations, 35 and 45
+this pest sometimes increases as the µg/insect.
+concentration and time of exposure
+progressed, but sometimes the plant extracts
+did not affect at all to the pests.
+Extract of C. longa with solvent hexane was
+the most effective compared to others (Fig. 1).
+The highest mortality was 13% at 45 µg/insect
+respectively at the interval of 7 day while the
+minimum mortality was 1% at 5 µg/insect. It
+had significant difference with its control
+(0%). Similarly, another bar indicated the
+effect of plant C. longa with solvent
+ Fig. 1. Accumulated mortality (%) caused by Curcuma longa
+methylene chloride. It also showed the rhizome extracts to Sitophilus zeamais adults, using micro-
+significant mortality (6%) at 45 µg/insect at applicator. The values are Mean±SE. *For each crude
+interval of 7 day and the minimum mortality is extracts, a treatment is significantly different from the control
+ as determined by Duncan’s multiple range test (P = 0.05,
+1% at 7 day of exposure. The toxicological n=10)
+effect of plant C. longa with solvent methanol It also happened to the methylene chloride and
+revealed that the highest mortality was 6% at methanol extract of Z. cassumunar,
+45 µg/insect at interval of 7 day. It showed eventhough the highest mortality (8 and 6%,
+significant difference with its control. Figure 2 respectively) at 45 µg/insect significantly
+recorded that the plant Z. cassumunar at 25 different compared to its control, but they had
+µg/insect with solvent hexane has 7% as the no difference if compared to other lower
+highest mortality. This has significant concentrations.
+ Bioactivity of Zingiberaceae extracts on S. zeamais JBiopest 9(1):52-62 (2016)
+ 58
+ JBiopest 5(1): 1-6 Their report can be confirmed by our work
+ that C. longa along with 2 plants, Z.
+ cassumunar and K. Pulchra, in Zingiberaceae
+ showed potential for controlling S. zeamais,
+ agricultural pests of stored products.
+ Methanol extract of C. longa stated strong
+ repellent effect to the maize weevil. These
+ finding also has similarity with the research
+Fig. 2. Accumulated mortality (%) caused by Zingiber
+cassumunar rhizome extracts to Sitophilus zeamais adults, done by Ishii et al. (2010). They found that
+using micro-applicator. The values are Mean±SE. *For each 20 mg/ml of ethanol crude extract of turmeric
+crude extracts, a treatment is significantly different from the gave moderate repellence activity against S.
+control as determined by Duncan’s multiple range test (P =
+0.05, n=10). zeamais (34.31%). Hexane extract of Z.
+The experiments of the crude extract of K. cassumunar also showed strong repellent
+pulchra with solvent hexane and methylene activity in this study. The result looks similar
+chloride showed no significant toxic effect to those of Khanam et al. (2008) who reported
+against S. zeamais adults (Fig. 3) eventhough that Z. cassumunar extracted by petroleum
+it showed mortality (4% at 15 µg/insect at ether, non polar solvent as hexane, showed
+interval of 7 day by applying solvent hexane strong repellent effect against T. castaneum
+and only shows 1% at 25 µg/insect with and T. confusum. Other studies have reported
+methylene dichloride solvent). However, the that an essential oil of Z. officinale at 20
+plant extract of K. pulchra with solvent mg/mL and 700 µL/mL repelled S. zeamais
+methanol can reduce the insect until 6% at 45 adults and Prostephanus truncates Horn
+µg/insect at interval of 7 day but still showed adults, respectively (Ishii et al., 2010;
+no significant difference compared to most Ogbonna et al., 2014). The repellent effect of
+other concentrations. Z. cassumunar hexane extract may involve
+DISCUSSION with several factors. One of which was
+Study data from literature review stated a chemical compounds such as sabinene, y-
+highly promising efficacy of C. longa as terpinene, terpinen-4-ol, (E)-1-(3,4-
+natural pesticides. Not only information about dimethoxyphenyl) butadiene containing in the
+the use of C. longa as a spice and apart from extract (Sukatta et al., 2009). The same plant
+its multiple medicinal uses, but also this plants with two other solvents, methylene dichloride
+are credited with interesting pesticidal and methanol, showed weak repellent activity.
+properties against certain agricultural pests Khanam et al. (2008) reported that methanol
+and with promising repellent properties extract of cassumunar ginger also repelled
+against mosquito species (Roy et al., 2014). insect T. confusum at a lower rate.
+ Extract of C. longa with solvent hexane
+ showed low contact toxicity in this study.
+ These results were in agreement with the
+ research obtained by Matter et al. (2008) who
+ showed that 4% of petroleum ether extract of
+ C. longa showed low effectiveness (20.4%)
+ against Sitophilus oryzae (L.). Surprisingly,
+ the same extract at 4% of C. longa scored the
+ highest mortality (90.8%) against Rhyzoperta
+ Fig. 3. Accumulated mortality (%) caused by Kaempferia dominica (Fab.). In another experiment, Ali et
+ pulchra rhizome extracts to Sitophilus zeamais adults, using al. (2014) observed that maximum mortality
+ micro-applicator. The values are Mean±SE. *For each
+ crude extracts, a treatment is significantly different from the of T. castaneum caused by acetone extract of
+ control as determined by Duncan’s multiple range test (P = C. longa was 11% at concentration 20% with
+ 0.05, n=10). the exposure time of 2 days as the
+ © 493
+ Aryani and Auamcharoen
+concentration increased. Moreover, 59
+Asawalam and Chukwuekezie (2012) pulchra for the control of S. zeamais in stored
+evaluated the significant mortality effect maize grains. The methanol extract of C.
+(90%) of S. zeamais assessed by petroleum longa, hexane extract of Z. cassumunar and
+ether extract of C. longa after 42 days of hexane and methanol extracts of K. pulchra
+treatment. exhibited significantly strong repellent activity
+The insecticidal activity of C. longa extracts against this S. zeamais. Hexane extract of",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00300.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00948,"Essential Oils of Three Hypericum Species from Colombia: Chemical Composition, Insecticidal and Repellent Activity Against Sitophilus zeamais Motsch. (Coleoptera: Curculionidae)",1,Chemical composition of EOs from the three Hypericum species.,486,0,13," Table 1. Chemical composition of EOs from the three Hypericum species.
+ RRI Relative %
+ N° Components Non-polar DB-5MS Polar (HP-INNOWax)
+ HME HMY HJU
+ Exp. Range(Ref) Exp. Range(Ref)
+ 1 octane 797 800 - - 0.36 - 0.18
+ 2 2-methyloctane 866 858-872 - - - 0.54 3.82
+ 3 nonane 904 900 - - 53.08 1.59 12.00
+ 4 α-thujene 928 931 1026 1012-1039 0.08 0.05 -
+ 5 α-pinene 939 910-944 1023 1000-1040 25.28 45.52 8.25
+ 6 α-fenchene 955 943-951 1055 1045-1054 - 0.05 -
+ 7 canphene 956 929-968 1064 1040-1083 - 0.28 -
+ 8 3-methylnonane 971 970-977 976 966-976 1.24 0.49 -
+ 9 sabinene 976 973-976 1119 1123-1147 0.32 - -
+ 10 β-pinene 983 960-990 1105 1096-1120 3.60 2.86 0.92
+ 11 myrcene 990 969-993 1172 1150-1176 1.11 1.67 3.94
+ 12 decane 1000 1000 1000 1000 0.13 - 0.12
+ 13 α-terpinene 1020 1012-1020 1184 1178-1223 - 0.07 -
+ 14 p-cymene 1028 1014-1034 1279 1261-1290 0.14 0.55 -
+ 15 limonene 1033 1031-1039 1205 1198-1234 0.28 1.90 0.79
+ 16 cis β-ocimene 1035 1023-1050 1242 1242-1252 - 1.12 -
+ 17 β-phellandrene 1036 1017-1043 1215 1195-1222 0.05 - -
+ 18 trans-β-ocimene 1046 1039-1061 1259 1242-1261 - 0.22 -
+ 19 γ-terpinene 1060 1030-1078 1253 1221-1262 - 0.23 0.27
+ 20 2-methyldecane 1062 1062-1077 1051 1053-1057 0.07 - -
+ 21 α-terpinolene 1087 1063-1104 1291 1275-1297 - 0.21 0.09
+ 22 undecane 1097 1099 1094 1099-1100 2.72 0.65 0.44
+ 23 nonanal 1099 1082-1108 1402 1382-1415 - - 2.25
+ 24 γ-terpineol 1199 1188-1207 1696 1684-1695 - - 0.15
+ 25 decanal 1207 1186-1207 1508 1495-1517 - 0.54 3.27
+ 26 anethole 1289 1284-1301 1846 1819-1847 - - 0.31
+ 27 2-undecanone 1291 1291-1298 - - - - 1.03
+ 28 geranyl acetate 1381 1363-1383 1768 1755-1778 - - 7.93
+ 29 cyclosativene 1371 1367-1371 1489 1479-1492 0.37 - -
+ 30 α-copaene 1385 1365-1394 1500 1485-1509 0.41 - 0.16
+ 31 β-cubebene 1396 1389-1393 1548 1542-1558 0.22 - -
+ 32 α-santalene 1424 1405-1435 1581 1555-1601 0.40 0.38 -
+ 33 β-caryophyllene 1430 1418-1451 1610 1589-1617 2.01 13.59 13.60
+ 34 trans-α-bergamotene 1436 1422-1452 1594 1536-1595 - 0.86 -
+ 35 trans-β-farnesene 1450 1442-1457 1679 1646-1674 - 0.26 -
+ 36 α-caryophyllene 1465 1444-1465 1687 1672-1702 0.46 4.69 6.06
+ 37 γ-selinene 1481 1438-1484 1692 1682-1697 - 0.64 -
+ 38 α-curcumene 1485 1469-1500 1786 1772-1798 - 1.46 -
+ 39 eremophilane 1498 1486-1493 - - 0.06 - -
+ 40 α-zingiberene 1499 1448-1495 1734 1728 - 1.34 -
+ 41 β-selinene 1501 1492-1511 1749 1715-1749 0.32 3.09 -
+ 42 α-Farnesene 1504 1495-1509 1731 1695-1748 0.10 - -
+ 43 cis-α-bisabolene 1505 1500-1511 1741 1719-1759 - 2.40 -
+ 44 α-selinene 1508 1463-1510 1750 1701-1750 0.51 2.50 -
+ 45 β-bisabolene 1514 1503-1517 1740 1724-1748 - 0.85 -
+ 46 γ-bisabolene 1519 1515-1530 1769 1758-1773 - 0.24 -
+ 47 δ-cadinene 1527 1523-1530 1771 1760-1786 0.46 0.07 -
+ 48 calamenene 1532 1510-1532 1849 1826-1839 0.14 - -
+ 49 β-sesquiphellandrene 1532 1516-1531 1781 1748-1783 - 0.37 -
+ 50 7-epi-α-selinene 1534 1526-1540 1779 1775-1789 - 0.94 -
+ 51 cembrene A 1834 1916-1929 2207 2207-2180 1.38 1.13 -
+ Total monoterpenes (%) 30.86 54.73 14.41
+ Total sesquiterpenes (%) 5.46 33.68 27.75
+ Diterpenes (%) 1.38 1.13 -
+ Phenylpropanes (%) - - 0.31
+ Total hydrocarbons (%) 57.60 3.81 23.11
+ Total identified (%) 95.30 93.35 65.58
+ Density (20 °C) (g/mL) 0.775 0.852 0.864
+ RRI: Relative retention indices calculated against n-alkanes; Ref: the NIST WebBook; Pherobase Kovats Index [23,25];
+ Relative %: calculated from MS data. HME: H. mexicanum; HMY: H. myricariifolium; HJU: H. juniperinum
+ Essential oils of Hypericum species 116
+The major constituents of H. mexicanum oil were n-nonane (53.08%) and α-pinene (25.28%),
+meanwhile for H. myricariifolium oil were α-pinene (45.52%) and β-caryophyllene (13.59%). In the
+case of H. juniperinum, the majority components were n-nonane (12.00%), α-pinene (8.25%), geranyl
+acetate (7.93%), β-caryophyllene (13.60%), and α-caryophyllene (6.06%). The chemical composition
+of the OEs from aerial parts of H. mexicanum, H. myricarifolium and H. juniperinum were reported for
+the first time in this study.
+ The results of the essential oil composition of the studied Hypericum species are in agreement
+with previously reported data. Chemotaxonomic evaluation of the genus reveals that the main chemical
+constituents of the genus are aliphatic hydrocarbons, monoterpenes and sesquiterpenes. Hydrocarbons
+tend to be of the important metabolites in essential oils from species of the genus Hypericum and that
+makes them different from EOs obtained from other aromatic species [32, 33, 34].
+3.2. Insecticidal and Repellent Activity Against S. zeamais
+ Firstly, screening of fumigant toxicities of the species were performed at the maximum
+concentration of 500 µL/L air (Figure 1) in order to determine the insecticidal potential of them against
+S. zeamais adults. Essential oils of H. mexicanum and H. myricariifolium were found promissory with
+higher mortality values (45%). Meanwhile H. juniperinum oil does not have insecticidal activity against
+S. zeamais since it caused a mortality percentage lower than 10%.
+ Figure 1. Results of preliminary screening of insecticidal activity of EOs from three species of the
+ Hypericum genus
+ Taking into account that S. zeamais can climb the walls of the vial and come into contact with
+the paper impregnated with the treatment, a modified fumigant test and a topical contact assay were
+carried out with the two active EOs. This, in order to verify if the observed effect was only due to the
+fumigant action or had influence by contact. The fumigant toxicity results against S. zeamais adults are
+shown in Figure 2. The H. mexicanum oil produced very strong fumigant toxicity (the mortality reach
+to 94% at 500 μL/L air), whilst H. myricariifolium oil showed a low level of 56.0% (500 μL/L air) (See
+supporting information for details). These results may be attributed to the high content of volatile
+metabolites such as n-nonane and α-pinene, which can enter on the body of the insect through the
+spiracles generating mortality by fumigance [29]. Some reports indicate that linear and branched alkanes
+have insecticidal effects on the insects of Diptera, Lepidoptera, and Coleoptera orders [35, 36, 37]. On
+the other hand, the α-pinene has been reported as a potential fumigant against S. zeamais with LC50 of
+6.41 mg/L [38], allowing attributed a part of the fumigant toxicity of EOs to this monoterpene. Table 2
+shows the fumigant toxicity of the oils, in terms of their LC50, as well as the slope, intercept, and
+significance values (P-value). Between the two oils, the one obtained from H. mexicanum is the most
+promising, since it had a moderate lethal concentration (223.5 µL/L air) and the highest “slope” value,
+117 Patiño-Bayona et.al., Rec. Nat. Prod. (2021) 15:2 111-121
+a fact that indicates that do not require large variations in their concentration to significantly increase
+insect mortality.
+ Figure 2. Fumigant activity results of ""vial in vial"" methods with and without contact",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00948.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00739,Alternative method of maize grain quality maintenance for small farmers through hermetic storage,2,"Means (±SE) Infestation, moisture content, bulk density, electric conductivity and germination of corn grains in",154,0,2,"Table 2 - Means (±SE) Infestation, moisture content, bulk density, electric conductivity and germination of corn grains in
+different period and hermetic conditions of storage.
+ Infestation (%)
+SP (days)
+ Control Silo bags PET bottles
+0 0.00a 0.00a 0.00a
+15 3.50a 1.25b 1.00b
+30 27.50a 1.25b 1.00b
+45 75.75a 1.25b 0.75b
+60 100.00a 0.75b 0.75b
+ Moisture content (%)
+SP (days)
+ Control Silo bags PET bottles
+0 11.74a 11.74a 11.74a
+15 12.44a 11.13b 11.28b
+30 13.85a 11.18b 11.45b
+45 14.19a 11.66b 11.66b
+60 14.75a 11.79b 11.89b
+ Bulk density (kg 100 L-1)
+SP (days)
+ Control Silo bags PET bottles
+0 82.20a 82.20a 82.20a
+15 79.64a 80.79a 81.06a
+30 77.18b 79.91a 80.76a
+45 72.77b 80.30a 80.25a
+60 61.63b 79.34a 79.53a
+ Electric conductivity (µS cm-1 g-1)
+SP (days)
+ Control Silo bags PET bottles
+0 17.41a 17.41a 17.41a
+15 38.37a 17.56b 17.76b
+30 40.44a 19.66b 19.40b
+45 45.10a 19.74b 20.06b
+60 104.09a 19.79b 19.96b
+ Germination (%)
+SP (days)
+ Control Silo bags PET bottles
+0 95.00a 95.00a 95.00a
+15 64.50b 93.00a 93.50a
+30 55.50b 89.50a 89.50a
+45 16.50b 87.50a 88.00a
+60 0.00b 80.00a 79.50a
+* Means followed by the same letter in the row for each variable do not differ from each other by the Tukey test (P <0.05); SP Storage
+period; SE standard error. Source: Authors.
+ The insect species that infested the corn kernels under hermetic and non-hermetic conditions was only S. zeamais.
+This weevil is the main stored-grain pest in tropical regions (Oliveira et al. 2018). An analogous result was verified by Lane
+and Woloshuk (2017), who studied the effectiveness of hermetic sacks for corn storage and observed that after three months of
+storage, the predominant insect was S. zeamais.
+ PET bottles and silo bags presented insect infestation percentage close to zero in all storage periods (Figure 1, Table 2
+and 3). In the control treatment, the degree of infestation increased significantly (P<0.05), corresponding to a 100% increase of
+infestation throughout the storage of up to 60 days (Figure 1 and Table 2 and 3). Suleiman et al. (2018) studied the effect of S.
+ 5
+ Research, Society and Development, v. 11, n. 15, e565111537071, 2022
+ (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v11i15.37071
+zeamais on maize quality during hermetic and non-hermetic storage and verified 100% mortality of insects after 60 days of
+storage under hermetic storage conditions. According to these authors, the hermetic treatment was observed to have a greater
+decrease of oxygen and a higher accumulation of carbon dioxide than those in other treatments, confirming that treatments that
+contained insects consumed more oxygen compared to the treatments without insects.
+Figure 1 - Percentage of maize infested by Sitophilus zeamais, stored in silo bags (□), PET bottles (○), and control containers
+(∆) during 60 days of storage. The symbols represent the means of replicates, and the line represents the adjusted model.
+ 120
+ Control
+ silo bags
+ PET bottles
+ 90
+ Infestation (%)
+ 60
+ 30
+ 0
+ 0 15 30 45 60
+ Storage period (days)
+ Source: Authors.
+ 6
+ Research, Society and Development, v. 11, n. 15, e565111537071, 2022
+ (CC BY 4.0) | ISSN 2525-3409 | DOI: http://dx.doi.org/10.33448/rsd-v11i15.37071",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00739.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00190,Effects of Astilbin fromDimorphandra mollis(Fabaceae) Flowers and Brazilian Plant Extracts onSitophilus zeamais(Coleoptera: Curculionidae),4,MEAN WEIGHT LOSS ± STANDARD ERROR (%) AND VARIATION INTERVAL OF CORN GRAINS TREATED WITH,153,6,1," TABLE 4. MEAN WEIGHT LOSS ± STANDARD ERROR (%) AND VARIATION INTERVAL OF CORN GRAINS TREATED WITH
+ EXTRACTS FROM PLANTS COLLECTED FROM THE BRAZILIAN CERRADO BIOME AFTER 30 DAYS OF FEEDING BY
+ SITOPHILUS ZEAMAIS ADULTS AND CONTROL.
+ Extracts Weight loss Variation interval
+ Adenocalymma nodosum leaves 4.78 ± 0.23 AB 4.55-5.01
+ Astilbin (isolated from Dimorphandra mollis ﬂowers) 5.48 ± 0.56 A 4.92-6.04
+ Psychotria prunifolia leaves 3.14 ± 0.48 B 2.66-3.62
+ Senna obtusifolia leaves 5.30 ± 0.34 A 4.96-5.64
+ Tithonia diversifolia ﬂowers 3.28 ± 0.45 B 2.83-2.83
+ Absolute ethanol (control) 6.00 ± 0.48 A 5.52-6.48
+ Means followed by the same capital letter per column do not differ by the Tukey test at 5% probability.
+Downloaded From: https://bioone.org/journals/Florida-Entomologist on 17 Sep 2026
+Terms of Use: https://bioone.org/terms-of-use
+ 900 Florida Entomologist 97(3) September 2014
+ that secondary compounds in the extracts of these activity of Peumus boldus Molina essential oil against
+ plants produced repellent or anti-feeding activity in Sitophilus zeamais Motschulsky. Chilean J. Agric. Res.
+ S. zeamais adults. The presence of rotenones (sub- 70(3): 399-407.
+ stance classiﬁed by the World Health Organization BOHLMANN, F., ZIESCHE, J., ROBINSON, H., AND KING, R.
+ M. 1981. Seven germacranolides and four eudesmano-
+ as moderately hazardous) in the R. heudelotii ex- lides from Tithonia rotundifolia. Phytochemistry 20(2):
+ tracts repelled S. zeamais and C. maculatus, and 267-270.
+ decreased the weight loss in corn and common bean BOZSIK, A. 2006. Susceptibility of adult Coccinella sep-
+ Phaseolus vulgaris L. (Fabaceae) grains treated tempunctata (Coleoptera: Coccinellidae) to insecticides
+ with the extracts of this plant (Udo & Epidi 2009), with different modes of action. Pest Mgt. Sci. 62(7):
+ suggesting that the anti-feeding activity of the bo- 651-654.
+ tanical extracts can be efﬁcient in protecting stored BUSTOS-FIGUEROA, G., OSSES-RUIZ, F., SILVA-AGUAYO,
+ grains (Nerio et al. 2010). In conclusion, the extracts G., TAPIA-VARGAS, M., HEPP-GALLO, R., AND RODRÍ-
+ GUEZ-MACIEL, J. C. 2009. Insecticidal properties of
+ from T. diversifolia ﬂowers and P. prunifolia leaves
+ Peumus boldus Molina powder used alone and mixed
+ caused higher mortality and repellency on S. zea- with lime against Sitophilus zeamais Motschulsky
+ mais adults in corn grains, and thus have the po- (Coleoptera: Curculionidae). Chilean J. Agric. Res.
+ tential for use in the integrated management of this 69(3): 350-355.
+ pest in storage. CINTRA, P., MALASPINA, O., PETACCI, F., FERNANDES, J.
+ B., BUENO, O. C., VIEIRA, P. C., AND SILVA, M. F. G. F.
+ 2002. Toxicity of Dimorphandra mollis to workers of
+ ACKNOWLEDGMENTS Apis mellifera. J. Brazilian Chem. Soc. 13(1): 115-118.
+ CINTRA, P., PETACCI, F., FERNANDES, J. B., MALASPINA, O.,
+ To Dr. Aristônio Magalhães Teles (Department of Bota- BUENO, O. C., AND BUENO, F. C. 2005. Astilbin toxicity
+ ny, Federal University of Goiás, Goiânia, Goiás, Brazil) for to leaf-cutting ants Atta sexdens rubropilosa (Hyme-
+ plant identiﬁcation. To “Conselho Nacional de Desenvolvi- noptera: Formicidae). Sociobiology 45(2): 1-7.
+ mento Cientíﬁco e Tecnológico (CNPq)”, “The Academy DE BRITO, J., MANICKAM, V. S., GOPALAKRISHNAN, S.,
+ of Sciences for the Developing World (TWAS)”, “Coorde- UGHIODA, T., AND TANAKA, N. 1995. Determination
+ nação de Aperfeiçoamento de Pessoal de Nível Superior of aglycone chirality in dihydroﬂavonol 3-O-alpha-
+ (CAPES)”, and “Fundação de Amparo à Pesquisa do Es- 1-rhamnosides by H-1-NMR spectroscopy. Chem.
+ tado de Minas Gerais (FAPEMIG)” for ﬁnancial support. Pharm. Bull. 43(2): 338-339.
+ To Global Edico Services of India for revising and editing DOUGHARI, J. H., EL-MAHMOOD, A. M., AND TYOYINA, I.
+ the manuscript. 2008. Antimicrobial activity of leaf extracts of Senna
+ obtusifolia (L). African. J. Pharm. Pharmacol. 2(1):
+ 7-13.
+ REFERENCES CITED FAZOLIN, M., COSTA, C. R., DAMACENO, J. E. O., ALBU-
+ QUERQUE, E. S., CAVALCANTE, A. S. S., AND ESTRELA,
+ ADEDIRE, C. O., AND AKINNEYE, J. O. 2004. Biological ac- J. L. V. 2010. Fumigation of maize for weevil control
+ tivity of tree marigold, Tithonia diversifolia, on cowpea using Tanaecium nocturnum (Bignoniaceae). Pesq. Ag-
+ seed bruchid, Callosobruchus maculatus (Coleoptera: ropec. Brasileira 45(1): 1-6.
+ Bruchidae). Ann. Appl. Biol. 144(2): 185-189. FIGUEIREDO, E. R.,VIEIRA, I. J. C., SOUZA, J. J., BRAZ-FIL-
+ AERTS, R. J., STOKER, A., BEISHUIZEN, M., JAARSMA, I., HO, R., MATHIAS, L., KANASHIRO, M. M., AND CÔRTES,
+ HEUVEL, M., MEIJDEN, E., AND VERPOORTE, R. 1992. F. H. 2010. Isolation, identiﬁcation and antileukemic
+ Detrimental effects of Cinchona leaf alkaloids on lar- activity of the monoterpeneindole alkaloids from Tab-
+ vae of the polyphagous insect Spodoptera exigua. J. ernaemontana salzmannii A. DC., Apocynaceae. Rev.
+ Chem. Ecol. 18(11): 1955-1964. Brasileira Farmacogn. 20(1): 675-681.
+ AMBRÓSIO, S. R., OKI, Y., HELENO, V. C. G., CHAVES, J. S., FINNEY, D. J. 1971. Probit Analysis. Cambridge Univer-
+ NASCIMENTO, P. G. B. D., LICHSTON, J. E., CONSTAN- sity Press, London.
+ TINO, M. G., VARANDA, E. M., AND DA COSTA, F. B. FOUAD, H. A., FARONI, L. R. D., RIBEIRO, R. C., TAVARES,
+ 2008. Constituents of glandular trichomes of Tithonia W. S., AND PETACCI, F. 2012. Extraction and repel-
+ diversifolia: relationships to herbivory and antifeedant lent activity of Lepidoplo aaurea and Memora nodosa
+ activity. Phytochemistry 69(10): 2052-2060. against stored grain and byproduct pests. Vie Milieu
+ ASAWALAM, E. F., EMOSAIRUE, S. O., AND HASSANALI, A. 62(1): 11-15.
+ 2008. Essential oil of Ocimum grattissimum (Lamiac- FOUAD, H. A., FARONI, L. R. D., TAVARES, W. S., RIBEIRO,
+ eae) as Sitophilus zeamais (Coleoptera: Curculionidae) R. C., FREITAS, S. S., AND ZANUNCIO, J. C. 2014. Bo-
+ protectant. African J. Biotechnol. 7(20): 3771-3776. tanical extracts of plants from the Brazilian Cerrado
+ BEKELE, A. J., OBENG-OFORI, D., AND HASSANALI, A. for the integrated management of Sitotroga cerealella
+ 1997. Evaluation of Ocimum kenyense (Ayobangira) as (Lepidoptera: Gelechiidae) in stored grain. J. Stored
+ source of repellents, toxicants and protectants in stor- Prod. Res. 57(1): 6-11.
+ age against three major stored product insect pests. J. HAN, L. K., NINOMIYA, H., TANIGUCHI, M., BABA, K.,
+ Appl. Entomol. 121(1-5): 169-173. KIMURA, Y., AND OKUDA, H. 1998. Norepinephrine-
+ BENZI, V. S., MURRAY, A. P., AND FERRERO, A. A. 2009. augmenting lipolytic effectors from Astilbe thunbergii
+ Insecticidal and insect-repellent activities of essential rhizomes. J. Nat. Prod. 61(8): 1006-1111.
+ oils from Verbenaceae and Anacardiaceae against Rhi- ISLAM, M. S., HASAN, M. M., XIONG, W., ZHANG, S. C., AND
+ zopertha dominica. Nat. Prod. Commun. 4(9): 1287- LEI, C. L. 2009. Fumigant and repellent activities of
+ 1290. essential oil from Coriandrum sativum (L.) (Apiaceae)
+ BETANCUR, J. R., SILVA, G. A., CONCEPCIÓN, J. R. M., against red ﬂour beetle Tribolium castaneum (Herbst)
+ FISCHER, S. G., AND ZAPATA, N. S. M. 2010. Insecticidal (Coleoptera: Tenebrionidae). J. Pest Sci. 82(2): 171-177.
+Downloaded From: https://bioone.org/journals/Florida-Entomologist on 17 Sep 2026
+Terms of Use: https://bioone.org/terms-of-use
+ Tavares et al.: Effects of Botanical Extracts on Sitophilus zeamais 901
+ KERBER, V. A., PASSOS, C. S., VERLI, H., FETT-NETO, A. G., effects of natural and synthetic insecticides on mortal-
+ QUIRION, J. P., AND HENRIQUES, A. T. 2008. Psycholla- ity of Spodoptera frugiperda (Lepidoptera: Noctuidae)
+ tine, a glucosidic monoterpene indole alkaloid from and its predator Eriopis connexa (Coleoptera: Coccinel-
+ Psychotria umbellata. J. Nat. Prod. 71(4): 697-700. lidae). J. Environ. Sci. Health Part B-Pestic. Contam.
+ KOONA, P., MALAA, D., AND KOONA, O. E. S. 2007. Hexane Agric. Wastes 45(6): 557-561.
+ extracts from Tephrosia vogelii Hook. f. protect stored TAVARES, W. S., CRUZ, I., FONSECA, F. G., GOUVEIA, N. L.,
+ maize a",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00190.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00600,"Phytochemical compositions and Adulticidal Effectiveness of Indian Borage, Coleus amboinicus Lour, against Maize Weevil, Sitophilus zeamais Motschulsky [Coleoptera: Curculionidae]",2,Lethal Dosage of Plant Exposure Intercept ± S.E Slope ± R2 LD50 (LCL–UCL) LD90 (LCL–UCL) p value,256,30,19,"Table 2  Lethal Dosage of Plant Exposure Intercept ± S.E Slope ± R2 LD50 (LCL–UCL) LD90 (LCL–UCL) p value
+Coleus amboinicus Part Powder Period (days) S.D
+Powder against Adult S.
+zeamais Leaf 1 5.02 ± 0.19 0.98 ± 1.02 0.93 0.95 19.85 0.74
+ (0.40–2.22) (8.46–46.58)
+ 2 5.42 ± 0.18 1.05 ± 0.96 0.84 0.39 7.03 0.43
+ (0.18–0.87) (3.19–15.48)
+ 3 5.76 ± 0.15 1.23 ± 0.81 0.84 0.24 2.85 0.50
+ (0.12–0.46) (1.42–5.71)
+ 4 5.83 ± 0.20 0.95 ± 1.06 0.85 0.13 3.06 0.59
+ (0.05–0.32) (1.23–7.61)
+ 5 5.81 ± 0.28 5.81 ± 1.46 0.88 0.07 4.89 0.15
+ (0.02–0.23) (1.39–17.18)
+ Stem 1 4.80 ± 0.16 1.21 ± 0.83 0.94 1.46 17..09 0.58
+ (0.71–3.02) (8.27–35.26)
+ 2 5.24 ± 0.16 1.14 ± 0.88 0.88 0.61 8.41 0.41
+ (0.29–1.27) (4.06–17.44)
+ 3 5.48 ± 0.17 1.10 ± 0.91 0.83 0.37 5.75 0.47
+ (0.17–0.78) (2.70–12.22)
+ 4 5.77 ± 0.16 1.21 ± 0.83 0.85 0.23 2.83 0.64
+ (0.11–0.47) (1.40–5.75)
+ 5 6.04 ± 0.16 1.28 ± 0.79 0.80 0.15 1.67 0.55
+ (0.08–0.31) (0.83–3.38)
+ Root 1 4.59 ± 0.14 1.52 ± 0.66 0.98 1.85 13.01 0.79
+ (0.99–3.46) (6.96–24.31)
+ 2 4.89 ± 0.17 1.14 ± 0.88 0.92 1.26 17.35 0.55
+ (0.59–2.68) (8.14–37.00)
+ 3 5.15 ± 0.18 1.03 ± 0.97 0.89 0.71 13.05 0.56
+ (0.32–1.59) (5.82–29.25)
+ 4 5.39 ± 0.19 0.96 ± 1.04 0.89 0.39 8.87 0.69
+ (0.17–0.93) (3.76–20.93)
+ 5 5.70 ± 0.17 1.11 ± 0.90 0.89 0.23 3.46 0.76
+ (0.11–0.12) (1.61–7.43)
+ R2 = Statistical measure of mortality proportion in regression model
+ S. E. = Standard error
+ S. D. = Standard deviation
+ LD50 = Lethal dosage at which 50% population response
+ LD90 = Lethal dosage at which 90% population response
+ LCL = Lower confidence limit
+ UCL = Upper confidence limit
+ p value = Chi -square (X2) Significant
+3.4 Contact toxicity effect of C. amboinicus extract on mortality response of adult Sitophilus zeamais
+The mortality of S. zeamais was recorded after exposure to extracts of C. amboinicus parts (Table 3). Mortality rates
+increased in subsequent periods of extract dosage. Control had no mortality (0.00%) recorded and was significantly
+different (p < 0.05) from all other treatments. Coleus amboinicus leaf extracts achieved at least 50% mortality of S.
+zeamais at 0.1 ml, stem extracts at 0.6 ml (60.00%), and root extracts at 0.9 ml (80.00%) within 24 h of exposure.
+Absolute mortality (100.00%) was attained within a day with leaf extract, day 2 with stem extract, and day 3 with
+root extract at 1.5 ml treatments. C. amboinicus root was the least toxic, evoking 20% mortality of maize seed on day
+1 after treatment. In day 1, the adulticidal effects of 0.1 ml of C. amboinicus leaf (50.00%), 0.3 ml of stem (46.67%),
+and 0.6 ml of root (46.67%) were not significantly different (p > 0.05). Likewise, 0.1 ml of C. amboinicus stem (3.33%)
+and 0.3 ml of root (36.67%), 0.3 ml of C. amboinicus leaf (60.00%) and 0.6 ml of stem (60.00%), 0.9 ml of C. amboini-
+cus stem (80.00%) and 1.5 ml of root (76.67%), stem oil extracts of 0.9 ml (80.00%) and 1.5 ml (86.67%), and root
+Vol:.(1234567890)
+Discover Plants (2025) 2:29 | https://doi.org/10.1007/s44372-025-00108-4
+ Research",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00600.txt,HIGH,REJECT,LC_LD_TABLE
+SZ_00600,"Phytochemical compositions and Adulticidal Effectiveness of Indian Borage, Coleus amboinicus Lour, against Maize Weevil, Sitophilus zeamais Motschulsky [Coleoptera: Curculionidae]",4,Lethal Concentration Plant Exposure Intercept ± S.E Slope ± R2 LC50 (LCL–UCL) LC90 (LCL -UCL) p value,219,30,2,"Table 4  Lethal Concentration Plant Exposure Intercept ± S.E Slope ± R2 LC50 (LCL–UCL) LC90 (LCL -UCL) p value
+of C. amboinicus Crude Extract Extract Period (hours) S.D
+against Adult Sitophilus
+zeamais ­(LC50 and L­ C90) Leaf 24 5.89 ± 0.19 1.00 ± 0.99 0.78 0.13 2.64 0.61
+ (0.05–0.30) (1.11–6.30)
+ 48 5.97 ± 0.27 0.74 ± 1.35 0.97 0.05 2.65 0.33
+ (0.02–0.16) (0.79–8.89)
+ 72 6.49 ± 0.24 0.96 ± 1.03 0.99 0.03 0.61 0.81
+ (0.01–0.08) (0.21–1.79)
+ 96 7.22 ± 0.22 1.38 ± 0.72 1.00 0.02 0.21
+ (0.01–0.06) (0.08–0.57)
+ 120 7.63 ± 0.25 1.52 ± 0.66 1.00 0.02 0.13 -
+ (0.01–0.05) (0.04–0.39)
+ Stem 5.77 ± 0.14 1.34 ± 0.74 0.93 0.27 5.07 0.72
+ (0.14–0.51) (1.19–21.41)
+ 24 6.08 ± 0.17 1.18 ± 0.85 0.92 0.12 2.44 0.74
+ (0.06–0.26) (1.29–4.62)
+ 48 5.85 ± 0.34 0.61 ± 1.65 0.99 0.04 1.50 0.20
+ (0.01–0.17) (0.69–3.22)
+ 72 6.49 ± 0.24 0.97 ± 1.03 0.99 0.03 0.61 0.81
+ (0.01–0.09) (0.21–1.79)
+ 96 7.35 ± 0.19 1.62 ± 0.62 1.00 0.03 0.22 -
+ (0.01–0.08) (0.09–0.52)
+ Root 24 5.44 ± 0.14 1.36 ± 0.73 0.95 0.48 4.19 0.77
+ (0.26–0.89) (2.26–7.79)
+ 48 5.77 ± 0.15 1.27 ± 0.79 0.90 0.25 2.93 0.64
+ (0.13–0.49) (0.89–9.69)
+ 72 6.06 ± 0.16 1.26 ± 0.79 0.82 0.15 2.60 0.66
+ (0.07–0.30) (1.33–5.11)
+ 96 5.94 ± 0.27 0.74 ± 1.35 0.95 0.05 1.62 0.29
+ (0.02–0.18) (0.79–3.31)
+ 120 6.48 ± 0.21 1.07 ± 0.93 0.98 0.04 0.66 0.78
+ (0.02–0.11) (0.26–1.73)
+ R2 = Statistical measure of mortality proportion in the regression model
+ S. E. = Standard error
+ S. D. = Standard deviation
+ LC50 = Lethal concentration at which 50% population response
+ LC90 = Lethal concentration at which 90% population response
+ LCL = Lower confidence limit
+ UCL = Upper confidence limit
+ p value = Chi -square (X 2) Significant
+4 Discussion
+The use of botanicals in place of synthetic chemicals in controlling crop and stored product pests is currently gaining
+recognition. Some plant products have been researched on and proved to mitigate damages caused by insect pest
+on agricultural products with no toxicity effect on consumers and environment [21, 22]. The present study has shown
+the adulticidal potency of C. amboinicus powder and crude extract against adult maize weevil with the emphasis on
+the leaf part of the plant as the most potent.
+ In this study, the quantity of alkaloids, tannins, flavonoids, and saponins present in the plant leaf, stem, and root
+varies with the leaf extract having the highest content of alkaloid, tannin, and flavonoids while the root with most
+saponins. These phytochemicals have been reported in C. amboinicus extract by [23, 24]; however, [10] did not sapo-
+nins in the leaf extract. The disparities in phytochemical contents can be attributed to geographical location, climate,
+and different stages of plant material collection [25]. These phytochemicals are not harmful to human but serve has
+Vol:.(1234567890)
+Discover Plants (2025) 2:29 | https://doi.org/10.1007/s44372-025-00108-4
+ Research",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00600.txt,HIGH,REJECT,LC_LD_TABLE
+SZ_00424,Effect of binary combinations of neem oil and Hymenocardia acida (Anacardiaceae) and Lophira lanceolata (Ochnaceae) wood ashes against Sitophilus zeamais (M.) (Coleoptera: Curculionidae) and Callosobruchus maculatus (F.) (Coleoptera: Chrysomelidae),1,Percentage of repellency according to the classification of,111,0,24," Table 1: Percentage of repellency according to the classification of
+2.2. Wood ash McDonald et al. (1970) [20]
+The wood of H. acida and L. lanceolata was purchased at the Classes Repellency interval Properties
+Ngaoundere III market. The wood from each plant species Classe 0 PR 0,1
+was burned separately and without mixing with wood from 0.1  PR  20 Not repellent
+ Classe I
+other plant species. After cooling, ashes were sieved using a Very weakly repellent
+ Classe II 20  PR  40
+ Weakly repellent Moderately repellent
+0.4 mm mesh sieve to remove large particles. They were then Classe III 40  PR  60 Repellent
+stored in a refrigerator (-4°C) prior to bioassays. Classe IV 60  PR  80 Very repellent
+ Classe V 80  PR  100%
+3. Bioessays
+3.1. Toxicity test of products used on S. zeamais and C. 3.3. Fecondity and F1 progeny production test on C.
+maculatus adults: Doses of 2, 4 and 6 ml/kg for neem oil; maculatus: The modified method of Rahman & Talukder
+ ~ 203 ~
+Journal of Entomology and Zoology Studies https://www.entomoljournal.com
+(2006) [28] was used. Doses of 2, 4 and 6 ml/kg for neem oil; 100% on the last day. In contrast, the lowest dose resulted in
+0.4, 2, 10, and 20 g/kg for ashes; and 2 ml/kg + 0.4, 2, 10, and zero mortality and 5% mortality on S. zeamais and C.
+20 g/kg for the mixtures were used and each was mixed with maculatus respectively on the first day, and mortality rates of
+10 g of cowpea in 7 mm petri dishes. Two pairs of 24-hour- 8.26% and 97.37% respectively on the last day of exposure.
+old insects were placed in each Petri dish. The insects were Mortality increased significantly in all periods depending on
+left to lay eggs until they died and were then removed. The the dose (P= 0.001).
+number of eggs per Petri dish was counted to assess the
+fertility of the females. The beans were left in the Petri dishes 1.2. Toxicity of wood ash of H. acida and L. lanceolata on
+and all F1 offspring were counted. The number of individuals adults of S. zeamais and C. maculatus
+per Petri dish was recorded. The tests were conducted under The mortality of S. zeamais and C. maculatus induced by H.
+laboratory conditions (T= 24.04-25.18°C; RH= 61.54-62.52). acida and L. lanceolata ashes varied significantly with the
+ type of ash, the doses and the exposure periods. H. acida ash
+4. Data analysis caused higher mortality than L. lanceolata ash. Indeed, one
+Abbott's formula (Abbott, 1925) was used to correct control day after infestation, the highest dose (40 g/kg) of H. acida
+mortality. Data on the mortality percentage of the two weevils ash caused 38.20% and 8.75% mortality on C. maculatus and
+and on the fertility and production of C. maculatus offspring S. zeamais respectively compared to 24.17% and 5% for L.
+were transformed into arcsin√(x/100). These transformed data lanceolata ash. Similarly, at the last exposure period for each
+were subjected to analysis of variance (ANOVA) using insect, we obtained 80.82% and 98.53% mortality on C.
+Statistical Analysis System (SAS) software (Zar, 1999; SAS maculatus and S. zeamais respectively caused by H. acida ash
+Institute, 2003) [37, 30]. Tukey's test was used to separate the compared to 73.53% and 97.30% for L. lanceolata ash. A
+means. Probit analysis (Finney, 1971; SAS Institute, 2003) [13, notable finding was the ineffectiveness of L. lanceolata ash at
+30]
+ was conducted to determine the lethal doses causing 50% doses of 0.4 and 20 g/kg on S. zeamais 1 day post-infestation.
+(LD50) and 95% (LD95) mortality in S. zeamais and C.
+maculatus. 1.3. Toxicity of the mixture of neem oil with each ash
+Co-toxicity coefficients were calculated to determine the The addition of 2 ml/kg of A. indica oil increased the
+combined effect of the products: when a co-toxicity insecticidal effect of the ashes of H. acida and L. lanceolata.
+coefficient is less than 80, the effect is considered The smallest doses of the neem oil + ash mixture in period 1
+antagonistic; between 80 and 120, it is considered additive; caused higher mortality rates than the ash tested alone
+and above 120, it is synergistic (Sun & Johnson, 1960) [32]. (12.50% and 2.5% for the mixture with H. acida on C.
+ maculatus and S. zeamais, compared to 10.00% and 1.25%
+Results for the mixture with L. lanceolata). Similarly, the mortality of
+1. Toxicity of insecticide products C. maculatus at the highest dose was 36.99% with the neem
+All products tested caused significant mortality on S. zeamais oil + H. acida ash mixture, compared to 28.73% for the
+and C. maculatus adults compared to the control. This mixture with L. lanceolata ash. However, no dose of the
+mortality increased significantly with concentration and mixtures resulted in complete mortality of C. maculatus. The
+exposure period, and varied depending on the product used. highest dose (40 g/kg) caused complete mortality of S.
+ zeamais for the mixture of L. lanceolata ash at 7 days post-
+1.1. Toxicity of neem oil infestation, while that of H. acida with neem oil resulted in
+Mortality was higher at higher doses (8-10 ml/kg) and during complete mortality at a dose of 20 g/kg for the same exposure
+the last exposure period (Tables 2 and 3). In fact, the highest period. Mortality in the two treatments varied significantly
+A. indica oil concentration (10 ml/kg) resulted in mortality (P<0.001) depending on the doses and exposure periods.
+rates of 17.50% and 47.50% on S. zeamais and C. maculatus
+respectively on the first day of exposure, and 83.55% and",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00424.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00424,Effect of binary combinations of neem oil and Hymenocardia acida (Anacardiaceae) and Lophira lanceolata (Ochnaceae) wood ashes against Sitophilus zeamais (M.) (Coleoptera: Curculionidae) and Callosobruchus maculatus (F.) (Coleoptera: Chrysomelidae),4,Repellency rate (%) (Mean ± Standard error) of S. zeamais on maize treated with A. indica oil and L. lanceolata and H. acida ash alone,88,17,16,"Table 4: Repellency rate (%) (Mean ± Standard error) of S. zeamais on maize treated with A. indica oil and L. lanceolata and H. acida ash alone
+ and in combination after 24 hours of exposure under ambient laboratory conditions (t ≈ 22.08±1.95°C; hr ≈ 39.76±3.73%)
+ Products and doses Repellency rate (%) Class Interpretation
+ L. lanceolata (g/kg)
+ 0.4 -24.16±9.16b A Attractive
+ 20 35.39±9.30a II Weakly repellent
+ 40 37.43±2.11a II Weakly repellent
+ F 16.30*
+ H. acida (g/kg)
+ 0.4 8.31±6.51a I Very weakly repellent
+ 20 6.87±10.75a I Very weakly repellent
+ 40 6.61± 9.32a I Very weakly repellent
+ F 0.10ns
+ A. Indica (ml/kg)
+ 2 20.40±17.41a II Weakly repellent
+ 4 28.03±3.88a II Weakly repellent
+ 6 34.65±15.19a II Weakly repellent
+ F 0.73ns
+ L. lanceolata (g/kg) + A. indica (2 ml/kg)
+ 0.4 27.37±10.46a II Weakly repellent
+ 20 29.14±3.69a II Weakly repellent
+ 40 37.68±2.87a II Weakly repellent
+ F 1.32ns
+ H. acida (g/kg) + A. indica (2 ml/kg)
+ 0.4 43.41±9.44a III Moderately repellent
+ 20 51.54±4.03a III Moderately repellent
+ 40 60.13±3.17a IV Repellent
+ F 2.63ns
+ns: p  0.05 ; *: p < 0.0001 ; A: attractive
+NB: For the same product, averages with the same lowercase letter in a column do not show a significant difference at the 5% threshold
+according to Tukey's test.
+Inhibition of fecundity and F1 progeny production reduction in F1 progeny production compared to the control
+All products caused a significant reduction in the number of (Table 5). The percentage of inhibition varied according to the
+eggs laid by C. maculatus females compared to controls product applied. A significant difference in mortality rates
+(Table 5). The reduction in fertility varied depending on the was observed between H. acida, L. lanceolata and the
+product, and the variation was significant between H. acida, combination L. lanceolata + A. indica (F = 130.20; P <
+H. acida + oil and neem oil, but not between H. acida - L. 0.001), whereas no significant differences were recorded
+lanceolata and between H. acida + oil - L. lanceolata + oil among L. lanceolata + A. indica, H. acida + A. indica, and
+(F=375.76; P<0.001). At all periods, inhibition also increased neem oil treatments. Moreover, the effect of dosage was
+with increasing dose (P<0.001). The inhibition rate of statistically significant for all treatments (P < 0.001).
+fecundity at lower doses of products were higher than those Although none of the products completely suppressed F1
+for the control (Table 5). No product achieved maximum emergence, the highest inhibition rates at the maximum
+inhibition (100%), but neem oil at the highest dose achieved dosage were recorded with neem oil (99.33%), followed by
+95.43%, followed by L. lanceolata + oil (87.32%) and H. the combinations L. lanceolata + A. indica (97.56%) and H.
+acida + oil (84.23%) while inhibition was 68.42% for L. acida + A. indica (95.49%). Lower inhibition rates were
+lanceolata and 65.94% for H. acida. At the lowest dose, neem observed for the ashes of L. lanceolata (77.79%) and H. acida
+oil inhibited more than half of the emergence (54.20%) and L. (69.21%). Notably, neem oil, both alone and in combination
+lanceolata only (32.31%). with either ash induced over 50% inhibition of F1 progeny
+All tested products resulted in a statistically significant production even at the lowest dose tested.",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00424.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00783,Toxic and repellent effect of Zanthoxylum armatum (Sapindales:Rutacae) essential oil to Sitophilus zeamais (Coleoptera:Curculionidae),1,LC50 and L,96,0,21,"Table 1  LC50 and L
+ ­ C90 (%) of the essential oil extract of Zanthoxylum armatum in glass-vial bioassay tested against Sitophilus zeamais after 96
+and 144 h
+Hours LC50 ­(CL95%) LC90 ­(CL95%) χ2 slope (± SE) intercept (± SE) P
+96 11.62 (7.13–23.27) 241.37 (82.32–17.03) 390.58 0.97 (± 0.04) −1.03 (± 0.04) < 0.001
+144 4.51(2.74–7.38) 64.56 (28.85–31.11) 466.84 1.1 (± 0.05) −0.726 (± 0.04) < 0.001
+ 36 Page 4 of 8 Journal of the Saudi Society of Agricultural Sciences (2025) 24:36
+3.4 Median lethal time (days) on mortality highest concentrations of oil (10% and 5%, respectively)
+ of Sitophilus zeamais with essential oil (Fig. 1A). In the maize grain treatment, the two highest
+ of Prickly ash Pepper in maize treatment concentrations of (10% and 5%, respectively) cause 100%
+ bioassay mortality at 16 and 24, respectively (Fig. 1B).
+Probit regression analysis was performed to estimate the 3.6 Repellent effect of essential oil Prickly ash
+median lethal time (­ LT50) required to cause 50% mortality Pepper to Sitophilus Zeamais
+of S. zeamais at five concentrations of Z. armatum essential
+oil. At a concentration of 10%, only 7.8 days were required The repellent effect of Z. armatum essential oil on S. zeamais
+to achieve 50% mortality (y = 5.3x-4.76). At 5%, L ­ T50 was significantly different across various concentrations
+increased to 9.45 days (y = 4.91x-4.79), and at 2.5%, it fur- (χ 2 = 8.70, df = 3, p = 0.034). The highest concentration
+ther increased to 10.04 days (y = 4.64x-4.65). At lower con- (10% and 5%) resulted in average repellency percentages of
+centrations, ­LT50 decreases sharply, reaching 37.06 days at 97.5% and 95%, respectively, while the lowest concentration
+1.25% (y = 3.76x-5.9) and 42.8 days at 0.025% (y = 4.171x- (1.15%) exhibited a repellency of only 55% (Fig. 2).
+6.81). These results indicate a clear trend: as the concentra-
+tion of essential oil decreases, the time required to achieve
+50% mortality increases. No mortality was observed in the 4 Discussion
+control treatment during the observation period (Table 4).
+ This study assessed the toxicity and repellency of Zanth-
+3.5 Mortality concentration curve oxylum aramatum essential oil against Sitophilus zeamais, a
+ major pest of stored grains. Essential oils have been increas-
+When the glass vial bioassay was conducted without provid- ingly studied for managing storage insect pests (Zimmer-
+ing food to the insects, the effect of essential oils on insect mann et al. 2021), maize grain bioassay, focusing on mortal-
+survival was observed up to 168 h and 216 h for the two ity and repellency responses.",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00783.txt,HIGH,REJECT,LC_LD_TABLE
+SZ_00784,Determination of chemical composition and insecticidal potential of leaf essential oil of Mentha piperita L.,1,Chemical Composition of Leaf Essential Oil of M. piperita,356,0,5,"Table 1 Chemical Composition of Leaf Essential Oil of M. piperita
+ S/N Compounda RIb RIc Composition (%) Mass Spectral Datad
+ 1 α-Thujene 931 928 Tr 136 93 77 65
+ 2 α-Pinene 936 936 0.2 136 121 93 77
+ 3 Octen-3-ol 974 978 0.2 99 85 72 57
+ 4 p-cymene 1022 1024 Tr 134 124 119 91
+ 5 Limonene 1027 1031 5.5 136 121 93 68
+ 6 1,8-cineole 1028 1033 5.6 154 139 81 71
+ 7 γ-terpinene 1057 1062 0.3 136 121 93 77
+ 8 α-terpineol 1188 1189 0.2 136 121 93 59
+ 9 Trans-limonene oxide 1136 1138 0.8 137 108 94 79
+ 10 Menthone 1156 1137 12.3 154 139 112 69
+ 11 Isopulegol 1158 1146 0.2 154 138 109 94
+ 1572
+ World Journal of Advanced Research and Reviews, 2024, 21(01), 1570–1576
+ 12 Menthol 1165 1163 40.4 138 123 95 71
+ 13 Menthofuran 1176 1165 9.2 150 108 79 39
+ 14 Carvone 1261 1242 1.1 150 108 82 54
+ 15 Menthyl acetate 1295 1281 1.6 138 95 81 43
+ 16 Neoisomenthol 1166 1166 0.8 156 138 81 71
+ 17 Trans-carveyl acetate 1335 1337 2.2 152 119 109 84
+ 18 Decanoic acid 1374 1376 0.3 172 129 73 60
+ 19 γ-Elemene 1554 1555 2.3 204 161 121 95
+ 20 Aromadendrene 1438 1439 0.2 204 161 105 91
+ 21 β-caryophyllene 1417 1418 2.8 204 161 133 93
+ 22 β-farnesene 1456 1458 0.2 204 161 93 69
+ 23 Cis-Muurola-4,5-diene 1462 1464 0.4 204 161 94 81
+ 24 Germacrene D 1479 1480 2.3 204 161 105 91
+ 25 α-Humulene 1452 1456 0.2 204 147 121 93
+ 26 Bicyclogermacrene 1492 1494 1.3 204 161 121 95
+ 27 γ-muurolene 1475 1477 0.8 204 161 119 105
+ 28 Trans-calamenene 1522 1528 1.1 202 159 144 129
+ 29 Spathulenol 1575 1578 0.2 220 205 159 91
+ 30 Epicubenol 1628 1626 1.3 204 189 161 119
+ 31 Caryophyllene oxide 1582 1581 0.6 220 109 79 43
+ 32 Carotol 1595 1595 0.3 204 179 161 69
+ 33 α-cadinol 1655 1653 0.9 220 189 91 41
+ 34 Aromadendrene oxide 1703 1702 0.3 220 189 91 41
+ 35 δ-Cadinene 1523 1524 0.3 204 161 119 69
+ 36 Pulegone 1240 1234 1.1 155 152 109 81
+ 37 Piperitone 1248 1341 0.6 152 137 110 82
+ 38 Valencene 1490 1492 0.3 204 161 105 91
+ 39 Viridiflorol 1596 1591 0.4 204 161 109 43
+ Total (%) 98.9
+KEY: a-compounds listed in order of elution from DB-5 column; b-retention indices in relation to n-alkane series; c-retention indices from literature;
+ tr-trace, d-mass spectral data, base peak in bold.
+3.3. Insecticidal Activity
+The result of the percentage mortality of Callosobruchus maculatus (bean weevils) and Sitophilus zeamais (maize
+weevils) after exposure to 10µl vapour of essential oils from leaves of M.piperita in fumigation chambers for 6, 12, 18
+and 24 hours is presented in Table 2.
+At the end of six hours of exposure, the oil obtained from the leaves of M. piperita caused 60 and 56% mortality of C.
+maculatus and S. zeamais respectively. The % mortality increased to 66 and 62% respectively after 12 hours’ exposure
+time. After 18 hours’ exposure time, a mortality of 84 and 74% were recorded, and at the end of 24 hours’ exposure
+time, 90 and 88% mortality was obtained respectively. No mortality was observed in the negative control. The standard
+insecticide (Dichlorvos) reported % mortalities of 66, 74, 82 and 92% after exposure times of 6, 12, 18 and 24 hours
+respectively. The % mortality increased with exposure time for both insect pests.
+ 1573
+ World Journal of Advanced Research and Reviews, 2024, 21(01), 1570–1576",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00784.txt,HIGH,REJECT,OTHER_OUTCOME
+SZ_00535,COMPARATIVE EFFECTS OF GARLIC (ALLIUM SATIVUM) BULB AND BULB COAT POWDER ON MAIZE WEEVILS (SITOPHILUS ZEAMAIS),1,– Phytochemical Constituents of the Bulb and Bulb Coat Powders of Garlic,37,0,13," Table 1 – Phytochemical Constituents of the Bulb and Bulb Coat Powders of Garlic
+Constituents Bulb Powder Bulb Coat Powder
+Alkaloids +++ ++
+Tannins ++ -
+Flavonoids + -
+Saponins ++ +
+Carbohydrates +++ +++
+Steroids + +
+Anthraquinones + +
+Terpenoid + -
+ The result revealed that both garlic bulb and garlic bulb coat had high mortality at 5g for
+24 and 48 hours post treatment. The bulb powder had the highest mortality of 37.8% and
+31.0% (5 and 4g) with least mortality of 17.8% and 17.2% (3 and 2g); while the bulb coat
+powder had highest mortality of 36.4% and 36.1(5 and 4g) with least mortality of 13.6% and
+16.7% (3 and 2g). For 72 and 96 hours post treatment, the garlic bulb powder had a high
+mortality of 36.1% and 33.3% at (5and 4g) and least mortality of 15.8% and 14.3% (3 and
+2g). The mortality caused by the garlic bulb coat powder at 72 and 96 hours post treatments
+were 26.3% and 28.6% for 5 and 4g respectively. The decline in mortality observed after 120
+hours of treatment may not be unconnected with the fact that the potency of most chemicals
+decrease with increasing time and the mortality observed in the control may probably be due
+to environmental factors.",/home/bacte/sitophilus_meta/05_extraction/fulltext/SZ_00535.txt,HIGH,REJECT,OTHER_OUTCOME

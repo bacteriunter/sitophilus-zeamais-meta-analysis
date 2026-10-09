@@ -1,0 +1,15 @@
+moderator,level,observations,studies,experiments,treatments
+formulation,nan,62,5,5,16
+formulation,powder,42,4,5,10
+formulation,crude extract/contact,15,1,1,3
+formulation,extract/fumigation,15,1,1,3
+formulation,powder/fumigation,15,1,1,3
+formulation,fumigation,5,1,1,1
+dose_unit,g/kg,52,4,4,14
+dose_unit,ml,50,2,3,7
+dose_unit,g,30,1,2,3
+dose_unit,% w/w,6,1,2,2
+dose_unit,g/20g grain,5,1,1,1
+dose_unit,uL/L air,5,1,1,1
+dose_unit,g/100g,3,1,1,1
+dose_unit,ml/kg,3,1,1,1

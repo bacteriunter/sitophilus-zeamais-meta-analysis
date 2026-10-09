@@ -1,0 +1,33 @@
+FINAL REVIEW ELIGIBILITY AUDIT
+===========================================================================
+Full-text reports assessed: 151
+
+Scope INCLUDE: 58
+Included in quantitative mortality synthesis: 9
+Scope INCLUDE but not mortality meta-analysis: 49
+Scope REVIEW unresolved: 2
+Scope EXCLUDE_AUTO: 1
+
+FINAL CLASSIFICATION
+---------------------------------------------------------------------------
+EXCLUDED_NOT_HIGH_CONFIDENCE_EXPERIMENTAL: 87
+INCLUDED_SYSTEMATIC_REVIEW: 49
+INCLUDED_QUANTITATIVE_MORTALITY: 9
+MANUAL_CHECK_NOT_INCLUDED: 3
+SCOPE_REVIEW_UNRESOLVED: 2
+EXCLUDED_SCOPE: 1
+
+SECONDARY OUTCOME SUPPORT
+---------------------------------------------------------------------------
+Validated F1 studies: 21
+HIGH weight-loss studies: 3
+HIGH germination studies: 3
+
+CONSISTENCY CHECKS
+---------------------------------------------------------------------------
+No structural inconsistencies detected.
+
+INTERPRETATION
+---------------------------------------------------------------------------
+The 9 studies in the mortality meta dataset represent the quantitative primary mortality synthesis and must not be interpreted automatically as the total number of studies included in the systematic review.
+Scope INCLUDE identifies studies retained after the strict scope audit. Secondary outcomes are synthesized descriptively unless explicitly classified for quantitative analysis.

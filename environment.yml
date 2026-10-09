@@ -1,0 +1,22 @@
+name: sitophilus_meta
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - numpy=2.2.6
+  - pandas=2.3.2
+  - scipy=1.15.2
+  - statsmodels=0.14.5
+  - matplotlib=3.10.6
+  - seaborn=0.13.2
+  - requests=2.32.5
+  - biopython=1.85
+  - rapidfuzz=3.14.5
+  - tqdm=4.67.1
+  - openpyxl=3.1.5
+  - lxml=6.0.2
+  - pip
+  - pip:
+      - crossrefapi==1.7.0

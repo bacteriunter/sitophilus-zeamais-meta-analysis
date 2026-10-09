@@ -1,0 +1,16 @@
+species_material,intervention_class,n_observations,n_studies,mortality_min,mortality_median,mortality_mean,mortality_max,time_min_h,time_max_h
+Annona senegalensis,botanical,4,1,3.0,4.0,4.5,7.0,336.0,336.0
+Azadirachta indica,botanical,7,2,13.0,38.0,56.76714285714286,100.0,336.0,336.0
+Coleus amboinicus,botanical,60,1,30.0,71.66499999999999,74.66683333333334,100.0,96.0,120.0
+Cow horn ash,natural material,3,1,70.0,80.0,78.75,86.25,168.0,168.0
+Hymenocardia acida,natural material,7,2,69.08,90.64,86.68714285714285,98.53,336.0,336.0
+Hymenocardia acida + Azadirachta indica,botanical/natural material mixture,3,1,86.4,100.0,95.46666666666665,100.0,336.0,336.0
+Lippia lanceolata,botanical,3,1,42.61,97.22,79.04333333333334,97.3,336.0,336.0
+Lippia lanceolata + Azadirachta indica,botanical mixture,3,1,83.37,100.0,94.45666666666666,100.0,336.0,336.0
+Ocimum gratissimum,botanical,5,1,68.67,87.0,86.8,100.0,72.0,72.0
+Plectranthus glandulosus,botanical,8,2,10.0,40.165,43.61625,83.0,336.0,336.0
+Plectranthus glandulosus + Hymenocardia acida,botanical/natural material mixture,12,1,56.07,80.88499999999999,77.57166666666667,94.59,336.0,336.0
+Steganotaenia araliacea,botanical,4,1,2.0,4.0,3.75,5.0,336.0,336.0
+Syzygium aromaticum,botanical,6,1,90.0,95.0,94.33333333333333,100.0,96.0,96.0
+Tithonia diversifolia,botanical,20,1,10.0,30.0,33.4995,76.67,336.0,336.0
+Wedelia trilobata,botanical,9,1,0.0,2.5,3.611111111111111,12.5,24.0,288.0

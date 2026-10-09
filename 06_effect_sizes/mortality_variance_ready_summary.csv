@@ -1,0 +1,10 @@
+study_record_id,comparisons,replicate_n,variance_ready,zero_control_sd,zero_treatment_sd,mortality_basis
+SZ_00071,20,4,0,0,0,RAW
+SZ_00124,3,4,3,3,0,RAW
+SZ_00288,20,3,20,20,7,RAW
+SZ_00401,6,4,6,6,2,RAW
+SZ_00424,15,4,15,15,6,CORRECTED
+SZ_00549,9,4,9,9,3,RAW
+SZ_00600,60,3,60,60,35,RAW
+SZ_00668,5,3,5,5,1,RAW
+SZ_00802,16,3,16,8,3,RAW

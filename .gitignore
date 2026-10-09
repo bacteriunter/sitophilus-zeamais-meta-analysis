@@ -1,0 +1,77 @@
+# ============================================
+# SITOPHILUS META - GITIGNORE
+# ============================================
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Entornos
+.venv/
+venv/
+env/
+conda-meta/
+.ipynb_checkpoints/
+
+# Credenciales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*token*.json
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*~
+*.swp
+*.swo
+
+# Archivos de artículos de terceros
+04_pdfs/pdf/
+04_pdfs/xml/
+04_pdfs/text/
+04_pdfs/fulltext/
+04_pdfs/**/*.pdf
+04_pdfs/**/*.xml
+
+# Archivos temporales y descargas parciales
+*.tmp
+*.temp
+*.part
+*.crdownload
+*.bak
+
+# Registros de ejecución
+*.log
+
+# Archivos comprimidos de descarga
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Archivos locales de configuración
+.local/
+.cache/
+
+# Textos completos extraídos de artículos científicos
+# Se conservan localmente, pero no se redistribuyen
+05_extraction/fulltext/
+
+# Archivos de texto temporales derivados de artículos
+05_extraction/**/*.txt
+
+# Fragmentos textuales extraídos de publicaciones
+05_extraction/evidence_windows/evidence_windows.csv
+
+# Fragmentos de artículos utilizados en auditorías de replicación
+06_effect_sizes/replication_evidence_audit.txt
